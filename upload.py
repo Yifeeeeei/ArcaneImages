@@ -75,7 +75,7 @@ def commit_single_file(file_path):
 def filter_card_only(files):
     card_numbers = []
     for file in files:
-        number_str = file.split(os.path.sep)[-1].split(".")[0]
+        number_str = file.split("/")[-1].split(".")[0]
         # see if it can be converted to an integer
         number = None
         try:
