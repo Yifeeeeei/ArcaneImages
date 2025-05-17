@@ -22,6 +22,118 @@
     "output_path": "output\\进阶版\\人物\\气\\4311001.jpg"
   },
   {
+    "number": "4311002",
+    "type": "人物",
+    "name": "\"渡鸦\" 睿文",
+    "category": "气",
+    "tag": "",
+    "description": "你的起始手牌数与换牌机会+1",
+    "quote": "凌晨,他们冲入囚室,但是房间内空无一人,地上只有一根黑色的羽毛",
+    "elements_cost": {},
+    "elements_gain": {
+      "气": 4
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 15,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {},
+    "spawns": [],
+    "output_path": "output\\进阶版\\人物\\气\\4311002.jpg"
+  },
+  {
+    "number": "4311003",
+    "type": "人物",
+    "name": "掌门 穆伶",
+    "category": "气",
+    "tag": "",
+    "description": "绝技:选择法力范围内双方各1个伙伴,花费它们入场费用差值的\\气,将它们移回手牌",
+    "quote": "\"时过境迁,世上不再会有我们的立足之地\"",
+    "elements_cost": {},
+    "elements_gain": {
+      "气": 4
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 15,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {},
+    "spawns": [],
+    "output_path": "output\\进阶版\\人物\\气\\4311003.jpg"
+  },
+  {
+    "number": "4411001",
+    "type": "人物",
+    "name": "森林隐士 白须",
+    "category": "地",
+    "tag": "",
+    "description": "你可以用检索1张地属性野兽、植物或精灵来代替你首个回合的回合开始抽牌",
+    "quote": "人们相信,白须能听懂动物说的话.这可能也就是为什么他在海边洗脚时会戴上耳塞",
+    "elements_cost": {},
+    "elements_gain": {
+      "地": 4
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 15,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {},
+    "spawns": [],
+    "output_path": "output\\进阶版\\人物\\地\\4411001.jpg"
+  },
+  {
+    "number": "4411002",
+    "type": "人物",
+    "name": "大法师 安德鲁",
+    "category": "地",
+    "tag": "",
+    "description": "在游戏开始前,将灵兽 辛柯置于你的牌组",
+    "quote": "年少时总想展翅翱翔,长大后发现只有亲身走出来的才是属于自己的道路",
+    "elements_cost": {},
+    "elements_gain": {
+      "地": 4
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 15,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {},
+    "spawns": [
+      "1401002"
+    ],
+    "output_path": "output\\进阶版\\人物\\地\\4411002.jpg"
+  },
+  {
+    "number": "4411003",
+    "type": "人物",
+    "name": "麦吉教授",
+    "category": "地",
+    "tag": "",
+    "description": "你的打出或学习的第一张原始费用大于5的卡牌费用减少2\\地",
+    "quote": "《地理学入门》成功将没人听得懂的东西,弄成了没人愿意听的东西",
+    "elements_cost": {},
+    "elements_gain": {
+      "地": 4
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 15,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {},
+    "spawns": [],
+    "output_path": "output\\进阶版\\人物\\地\\4411003.jpg"
+  },
+  {
     "number": "4111001",
     "type": "人物",
     "name": "掌门 龙卷火",
@@ -45,52 +157,6 @@
       "3101002"
     ],
     "output_path": "output\\进阶版\\人物\\火\\4111001.jpg"
-  },
-  {
-    "number": "4611001",
-    "type": "人物",
-    "name": "暗影学者 爱莉斯",
-    "category": "暗",
-    "tag": "",
-    "description": "回合技:当1个你的伙伴死亡,使你的1个法术+1\\威",
-    "quote": "\"这本叫'群屿编年史'的,真是我见过最富想象力的东西\"——\"观察者\" 欧柯茹",
-    "elements_cost": {},
-    "elements_gain": {
-      "暗": 2,
-      "法": 8
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 15,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {},
-    "spawns": [],
-    "output_path": "output\\进阶版\\人物\\暗\\4611001.jpg"
-  },
-  {
-    "number": "4211001",
-    "type": "人物",
-    "name": "\"浪之人\" 巴特尔",
-    "category": "水",
-    "tag": "",
-    "description": "绝技:本回合你将要打出的下一张手牌负载条件全部变为等量的\\水",
-    "quote": "\"把这个带上吧\"人鱼手捧一小块蓝色的晶石,\"它会带给你...好运\"",
-    "elements_cost": {},
-    "elements_gain": {
-      "水": 2,
-      "法": 5
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 10,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {},
-    "spawns": [],
-    "output_path": "output\\进阶版\\人物\\水\\4211001.jpg"
   },
   {
     "number": "2211001",
@@ -119,16 +185,17 @@
     "output_path": "output\\进阶版\\道具\\水\\2211001.jpg"
   },
   {
-    "number": "4411001",
+    "number": "4611001",
     "type": "人物",
-    "name": "森林隐士 白须",
-    "category": "地",
+    "name": "暗影学者 爱莉斯",
+    "category": "暗",
     "tag": "",
-    "description": "你可以用检索1张地属性野兽、植物或精灵来代替你首个回合的回合开始抽牌",
-    "quote": "人们相信,白须能听懂动物说的话.这可能也就是为什么他在海边洗脚时会戴上耳塞",
+    "description": "回合技:当1个你的伙伴死亡,使你的1个法术+1\\威",
+    "quote": "\"这本叫'群屿编年史'的,真是我见过最富想象力的东西\"——\"观察者\" 欧柯茹",
     "elements_cost": {},
     "elements_gain": {
-      "地": 4
+      "暗": 2,
+      "法": 8
     },
     "version_number": "1",
     "version_name": "进阶版",
@@ -138,33 +205,101 @@
     "power": -1,
     "elements_expense": {},
     "spawns": [],
-    "output_path": "output\\进阶版\\人物\\地\\4411001.jpg"
+    "output_path": "output\\进阶版\\人物\\暗\\4611001.jpg"
   },
   {
-    "number": "1211001",
-    "type": "伙伴",
-    "name": "人鱼 菲尔",
-    "category": "水",
-    "tag": "传奇-异兽",
-    "description": "祈咒:如果此卡相邻没有伙伴,检索1张水纹伙伴",
-    "quote": "合上眼睛,她回忆起曾经的海浪,礁石...以及她信任的那位王子",
-    "elements_cost": {
-      "水": 3
-    },
+    "number": "4611002",
+    "type": "人物",
+    "name": "芙雅夫人",
+    "category": "暗",
+    "tag": "",
+    "description": "绝技:使你的1个伙伴攻击和负载翻倍,但会在回合结束时死亡",
+    "quote": "\"你是想现在就为我服务,还是死后再为我服务?\"",
+    "elements_cost": {},
     "elements_gain": {
-      "水": 1
+      "暗": 2,
+      "法": 8
     },
     "version_number": "1",
     "version_name": "进阶版",
     "attack": -1,
-    "life": 1,
+    "life": 15,
     "duration": -1,
     "power": -1,
-    "elements_expense": {
-      "法": 3
-    },
+    "elements_expense": {},
     "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\水\\1211001.jpg"
+    "output_path": "output\\进阶版\\人物\\暗\\4611002.jpg"
+  },
+  {
+    "number": "4611003",
+    "type": "人物",
+    "name": "咒言师 结影",
+    "category": "暗",
+    "tag": "",
+    "description": "游戏开始前,将三张咒言书洗入你的卡组",
+    "quote": "\"书是人的养料,人也可以是书的养料\"",
+    "elements_cost": {},
+    "elements_gain": {
+      "暗": 2,
+      "法": 8
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 15,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {},
+    "spawns": [
+      "2601002"
+    ],
+    "output_path": "output\\进阶版\\人物\\暗\\4611003.jpg"
+  },
+  {
+    "number": "4011001",
+    "type": "人物",
+    "name": "\"南境百灵\" 斯卡尔蒂 罗佳",
+    "category": "无",
+    "tag": "",
+    "description": "回合技:丢弃1张手牌,临时获得1点该卡牌属性种类的负载",
+    "quote": "发表获奖感言时,这位闪耀的歌星热泪盈眶:\"尽管我未能成功毕业,但我要特别感谢我曾经的地脉法术教师耶伦尔,在所有人不看好我的情况下,他却说我是一个发展均衡,充满潜力的孩子\"",
+    "elements_cost": {},
+    "elements_gain": {
+      "无": 1,
+      "法": 8
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 15,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {},
+    "spawns": [],
+    "output_path": "output\\进阶版\\人物\\无\\4011001.jpg"
+  },
+  {
+    "number": "4011002",
+    "type": "人物",
+    "name": "\"无面\"",
+    "category": "无",
+    "tag": "",
+    "description": "每当你让1张与你场上原有卡牌属性相同的卡牌入场,你受到2点伤害",
+    "quote": "凡有所相,皆是虚妄",
+    "elements_cost": {},
+    "elements_gain": {
+      "无": 2,
+      "法": 8
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 12,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {},
+    "spawns": [],
+    "output_path": "output\\进阶版\\人物\\无\\4011002.jpg"
   },
   {
     "number": "4511001",
@@ -190,52 +325,16 @@
     "output_path": "output\\进阶版\\人物\\光\\4511001.jpg"
   },
   {
-    "number": "1011001",
-    "type": "伙伴",
-    "name": "魔龙 奥瑞",
-    "category": "无",
-    "tag": "传奇-龙",
-    "description": "引魔.绑定技能:破灭魔光",
-    "quote": "吾即是始源,吾即是终焉,不生不灭,万法归一",
-    "elements_cost": {
-      "地": 1,
-      "无": 5,
-      "气": 1,
-      "水": 1,
-      "火": 1
-    },
-    "elements_gain": {
-      "地": 1,
-      "无": 1,
-      "气": 1,
-      "水": 1,
-      "火": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 3,
-    "life": 9,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 5
-    },
-    "spawns": [
-      "3001001"
-    ],
-    "output_path": "output\\进阶版\\伙伴\\无\\1011001.jpg"
-  },
-  {
-    "number": "4011001",
+    "number": "4511002",
     "type": "人物",
-    "name": "\"南境百灵\" 斯卡尔蒂 罗佳",
-    "category": "无",
+    "name": "神之眷子 爱里默",
+    "category": "光",
     "tag": "",
-    "description": "回合技:丢弃1张手牌,临时获得1点该卡牌属性种类的负载",
-    "quote": "发表获奖感言时,这位闪耀的歌星热泪盈眶:\"尽管我未能成功毕业,但我要特别感谢我曾经的地脉法术教师耶伦尔,在所有人不看好我的情况下,他却说我是一个发展均衡,充满潜力的孩子\"",
+    "description": "在游戏开始前:将5张桎梏置于对手的牌组,当全部被解除(进入弃牌堆)时获得绝技:移除场上最多3张人物牌以外的卡牌",
+    "quote": "桎梏下的鸟儿,是否终能有飞翔的一天?",
     "elements_cost": {},
     "elements_gain": {
-      "无": 1,
+      "光": 2,
       "法": 8
     },
     "version_number": "1",
@@ -245,8 +344,445 @@
     "duration": -1,
     "power": -1,
     "elements_expense": {},
+    "spawns": [
+      "2501001"
+    ],
+    "output_path": "output\\进阶版\\人物\\光\\4511002.jpg"
+  },
+  {
+    "number": "4511003",
+    "type": "人物",
+    "name": "骑士团长 蕾曦娅",
+    "category": "光",
+    "tag": "",
+    "description": "在游戏开始前,用\"团结的希望\"替换你的技能池中的\"希望呼唤\"",
+    "quote": "\"选择与被选择,都是一种奢侈\"",
+    "elements_cost": {},
+    "elements_gain": {
+      "光": 2,
+      "法": 8
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 15,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {},
+    "spawns": [
+      "3501001"
+    ],
+    "output_path": "output\\进阶版\\人物\\光\\4511003.jpg"
+  },
+  {
+    "number": "3101001",
+    "type": "技能",
+    "name": "火焰吐息",
+    "category": "火",
+    "tag": "衍生-法术-聚能",
+    "description": "",
+    "quote": "",
+    "elements_cost": {},
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 2,
+    "life": -1,
+    "duration": -1,
+    "power": 5,
+    "elements_expense": {
+      "法": 1
+    },
     "spawns": [],
-    "output_path": "output\\进阶版\\人物\\无\\4011001.jpg"
+    "output_path": "output\\进阶版\\技能\\火\\3101001.jpg"
+  },
+  {
+    "number": "3101002",
+    "type": "技能",
+    "name": "万火合一术",
+    "category": "火",
+    "tag": "衍生-法术-聚能",
+    "description": "每5点\\威获得+1\\攻",
+    "quote": "",
+    "elements_cost": {
+      "火": 3
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 1,
+    "life": -1,
+    "duration": -1,
+    "power": 5,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\火\\3101002.jpg"
+  },
+  {
+    "number": "3121001",
+    "type": "技能",
+    "name": "火球术",
+    "category": "火",
+    "tag": "法术-创造",
+    "description": "",
+    "quote": "巫师学院里有一个传说,你可以看到五颜六色的火焰,蓝色的、绿色的、黑色的,唯独没有红色的",
+    "elements_cost": {
+      "火": 2
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 1,
+    "life": -1,
+    "duration": -1,
+    "power": 3,
+    "elements_expense": {
+      "法": 1
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\火\\3121001.jpg"
+  },
+  {
+    "number": "3121002",
+    "type": "技能",
+    "name": "焚烧",
+    "category": "火",
+    "tag": "法术-幻变",
+    "description": "攻击时目标具有点燃则+1\\攻+2\\威",
+    "quote": "",
+    "elements_cost": {
+      "火": 4
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 2,
+    "life": -1,
+    "duration": -1,
+    "power": 4,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\火\\3121002.jpg"
+  },
+  {
+    "number": "3121003",
+    "type": "技能",
+    "name": "炽热射线",
+    "category": "火",
+    "tag": "法术-聚能",
+    "description": "点燃2",
+    "quote": "",
+    "elements_cost": {
+      "火": 4
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 1,
+    "life": -1,
+    "duration": -1,
+    "power": 4,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\火\\3121003.jpg"
+  },
+  {
+    "number": "3121004",
+    "type": "技能",
+    "name": "燃烧大地",
+    "category": "火",
+    "tag": "法术-驱动",
+    "description": "范围:前排",
+    "quote": "",
+    "elements_cost": {
+      "火": 4
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 1,
+    "life": -1,
+    "duration": -1,
+    "power": 5,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\火\\3121004.jpg"
+  },
+  {
+    "number": "3121005",
+    "type": "技能",
+    "name": "烈焰风暴",
+    "category": "火",
+    "tag": "法术-创造",
+    "description": "攻击.范围:方阵.点燃1",
+    "quote": "",
+    "elements_cost": {
+      "气": 1,
+      "火": 5
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 2,
+    "life": -1,
+    "duration": -1,
+    "power": 6,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\火\\3121005.jpg"
+  },
+  {
+    "number": "3121006",
+    "type": "技能",
+    "name": "陨石术",
+    "category": "火",
+    "tag": "法术-驱动",
+    "description": "攻击.穿透",
+    "quote": "",
+    "elements_cost": {
+      "地": 1,
+      "火": 6
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 4,
+    "life": -1,
+    "duration": -1,
+    "power": 8,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\火\\3121006.jpg"
+  },
+  {
+    "number": "3121007",
+    "type": "技能",
+    "name": "激情之火",
+    "category": "火",
+    "tag": "咒术-聚能",
+    "description": "速攻.冷却1.异能:你的火焰法术命中时抽1张牌",
+    "quote": "",
+    "elements_cost": {
+      "火": 4
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": 1,
+    "power": -1,
+    "elements_expense": {
+      "法": 1
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\火\\3121007.jpg"
+  },
+  {
+    "number": "3121008",
+    "type": "技能",
+    "name": "火焰结界",
+    "category": "火",
+    "tag": "咒术-创造",
+    "description": "冷却1.异能:你的火焰法术获得点燃1和+2\\威",
+    "quote": "",
+    "elements_cost": {
+      "火": 5
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": 1,
+    "power": -1,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\火\\3121008.jpg"
+  },
+  {
+    "number": "3121009",
+    "type": "技能",
+    "name": "爆焰一击",
+    "category": "火",
+    "tag": "法术-聚能",
+    "description": "",
+    "quote": "",
+    "elements_cost": {
+      "火": 6
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 3,
+    "life": -1,
+    "duration": -1,
+    "power": 7,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\火\\3121009.jpg"
+  },
+  {
+    "number": "3121010",
+    "type": "技能",
+    "name": "岩浆爆发",
+    "category": "火",
+    "tag": "法术-驱动",
+    "description": "攻击.范围:方阵.穿透.点燃2",
+    "quote": "",
+    "elements_cost": {
+      "地": 1,
+      "火": 6
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 2,
+    "life": -1,
+    "duration": -1,
+    "power": 7,
+    "elements_expense": {
+      "法": 4
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\火\\3121010.jpg"
+  },
+  {
+    "number": "3121011",
+    "type": "技能",
+    "name": "引燃",
+    "category": "火",
+    "tag": "咒术-幻变",
+    "description": "速攻.使1个敌方单位点燃1",
+    "quote": "",
+    "elements_cost": {
+      "火": 2
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 1
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\火\\3121011.jpg"
+  },
+  {
+    "number": "3121012",
+    "type": "技能",
+    "name": "烈焰护体",
+    "category": "火",
+    "tag": "法术-创造",
+    "description": "防御",
+    "quote": "",
+    "elements_cost": {
+      "火": 1
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 0,
+    "life": -1,
+    "duration": -1,
+    "power": 4,
+    "elements_expense": {
+      "法": 1
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\火\\3121012.jpg"
+  },
+  {
+    "number": "3121013",
+    "type": "技能",
+    "name": "烈焰反噬",
+    "category": "火",
+    "tag": "法术-驱动",
+    "description": "防御.若防御成功,对敌方人物造成点燃1",
+    "quote": "",
+    "elements_cost": {
+      "火": 3
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 0,
+    "life": -1,
+    "duration": -1,
+    "power": 5,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\火\\3121013.jpg"
+  },
+  {
+    "number": "3121014",
+    "type": "技能",
+    "name": "烈焰重燃",
+    "category": "火",
+    "tag": "咒术-聚能",
+    "description": "获得1\\法.本回合你每使用过1个火焰法术就获得1\\法",
+    "quote": "",
+    "elements_cost": {
+      "火": 2
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 1
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\火\\3121014.jpg"
+  },
+  {
+    "number": "3121015",
+    "type": "技能",
+    "name": "焚风",
+    "category": "火",
+    "tag": "法术-驱动",
+    "description": "攻击.穿透.强化其他法术时使其获得穿透",
+    "quote": "",
+    "elements_cost": {
+      "气": 1,
+      "火": 3
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 1,
+    "life": -1,
+    "duration": -1,
+    "power": 3,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\火\\3121015.jpg"
   },
   {
     "number": "2111001",
@@ -273,6 +809,50 @@
     },
     "spawns": [],
     "output_path": "output\\进阶版\\道具\\火\\2111001.jpg"
+  },
+  {
+    "number": "2021001",
+    "type": "道具",
+    "name": "秘法宝典",
+    "category": "无",
+    "tag": "装备",
+    "description": "+1\\法回复",
+    "quote": "",
+    "elements_cost": {
+      "无": 4
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\无\\2021001.jpg"
+  },
+  {
+    "number": "2021005",
+    "type": "道具",
+    "name": "瓶装元素",
+    "category": "无",
+    "tag": "消耗品-药剂",
+    "description": "获得1\\法",
+    "quote": "如果你的包还没装满,塞一瓶这个总归能派上用场",
+    "elements_cost": {},
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {},
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\无\\2021005.jpg"
   },
   {
     "number": "1111001",
@@ -303,84 +883,146 @@
     "output_path": "output\\进阶版\\伙伴\\火\\1111001.jpg"
   },
   {
-    "number": "4311002",
-    "type": "人物",
-    "name": "\"渡鸦\" 睿文",
-    "category": "气",
-    "tag": "",
-    "description": "你的起始手牌数与换牌机会+1",
-    "quote": "凌晨,他们冲入囚室,但是房间内空无一人,地上只有一根黑色的羽毛",
-    "elements_cost": {},
-    "elements_gain": {
-      "气": 4
+    "number": "1111002",
+    "type": "伙伴",
+    "name": "炎狱大将军 狄斯托德",
+    "category": "火",
+    "tag": "传奇-巫师",
+    "description": "每当对方召唤1个伙伴,使其获得点燃2和石化2.每当敌方伙伴因点燃死亡,获得2\\法",
+    "quote": "\"我的使命,就是将地狱带到人间\"",
+    "elements_cost": {
+      "地": 2,
+      "火": 6
     },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 15,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {},
-    "spawns": [],
-    "output_path": "output\\进阶版\\人物\\气\\4311002.jpg"
-  },
-  {
-    "number": "4611002",
-    "type": "人物",
-    "name": "芙雅夫人",
-    "category": "暗",
-    "tag": "",
-    "description": "绝技:使你的1个伙伴攻击和负载翻倍,但会在回合结束时死亡",
-    "quote": "\"你是想现在就为我服务,还是死后再为我服务?\"",
-    "elements_cost": {},
-    "elements_gain": {
-      "暗": 2,
-      "法": 8
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 15,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {},
-    "spawns": [],
-    "output_path": "output\\进阶版\\人物\\暗\\4611002.jpg"
-  },
-  {
-    "number": "3001001",
-    "type": "技能",
-    "name": "破灭魔光",
-    "category": "无",
-    "tag": "衍生-法术-聚能",
-    "description": "范围:前排.无法强化或被强化",
-    "quote": "",
-    "elements_cost": {},
     "elements_gain": {},
     "version_number": "1",
     "version_name": "进阶版",
-    "attack": 3,
-    "life": -1,
+    "attack": 2,
+    "life": 6,
     "duration": -1,
-    "power": 10,
+    "power": -1,
+    "elements_expense": {
+      "法": 5
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\火\\1111002.jpg"
+  },
+  {
+    "number": "1111003",
+    "type": "伙伴",
+    "name": "毕方",
+    "category": "火",
+    "tag": "传奇-异兽",
+    "description": "引魔.敌方单位受到的点燃伤害+1",
+    "quote": "始于灰烬,终于灰烬",
+    "elements_cost": {
+      "火": 3
+    },
+    "elements_gain": {
+      "火": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 3,
+    "duration": -1,
+    "power": -1,
     "elements_expense": {
       "法": 3
     },
     "spawns": [],
-    "output_path": "output\\进阶版\\技能\\无\\3001001.jpg"
+    "output_path": "output\\进阶版\\伙伴\\火\\1111003.jpg"
   },
   {
-    "number": "4111002",
-    "type": "人物",
-    "name": "女巫 维兰德",
+    "number": "1121001",
+    "type": "伙伴",
+    "name": "火焰精灵",
     "category": "火",
+    "tag": "精灵",
+    "description": "",
+    "quote": "",
+    "elements_cost": {
+      "火": 1
+    },
+    "elements_gain": {
+      "火": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 1
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\火\\1121001.jpg"
+  },
+  {
+    "number": "1121002",
+    "type": "伙伴",
+    "name": "活泼的炉火",
+    "category": "火",
+    "tag": "造物",
+    "description": "入场:抽1张牌",
+    "quote": "",
+    "elements_cost": {
+      "火": 2
+    },
+    "elements_gain": {
+      "火": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\火\\1121002.jpg"
+  },
+  {
+    "number": "1211001",
+    "type": "伙伴",
+    "name": "人鱼 菲尔",
+    "category": "水",
+    "tag": "传奇-异兽",
+    "description": "祈咒:如果此卡相邻没有伙伴,检索1张水纹伙伴",
+    "quote": "合上眼睛,她回忆起曾经的海浪,礁石...以及她信任的那位王子",
+    "elements_cost": {
+      "水": 2
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 2,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\水\\1211001.jpg"
+  },
+  {
+    "number": "4211001",
+    "type": "人物",
+    "name": "\"浪之人\" 巴特尔",
+    "category": "水",
     "tag": "",
-    "description": "回合技:你获得点燃2,然后仅在本回合,将此卡负载的1\\火变为1\\无",
-    "quote": "\"别瞎说,我们可不敢烧女巫,是她自己烧的\"",
+    "description": "绝技:本回合你将要打出的下一张手牌等级条件和负载全部变为等量的\\水",
+    "quote": "\"把这个带上吧\"人鱼手捧一小块蓝色的晶石,\"它会带给你...好运\"",
     "elements_cost": {},
     "elements_gain": {
-      "法": 5,
-      "火": 2
+      "水": 2,
+      "法": 5
     },
     "version_number": "1",
     "version_name": "进阶版",
@@ -390,7 +1032,7 @@
     "power": -1,
     "elements_expense": {},
     "spawns": [],
-    "output_path": "output\\进阶版\\人物\\火\\4111002.jpg"
+    "output_path": "output\\进阶版\\人物\\水\\4211001.jpg"
   },
   {
     "number": "4211002",
@@ -418,53 +1060,73 @@
     "output_path": "output\\进阶版\\人物\\水\\4211002.jpg"
   },
   {
-    "number": "4411002",
+    "number": "4211003",
     "type": "人物",
-    "name": "大法师 安德鲁",
-    "category": "地",
+    "name": "凛冬城主 水晶心",
+    "category": "水",
     "tag": "",
-    "description": "在游戏开始前,将灵兽 辛柯置于你的牌组",
-    "quote": "年少时总想展翅翱翔,长大后发现只有亲身走出来的才是属于自己的道路",
+    "description": "绝技:在本回合剩余时间内,你技能区内的法术获得冻结1",
+    "quote": "\"卡姆陛下,我想凛冬城下的无数冰雕已经足够说明了,这里不需要一个国王\"",
     "elements_cost": {},
     "elements_gain": {
-      "地": 4
+      "水": 2,
+      "法": 5
     },
     "version_number": "1",
     "version_name": "进阶版",
     "attack": -1,
-    "life": 15,
+    "life": 10,
     "duration": -1,
     "power": -1,
     "elements_expense": {},
-    "spawns": [
-      "1401002"
-    ],
-    "output_path": "output\\进阶版\\人物\\地\\4411002.jpg"
+    "spawns": [],
+    "output_path": "output\\进阶版\\人物\\水\\4211003.jpg"
   },
   {
-    "number": "4511002",
+    "number": "4111002",
     "type": "人物",
-    "name": "神之眷子 爱里默",
-    "category": "光",
+    "name": "女巫 维兰德",
+    "category": "火",
     "tag": "",
-    "description": "在游戏开始前:将5张桎梏置于对手的牌组,当全部被解除(进入弃牌堆)时获得绝技:移除场上最多3张人物牌以外的卡牌",
-    "quote": "桎梏下的鸟儿,是否终能有飞翔的一天?",
+    "description": "回合技:你获得点燃1,然后仅在本回合,将此卡负载的1\\火变为1\\无",
+    "quote": "\"别瞎说,我们可不敢烧女巫,是她自己烧的\"",
     "elements_cost": {},
     "elements_gain": {
-      "光": 2,
-      "法": 8
+      "法": 5,
+      "火": 2
     },
     "version_number": "1",
     "version_name": "进阶版",
     "attack": -1,
-    "life": 15,
+    "life": 10,
     "duration": -1,
     "power": -1,
     "elements_expense": {},
-    "spawns": [
-      "2501001"
-    ],
-    "output_path": "output\\进阶版\\人物\\光\\4511002.jpg"
+    "spawns": [],
+    "output_path": "output\\进阶版\\人物\\火\\4111002.jpg"
+  },
+  {
+    "number": "4111003",
+    "type": "人物",
+    "name": "大祭司 梵天",
+    "category": "火",
+    "tag": "",
+    "description": "绝技:本回合每当你的火焰法术命中,获得2\\法",
+    "quote": "\"我,梵天,带领全火焰门派,将追随我们唯一的王.愿祭坛之火庇佑她的王国\"",
+    "elements_cost": {},
+    "elements_gain": {
+      "法": 5,
+      "火": 2
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 10,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {},
+    "spawns": [],
+    "output_path": "output\\进阶版\\人物\\火\\4111003.jpg"
   },
   {
     "number": "2211002",
@@ -475,7 +1137,7 @@
     "description": "+2\\法回复.每当有玩家使用法术,可以花费1\\法储能1.绑定技能:凛冬将至",
     "quote": "一箭霜降,两箭严寒",
     "elements_cost": {
-      "水": 8
+      "水": 7
     },
     "elements_gain": {},
     "version_number": "1",
@@ -493,55 +1155,352 @@
     "output_path": "output\\进阶版\\道具\\水\\2211002.jpg"
   },
   {
-    "number": "1211002",
-    "type": "伙伴",
-    "name": "深渊巨口 利维坦",
+    "number": "2221001",
+    "type": "道具",
+    "name": "冰霜之心",
     "category": "水",
-    "tag": "传奇-异兽-深渊",
-    "description": "回合技:消灭法力范围内1个伙伴,下个你的回合不能使用此效果",
-    "quote": "\"只有一人能从巨口中存活,他便是那怪物命中注定的斩杀者\"",
+    "tag": "装备-防具",
+    "description": "敌方法术命中时献祭:该法术伤害变为0",
+    "quote": "",
     "elements_cost": {
-      "暗": 2,
-      "水": 5
+      "水": 2
     },
     "elements_gain": {
-      "暗": 1,
       "水": 1
     },
     "version_number": "1",
     "version_name": "进阶版",
     "attack": -1,
-    "life": 5,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\水\\2221001.jpg"
+  },
+  {
+    "number": "2221002",
+    "type": "道具",
+    "name": "冰霜符文",
+    "category": "水",
+    "tag": "消耗品-符文",
+    "description": "反制:当敌方召唤伙伴时,使其冻结1",
+    "quote": "",
+    "elements_cost": {
+      "无": 1
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 1
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\水\\2221002.jpg"
+  },
+  {
+    "number": "2221003",
+    "type": "道具",
+    "name": "冰封卷轴",
+    "category": "水",
+    "tag": "消耗品-卷轴",
+    "description": "使所有前排敌人冻结1",
+    "quote": "",
+    "elements_cost": {
+      "无": 1,
+      "水": 2
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {},
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\水\\2221003.jpg"
+  },
+  {
+    "number": "2221004",
+    "type": "道具",
+    "name": "玛涅斯之杖",
+    "category": "水",
+    "tag": "装备-武器",
+    "description": "+1\\法回复,你的水纹法术+1\\威",
+    "quote": "",
+    "elements_cost": {
+      "水": 2
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\水\\2221004.jpg"
+  },
+  {
+    "number": "2221005",
+    "type": "道具",
+    "name": "精力药剂",
+    "category": "水",
+    "tag": "消耗品-药剂",
+    "description": "反制:对方回合结束时,将你的全部法术重置",
+    "quote": "",
+    "elements_cost": {
+      "水": 1
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {},
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\水\\2221005.jpg"
+  },
+  {
+    "number": "2221006",
+    "type": "道具",
+    "name": "海之眷顾",
+    "category": "水",
+    "tag": "装备-饰物",
+    "description": "+2\\法回复",
+    "quote": "",
+    "elements_cost": {
+      "水": 5
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
     "duration": -1,
     "power": -1,
     "elements_expense": {
       "法": 4
     },
     "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\水\\1211002.jpg"
+    "output_path": "output\\进阶版\\道具\\水\\2221006.jpg"
   },
   {
-    "number": "4011002",
-    "type": "人物",
-    "name": "\"无面\"",
-    "category": "无",
-    "tag": "",
-    "description": "每当你让1张与你场上原有卡牌属性相同的卡牌入场,你受到2点伤害",
-    "quote": "凡有所相,皆是虚妄",
-    "elements_cost": {},
-    "elements_gain": {
-      "无": 2,
-      "法": 8
+    "number": "2221007",
+    "type": "道具",
+    "name": "凝霜手镯",
+    "category": "水",
+    "tag": "装备-饰物",
+    "description": "+1\\法回复",
+    "quote": "",
+    "elements_cost": {
+      "水": 2
     },
+    "elements_gain": {},
     "version_number": "1",
     "version_name": "进阶版",
     "attack": -1,
-    "life": 12,
+    "life": -1,
     "duration": -1,
     "power": -1,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\水\\2221007.jpg"
+  },
+  {
+    "number": "2221008",
+    "type": "道具",
+    "name": "水形之束卷轴",
+    "category": "水",
+    "tag": "消耗品-法术卷轴-驱动",
+    "description": "命中:若目标为伙伴牌,消耗该伙伴",
+    "quote": "",
+    "elements_cost": {
+      "水": 2
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 1,
+    "life": -1,
+    "duration": -1,
+    "power": 4,
     "elements_expense": {},
     "spawns": [],
-    "output_path": "output\\进阶版\\人物\\无\\4011002.jpg"
+    "output_path": "output\\进阶版\\道具\\水\\2221008.jpg"
+  },
+  {
+    "number": "2221009",
+    "type": "道具",
+    "name": "寒冰爆裂卷轴",
+    "category": "水",
+    "tag": "消耗品-法术卷轴-聚能",
+    "description": "范围:溅射.冻结1",
+    "quote": "",
+    "elements_cost": {
+      "无": 1,
+      "水": 4
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 1,
+    "life": -1,
+    "duration": -1,
+    "power": 5,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\水\\2221009.jpg"
+  },
+  {
+    "number": "2221010",
+    "type": "道具",
+    "name": "潮涌符文",
+    "category": "水",
+    "tag": "消耗品-符文",
+    "description": "反制:当敌方在一个回合内抽第三张牌时,获得3\\法",
+    "quote": "",
+    "elements_cost": {
+      "水": 2
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 1
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\水\\2221010.jpg"
+  },
+  {
+    "number": "2221011",
+    "type": "道具",
+    "name": "恩惠之雨",
+    "category": "水",
+    "tag": "消耗品-卷轴",
+    "description": "反制:当1个友方单位受伤后,使所有友方单位回复2\\血",
+    "quote": "",
+    "elements_cost": {
+      "水": 1
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\水\\2221011.jpg"
+  },
+  {
+    "number": "2221012",
+    "type": "道具",
+    "name": "水行之靴",
+    "category": "水",
+    "tag": "装备-防具",
+    "description": "入场:储能2.祈咒:你的人物每与一个水纹伙伴相邻,获得1\\法",
+    "quote": "",
+    "elements_cost": {
+      "水": 2
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\水\\2221012.jpg"
+  },
+  {
+    "number": "2221013",
+    "type": "道具",
+    "name": "深寒诅咒卷轴",
+    "category": "水",
+    "tag": "消耗品-卷轴",
+    "description": "使法力范围内的1个敌方伙伴永久冻结",
+    "quote": "",
+    "elements_cost": {
+      "水": 3
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\水\\2221013.jpg"
+  },
+  {
+    "number": "1011001",
+    "type": "伙伴",
+    "name": "魔龙 奥瑞",
+    "category": "无",
+    "tag": "传奇-龙",
+    "description": "引魔.绑定技能:破灭魔光",
+    "quote": "吾即是始源,吾即是终焉,不生不灭,万法归一",
+    "elements_cost": {
+      "地": 1,
+      "无": 5,
+      "气": 1,
+      "水": 1,
+      "火": 1
+    },
+    "elements_gain": {
+      "地": 1,
+      "无": 1,
+      "气": 1,
+      "水": 1,
+      "火": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 2,
+    "life": 8,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 6
+    },
+    "spawns": [
+      "3001001"
+    ],
+    "output_path": "output\\进阶版\\伙伴\\无\\1011001.jpg"
   },
   {
     "number": "1011002",
@@ -572,195 +1531,6 @@
     "output_path": "output\\进阶版\\伙伴\\无\\1011002.jpg"
   },
   {
-    "number": "2021001",
-    "type": "道具",
-    "name": "秘法宝典",
-    "category": "无",
-    "tag": "装备",
-    "description": "+1\\法回复",
-    "quote": "",
-    "elements_cost": {
-      "无": 4
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\无\\2021001.jpg"
-  },
-  {
-    "number": "4311003",
-    "type": "人物",
-    "name": "掌门 穆伶",
-    "category": "气",
-    "tag": "",
-    "description": "绝技:选择法力范围内双方各1个伙伴,花费它们入场费用差值的\\气,将它们移回手牌",
-    "quote": "\"时过境迁,世上不再会有我们的立足之地\"",
-    "elements_cost": {},
-    "elements_gain": {
-      "气": 4
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 15,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {},
-    "spawns": [],
-    "output_path": "output\\进阶版\\人物\\气\\4311003.jpg"
-  },
-  {
-    "number": "1111002",
-    "type": "伙伴",
-    "name": "炎狱大将军 狄斯托德",
-    "category": "火",
-    "tag": "传奇-巫师",
-    "description": "每当对方召唤1个伙伴,使其获得点燃2和石化2.每当敌方伙伴因点燃死亡,获得2\\法",
-    "quote": "\"我的使命,就是将地狱带到人间\"",
-    "elements_cost": {
-      "地": 2,
-      "火": 6
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 2,
-    "life": 6,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 5
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\火\\1111002.jpg"
-  },
-  {
-    "number": "4611003",
-    "type": "人物",
-    "name": "咒言师 结影",
-    "category": "暗",
-    "tag": "",
-    "description": "游戏开始前,将三张咒言书洗入你的卡组",
-    "quote": "\"书是人的养料,人也可以是书的养料\"",
-    "elements_cost": {},
-    "elements_gain": {
-      "暗": 2,
-      "法": 8
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 15,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {},
-    "spawns": [
-      "2601002"
-    ],
-    "output_path": "output\\进阶版\\人物\\暗\\4611003.jpg"
-  },
-  {
-    "number": "4211003",
-    "type": "人物",
-    "name": "凛冬城主 水晶心",
-    "category": "水",
-    "tag": "",
-    "description": "绝技:在本回合剩余时间内,你技能区内的法术获得冻结1",
-    "quote": "\"卡姆陛下,我想凛冬城下的无数冰雕已经足够说明了,这里不需要一个国王\"",
-    "elements_cost": {},
-    "elements_gain": {
-      "水": 2,
-      "法": 5
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 10,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {},
-    "spawns": [],
-    "output_path": "output\\进阶版\\人物\\水\\4211003.jpg"
-  },
-  {
-    "number": "4111003",
-    "type": "人物",
-    "name": "大祭司 梵天",
-    "category": "火",
-    "tag": "",
-    "description": "绝技:本回合每当你的火焰法术命中,获得2\\法",
-    "quote": "\"我,梵天,带领全火焰门派,将追随我们唯一的王.愿祭坛之火庇佑她的王国\"",
-    "elements_cost": {},
-    "elements_gain": {
-      "法": 5,
-      "火": 2
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 10,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {},
-    "spawns": [],
-    "output_path": "output\\进阶版\\人物\\火\\4111003.jpg"
-  },
-  {
-    "number": "4411003",
-    "type": "人物",
-    "name": "麦吉教授",
-    "category": "地",
-    "tag": "",
-    "description": "你的打出或学习的第一张原始费用大于5的卡牌费用减少2\\地",
-    "quote": "《地理学入门》成功将没人听得懂的东西,弄成了没人愿意听的东西",
-    "elements_cost": {},
-    "elements_gain": {
-      "地": 4
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 15,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {},
-    "spawns": [],
-    "output_path": "output\\进阶版\\人物\\地\\4411003.jpg"
-  },
-  {
-    "number": "4511003",
-    "type": "人物",
-    "name": "骑士团长 蕾曦娅",
-    "category": "光",
-    "tag": "",
-    "description": "在游戏开始前,用\"团结的希望\"替换你的技能池中的\"希望呼唤\"",
-    "quote": "\"选择与被选择,都是一种奢侈\"",
-    "elements_cost": {},
-    "elements_gain": {
-      "光": 2,
-      "法": 8
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 15,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {},
-    "spawns": [
-      "3501001"
-    ],
-    "output_path": "output\\进阶版\\人物\\光\\4511003.jpg"
-  },
-  {
     "number": "2111002",
     "type": "道具",
     "name": "努尔之眼",
@@ -769,7 +1539,7 @@
     "description": "每当1个单位受到1点火焰伤害,储能1.祈咒:消耗所有储能,根据数量执行以下效果.0个:摧毁此卡;1个:获得2\\法;2个:本回合你的火焰法术+2\\威;3个:本回合你的火焰法术+1\\攻;4个及以上:造成2点火焰伤害(不触发储能)",
     "quote": "目光透过烈焰,女巫记下了每一位观众的面容",
     "elements_cost": {
-      "火": 2
+      "火": 3
     },
     "elements_gain": {},
     "version_number": "1",
@@ -783,6 +1553,80 @@
     },
     "spawns": [],
     "output_path": "output\\进阶版\\道具\\火\\2111002.jpg"
+  },
+  {
+    "number": "2121001",
+    "type": "道具",
+    "name": "凤凰之羽",
+    "category": "火",
+    "tag": "装备-神器",
+    "description": "入场:储能3.祈咒:消耗1点储能并获得1\\法",
+    "quote": "",
+    "elements_cost": {
+      "火": 1
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 1
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\火\\2121001.jpg"
+  },
+  {
+    "number": "3001001",
+    "type": "技能",
+    "name": "破灭魔光",
+    "category": "无",
+    "tag": "衍生-法术-聚能",
+    "description": "攻击.范围:前排.无法强化或被强化",
+    "quote": "",
+    "elements_cost": {},
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 3,
+    "life": -1,
+    "duration": -1,
+    "power": 10,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\无\\3001001.jpg"
+  },
+  {
+    "number": "1211002",
+    "type": "伙伴",
+    "name": "深渊巨口 利维坦",
+    "category": "水",
+    "tag": "传奇-异兽-深渊",
+    "description": "回合技:消灭法力范围内1个伙伴,下个你的回合不能使用此效果",
+    "quote": "\"只有一人能从巨口中存活,他便是那怪物命中注定的斩杀者\"",
+    "elements_cost": {
+      "暗": 2,
+      "水": 5
+    },
+    "elements_gain": {
+      "暗": 1,
+      "水": 2
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 5,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 4
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\水\\1211002.jpg"
   },
   {
     "number": "1011003",
@@ -803,104 +1647,12 @@
     "duration": -1,
     "power": -1,
     "elements_expense": {
-      "法": 10
+      "法": 9
     },
     "spawns": [
       "3001002"
     ],
     "output_path": "output\\进阶版\\伙伴\\无\\1011003.jpg"
-  },
-  {
-    "number": "3101001",
-    "type": "技能",
-    "name": "火焰吐息",
-    "category": "火",
-    "tag": "衍生-法术-聚能",
-    "description": "",
-    "quote": "",
-    "elements_cost": {},
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 2,
-    "life": -1,
-    "duration": -1,
-    "power": 5,
-    "elements_expense": {
-      "法": 1
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\火\\3101001.jpg"
-  },
-  {
-    "number": "1111003",
-    "type": "伙伴",
-    "name": "毕方",
-    "category": "火",
-    "tag": "传奇-异兽",
-    "description": "引魔.敌方单位受到的点燃伤害+1",
-    "quote": "始于灰烬,终于灰烬",
-    "elements_cost": {
-      "火": 3
-    },
-    "elements_gain": {
-      "火": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 3,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 3
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\火\\1111003.jpg"
-  },
-  {
-    "number": "3201001",
-    "type": "技能",
-    "name": "百川归海",
-    "category": "水",
-    "tag": "衍生-法术-聚能",
-    "description": "防御.若防御成功,获得等同于所有攻击法术的攻击力合计的\\水",
-    "quote": "",
-    "elements_cost": {
-      "水": 2
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 0,
-    "life": -1,
-    "duration": -1,
-    "power": 5,
-    "elements_expense": {
-      "法": 1
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\水\\3201001.jpg"
-  },
-  {
-    "number": "2021005",
-    "type": "道具",
-    "name": "瓶装元素",
-    "category": "无",
-    "tag": "消耗品-药剂",
-    "description": "获得1\\法",
-    "quote": "如果你的包还没装满,塞一瓶这个总归能派上用场",
-    "elements_cost": {},
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {},
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\无\\2021005.jpg"
   },
   {
     "number": "1021001",
@@ -925,58 +1677,6 @@
     },
     "spawns": [],
     "output_path": "output\\进阶版\\伙伴\\无\\1021001.jpg"
-  },
-  {
-    "number": "2221001",
-    "type": "道具",
-    "name": "冰霜之心",
-    "category": "水",
-    "tag": "装备-防具",
-    "description": "敌方法术命中时献祭:该法术伤害变为0",
-    "quote": "",
-    "elements_cost": {
-      "水": 2
-    },
-    "elements_gain": {
-      "水": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\水\\2221001.jpg"
-  },
-  {
-    "number": "1221001",
-    "type": "伙伴",
-    "name": "海豚伙伴",
-    "category": "水",
-    "tag": "野兽",
-    "description": "献祭:防止1个其他友方单位受到的1次致命伤害",
-    "quote": "",
-    "elements_cost": {
-      "水": 2
-    },
-    "elements_gain": {
-      "水": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\水\\1221001.jpg"
   },
   {
     "number": "1021002",
@@ -1008,100 +1708,6 @@
     "output_path": "output\\进阶版\\伙伴\\无\\1021002.jpg"
   },
   {
-    "number": "2121001",
-    "type": "道具",
-    "name": "凤凰之羽",
-    "category": "火",
-    "tag": "装备-神器",
-    "description": "入场:储能3.祈咒:消耗1点储能并获得1\\法",
-    "quote": "",
-    "elements_cost": {
-      "火": 1
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 1
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\火\\2121001.jpg"
-  },
-  {
-    "number": "1121001",
-    "type": "伙伴",
-    "name": "火焰精灵",
-    "category": "火",
-    "tag": "精灵",
-    "description": "",
-    "quote": "",
-    "elements_cost": {
-      "火": 1
-    },
-    "elements_gain": {
-      "火": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 1
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\火\\1121001.jpg"
-  },
-  {
-    "number": "3101002",
-    "type": "技能",
-    "name": "万火合一术",
-    "category": "火",
-    "tag": "衍生-法术-聚能",
-    "description": "每5点\\威获得+1\\攻",
-    "quote": "",
-    "elements_cost": {
-      "火": 3
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 1,
-    "life": -1,
-    "duration": -1,
-    "power": 5,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\火\\3101002.jpg"
-  },
-  {
-    "number": "3201001",
-    "type": "技能",
-    "name": "凛冬将至",
-    "category": "水",
-    "tag": "衍生-法术-幻变",
-    "description": "范围:溅射.穿透.冻结1.使用时必须移除嗜魔弓 凛冬上的5个水纹标记物",
-    "quote": "",
-    "elements_cost": {},
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 1,
-    "life": -1,
-    "duration": -1,
-    "power": 8,
-    "elements_expense": {},
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\水\\3201001.jpg"
-  },
-  {
     "number": "1021003",
     "type": "伙伴",
     "name": "誓约巫师",
@@ -1128,6 +1734,80 @@
     "output_path": "output\\进阶版\\伙伴\\无\\1021003.jpg"
   },
   {
+    "number": "1021004",
+    "type": "伙伴",
+    "name": "守护骑士",
+    "category": "无",
+    "tag": "人类",
+    "description": "",
+    "quote": "守护誓约的巫师将得到贴身的守护骑士和孤岛的漫漫长夜",
+    "elements_cost": {},
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 4,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\无\\1021004.jpg"
+  },
+  {
+    "number": "1211003",
+    "type": "伙伴",
+    "name": "\"雪女\" 天户凌",
+    "category": "水",
+    "tag": "传奇-巫师",
+    "description": "引魔.回合技:在你检索1张水纹卡牌后,使所有前排敌人冻结1",
+    "quote": "我梦到北方纷飞的大雪,那里便是我的归宿",
+    "elements_cost": {
+      "水": 6
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 3,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "水": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\水\\1211003.jpg"
+  },
+  {
+    "number": "1221001",
+    "type": "伙伴",
+    "name": "海豚伙伴",
+    "category": "水",
+    "tag": "野兽",
+    "description": "献祭:防止1个其他友方单位受到的1次致命伤害",
+    "quote": "",
+    "elements_cost": {
+      "水": 2
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\水\\1221001.jpg"
+  },
+  {
     "number": "1221002",
     "type": "伙伴",
     "name": "冰原法师",
@@ -1152,221 +1832,6 @@
     },
     "spawns": [],
     "output_path": "output\\进阶版\\伙伴\\水\\1221002.jpg"
-  },
-  {
-    "number": "2221002",
-    "type": "道具",
-    "name": "冰霜符文",
-    "category": "水",
-    "tag": "消耗品-符文",
-    "description": "反制:当敌方召唤伙伴时,使其冻结1",
-    "quote": "",
-    "elements_cost": {
-      "无": 1
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 1
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\水\\2221002.jpg"
-  },
-  {
-    "number": "1021004",
-    "type": "伙伴",
-    "name": "守护骑士",
-    "category": "无",
-    "tag": "人类",
-    "description": "",
-    "quote": "守护誓约的巫师将得到贴身的守护骑士和孤岛的漫漫长夜",
-    "elements_cost": {},
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 4,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\无\\1021004.jpg"
-  },
-  {
-    "number": "2121002",
-    "type": "道具",
-    "name": "火焰符文",
-    "category": "火",
-    "tag": "消耗品-符文",
-    "description": "反制:敌方回合结束时,使其1个单位获得点燃1",
-    "quote": "",
-    "elements_cost": {},
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 1
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\火\\2121002.jpg"
-  },
-  {
-    "number": "3121001",
-    "type": "技能",
-    "name": "火球术",
-    "category": "火",
-    "tag": "法术-创造",
-    "description": "",
-    "quote": "巫师学院里有一个传说,你可以看到五颜六色的火焰,蓝色的、绿色的、黑色的,唯独没有红色的",
-    "elements_cost": {
-      "火": 2
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 1,
-    "life": -1,
-    "duration": -1,
-    "power": 3,
-    "elements_expense": {
-      "法": 1
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\火\\3121001.jpg"
-  },
-  {
-    "number": "3221001",
-    "type": "技能",
-    "name": "冰雹术",
-    "category": "水",
-    "tag": "法术-幻变",
-    "description": "范围:方阵",
-    "quote": "",
-    "elements_cost": {
-      "水": 4
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 1,
-    "life": -1,
-    "duration": -1,
-    "power": 1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\水\\3221001.jpg"
-  },
-  {
-    "number": "1121002",
-    "type": "伙伴",
-    "name": "活泼的炉火",
-    "category": "火",
-    "tag": "造物",
-    "description": "入场:抽1张牌",
-    "quote": "",
-    "elements_cost": {
-      "火": 2
-    },
-    "elements_gain": {
-      "火": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\火\\1121002.jpg"
-  },
-  {
-    "number": "1021005",
-    "type": "伙伴",
-    "name": "内阁巫师",
-    "category": "无",
-    "tag": "巫师",
-    "description": "",
-    "quote": "想在内阁里站稳脚跟,权术和心计往往比法力更重要",
-    "elements_cost": {
-      "无": 4
-    },
-    "elements_gain": {
-      "光": 1,
-      "无": 1,
-      "暗": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 4,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 4
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\无\\1021005.jpg"
-  },
-  {
-    "number": "2221003",
-    "type": "道具",
-    "name": "冰封卷轴",
-    "category": "水",
-    "tag": "消耗品-卷轴",
-    "description": "使所有前排敌人冻结1",
-    "quote": "",
-    "elements_cost": {
-      "无": 1,
-      "水": 2
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {},
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\水\\2221003.jpg"
-  },
-  {
-    "number": "1021006",
-    "type": "伙伴",
-    "name": "杂货商贩",
-    "category": "无",
-    "tag": "人类",
-    "description": "入场:抽2张牌",
-    "quote": "",
-    "elements_cost": {},
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 2,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\无\\1021006.jpg"
   },
   {
     "number": "1221003",
@@ -1396,130 +1861,6 @@
     "output_path": "output\\进阶版\\伙伴\\水\\1221003.jpg"
   },
   {
-    "number": "2121003",
-    "type": "道具",
-    "name": "灼烧卷轴",
-    "category": "火",
-    "tag": "消耗品-法术卷轴-聚能",
-    "description": "点燃2",
-    "quote": "",
-    "elements_cost": {
-      "火": 1
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 1,
-    "life": -1,
-    "duration": -1,
-    "power": 4,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\火\\2121003.jpg"
-  },
-  {
-    "number": "3221002",
-    "type": "技能",
-    "name": "冰锥术",
-    "category": "水",
-    "tag": "法术-创造",
-    "description": "",
-    "quote": "",
-    "elements_cost": {
-      "水": 2
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 1,
-    "life": -1,
-    "duration": -1,
-    "power": 3,
-    "elements_expense": {
-      "法": 1
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\水\\3221002.jpg"
-  },
-  {
-    "number": "3121002",
-    "type": "技能",
-    "name": "焚烧",
-    "category": "火",
-    "tag": "法术-幻变",
-    "description": "攻击时目标具有点燃则+1\\攻+2\\威",
-    "quote": "",
-    "elements_cost": {
-      "火": 4
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 2,
-    "life": -1,
-    "duration": -1,
-    "power": 4,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\火\\3121002.jpg"
-  },
-  {
-    "number": "1121003",
-    "type": "伙伴",
-    "name": "锻石工匠",
-    "category": "火",
-    "tag": "人类",
-    "description": "回合技:花费2\\法,使你的1个法术在本回合+2\\威",
-    "quote": "",
-    "elements_cost": {
-      "火": 2
-    },
-    "elements_gain": {
-      "火": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 2,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\火\\1121003.jpg"
-  },
-  {
-    "number": "2221004",
-    "type": "道具",
-    "name": "玛涅斯之杖",
-    "category": "水",
-    "tag": "装备-武器",
-    "description": "+1\\法回复,你的水纹法术+1\\威",
-    "quote": "",
-    "elements_cost": {
-      "水": 2
-    },
-    "elements_gain": {
-      "水": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 3
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\水\\2221004.jpg"
-  },
-  {
     "number": "1221004",
     "type": "伙伴",
     "name": "寒霜傀儡",
@@ -1544,16 +1885,14 @@
     "output_path": "output\\进阶版\\伙伴\\水\\1221004.jpg"
   },
   {
-    "number": "2121004",
-    "type": "道具",
-    "name": "火焰箭",
-    "category": "火",
-    "tag": "装备-武器",
-    "description": "献祭:对1个无视范围的单位造成1点伤害",
+    "number": "3001002",
+    "type": "技能",
+    "name": "纯净奥术",
+    "category": "无",
+    "tag": "衍生-咒术-聚能",
+    "description": "花费最多10\\法,使下一次该属性法术威力上升那个数值",
     "quote": "",
-    "elements_cost": {
-      "火": 2
-    },
+    "elements_cost": {},
     "elements_gain": {},
     "version_number": "1",
     "version_name": "进阶版",
@@ -1561,59 +1900,87 @@
     "life": -1,
     "duration": -1,
     "power": -1,
+    "elements_expense": {},
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\无\\3001002.jpg"
+  },
+  {
+    "number": "1021005",
+    "type": "伙伴",
+    "name": "内阁巫师",
+    "category": "无",
+    "tag": "巫师",
+    "description": "",
+    "quote": "想在内阁里站稳脚跟,权术和心计往往比法力更重要",
+    "elements_cost": {
+      "无": 3
+    },
+    "elements_gain": {
+      "光": 1,
+      "无": 1,
+      "暗": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 4,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 4
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\无\\1021005.jpg"
+  },
+  {
+    "number": "3201001",
+    "type": "技能",
+    "name": "百川归海",
+    "category": "水",
+    "tag": "衍生-法术-聚能",
+    "description": "防御.若防御成功,获得等同于攻击法术的攻击力的\\法",
+    "quote": "",
+    "elements_cost": {
+      "水": 3
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 0,
+    "life": -1,
+    "duration": -1,
+    "power": 5,
     "elements_expense": {
       "法": 1
     },
     "spawns": [],
-    "output_path": "output\\进阶版\\道具\\火\\2121004.jpg"
+    "output_path": "output\\进阶版\\技能\\水\\3201001.jpg"
   },
   {
-    "number": "3121003",
-    "type": "技能",
-    "name": "炽热射线",
+    "number": "1121003",
+    "type": "伙伴",
+    "name": "锻石工匠",
     "category": "火",
-    "tag": "法术-聚能",
-    "description": "点燃2",
+    "tag": "人类",
+    "description": "绝技:使你的1个法术永久+2\\威",
     "quote": "",
     "elements_cost": {
-      "火": 4
+      "火": 2
     },
-    "elements_gain": {},
+    "elements_gain": {
+      "火": 1
+    },
     "version_number": "1",
     "version_name": "进阶版",
-    "attack": 1,
-    "life": -1,
+    "attack": -1,
+    "life": 2,
     "duration": -1,
-    "power": 4,
+    "power": -1,
     "elements_expense": {
       "法": 2
     },
     "spawns": [],
-    "output_path": "output\\进阶版\\技能\\火\\3121003.jpg"
-  },
-  {
-    "number": "3221003",
-    "type": "技能",
-    "name": "激冻寒流",
-    "category": "水",
-    "tag": "法术-聚能",
-    "description": "强化其他水纹法术时+2\\威",
-    "quote": "",
-    "elements_cost": {
-      "水": 4
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 2,
-    "life": -1,
-    "duration": -1,
-    "power": 4,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\水\\3221003.jpg"
+    "output_path": "output\\进阶版\\伙伴\\火\\1121003.jpg"
   },
   {
     "number": "1121004",
@@ -1643,126 +2010,6 @@
     "output_path": "output\\进阶版\\伙伴\\火\\1121004.jpg"
   },
   {
-    "number": "2221005",
-    "type": "道具",
-    "name": "精力药剂",
-    "category": "水",
-    "tag": "消耗品-药剂",
-    "description": "反制:对方回合结束时,将你的全部法术重置",
-    "quote": "",
-    "elements_cost": {
-      "水": 1
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {},
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\水\\2221005.jpg"
-  },
-  {
-    "number": "1221005",
-    "type": "伙伴",
-    "name": "西境海妖",
-    "category": "水",
-    "tag": "异兽",
-    "description": "祈咒:使敌方失去1点剩余\\法",
-    "quote": "很难想象什么样的水手没能禁住诱惑",
-    "elements_cost": {
-      "水": 2
-    },
-    "elements_gain": {
-      "水": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 3,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 3
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\水\\1221005.jpg"
-  },
-  {
-    "number": "2121005",
-    "type": "道具",
-    "name": "神炎魔咒药剂",
-    "category": "火",
-    "tag": "消耗品-药剂",
-    "description": "直到下个回合结束你的法术+2\\威,你的人物获得点燃3",
-    "quote": "",
-    "elements_cost": {
-      "火": 4
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\火\\2121005.jpg"
-  },
-  {
-    "number": "3121004",
-    "type": "技能",
-    "name": "燃烧大地",
-    "category": "火",
-    "tag": "法术-驱动",
-    "description": "范围:前排",
-    "quote": "",
-    "elements_cost": {
-      "火": 4
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 1,
-    "life": -1,
-    "duration": -1,
-    "power": 5,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\火\\3121004.jpg"
-  },
-  {
-    "number": "3221004",
-    "type": "技能",
-    "name": "寒冰屏障",
-    "category": "水",
-    "tag": "法术-创造",
-    "description": "防御",
-    "quote": "",
-    "elements_cost": {
-      "水": 3
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 0,
-    "life": -1,
-    "duration": -1,
-    "power": 4,
-    "elements_expense": {
-      "法": 1
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\水\\3221004.jpg"
-  },
-  {
     "number": "1121005",
     "type": "伙伴",
     "name": "熔岩傀儡",
@@ -1790,129 +2037,6 @@
     "output_path": "output\\进阶版\\伙伴\\火\\1121005.jpg"
   },
   {
-    "number": "2221006",
-    "type": "道具",
-    "name": "海之眷顾",
-    "category": "水",
-    "tag": "装备-饰物",
-    "description": "+2\\法回复",
-    "quote": "",
-    "elements_cost": {
-      "水": 5
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 4
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\水\\2221006.jpg"
-  },
-  {
-    "number": "1221006",
-    "type": "伙伴",
-    "name": "水栖狸猫",
-    "category": "水",
-    "tag": "野兽",
-    "description": "在本卡相邻有2个及以上水纹伙伴时,本卡负载+1\\水",
-    "quote": "",
-    "elements_cost": {
-      "水": 2
-    },
-    "elements_gain": {
-      "水": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 2,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\水\\1221006.jpg"
-  },
-  {
-    "number": "2121006",
-    "type": "道具",
-    "name": "火焰面甲",
-    "category": "火",
-    "tag": "装备-饰物",
-    "description": "+1\\法回复",
-    "quote": "",
-    "elements_cost": {
-      "火": 2
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\火\\2121006.jpg"
-  },
-  {
-    "number": "3121005",
-    "type": "技能",
-    "name": "烈焰风暴",
-    "category": "火",
-    "tag": "法术-创造",
-    "description": "攻击.范围:方阵.点燃1",
-    "quote": "",
-    "elements_cost": {
-      "气": 1,
-      "火": 5
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 2,
-    "life": -1,
-    "duration": -1,
-    "power": 6,
-    "elements_expense": {
-      "法": 3
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\火\\3121005.jpg"
-  },
-  {
-    "number": "3221005",
-    "type": "技能",
-    "name": "玄冰阵",
-    "category": "水",
-    "tag": "法术-创造",
-    "description": "范围:溅射.冻结1",
-    "quote": "",
-    "elements_cost": {
-      "水": 5
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 1,
-    "life": -1,
-    "duration": -1,
-    "power": 5,
-    "elements_expense": {
-      "法": 3
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\水\\3221005.jpg"
-  },
-  {
     "number": "1121006",
     "type": "伙伴",
     "name": "熔岩烽蛇",
@@ -1935,103 +2059,6 @@
     },
     "spawns": [],
     "output_path": "output\\进阶版\\伙伴\\火\\1121006.jpg"
-  },
-  {
-    "number": "2221007",
-    "type": "道具",
-    "name": "凝霜手镯",
-    "category": "水",
-    "tag": "装备-饰物",
-    "description": "+1\\法回复",
-    "quote": "",
-    "elements_cost": {
-      "水": 2
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\水\\2221007.jpg"
-  },
-  {
-    "number": "1221007",
-    "type": "伙伴",
-    "name": "冰原狼",
-    "category": "水",
-    "tag": "野兽",
-    "description": "",
-    "quote": "",
-    "elements_cost": {},
-    "elements_gain": {
-      "水": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 2,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\水\\1221007.jpg"
-  },
-  {
-    "number": "2121007",
-    "type": "道具",
-    "name": "舞火战裙",
-    "category": "火",
-    "tag": "装备-防具",
-    "description": "入场:储能3.回合技:获得2法力,可以移除1层友方负面状态",
-    "quote": "",
-    "elements_cost": {
-      "火": 3
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 3
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\火\\2121007.jpg"
-  },
-  {
-    "number": "3121006",
-    "type": "技能",
-    "name": "陨石术",
-    "category": "火",
-    "tag": "法术-驱动",
-    "description": "攻击.穿透",
-    "quote": "",
-    "elements_cost": {
-      "地": 1,
-      "火": 6
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 4,
-    "life": -1,
-    "duration": -1,
-    "power": 8,
-    "elements_expense": {
-      "法": 3
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\火\\3121006.jpg"
   },
   {
     "number": "1121007",
@@ -2060,39 +2087,37 @@
     "output_path": "output\\进阶版\\伙伴\\火\\1121007.jpg"
   },
   {
-    "number": "3221006",
-    "type": "技能",
-    "name": "海啸",
-    "category": "水",
-    "tag": "法术-驱动",
-    "description": "攻击.冷却1.范围:全场",
-    "quote": "参天的浪潮裹挟着天空,随后便是利齿,以及无尽的黑暗",
-    "elements_cost": {
-      "水": 8
-    },
+    "number": "2121002",
+    "type": "道具",
+    "name": "火焰符文",
+    "category": "火",
+    "tag": "消耗品-符文",
+    "description": "反制:敌方召唤伙伴时,使其获得点燃1",
+    "quote": "",
+    "elements_cost": {},
     "elements_gain": {},
     "version_number": "1",
     "version_name": "进阶版",
-    "attack": 3,
+    "attack": -1,
     "life": -1,
     "duration": -1,
-    "power": 9,
+    "power": -1,
     "elements_expense": {
-      "法": 5
+      "法": 1
     },
     "spawns": [],
-    "output_path": "output\\进阶版\\技能\\水\\3221006.jpg"
+    "output_path": "output\\进阶版\\道具\\火\\2121002.jpg"
   },
   {
-    "number": "2221008",
+    "number": "2121003",
     "type": "道具",
-    "name": "水形之束卷轴",
-    "category": "水",
-    "tag": "消耗品-法术卷轴-驱动",
-    "description": "命中:若目标为伙伴牌,消耗该伙伴",
+    "name": "灼烧卷轴",
+    "category": "火",
+    "tag": "消耗品-法术卷轴-聚能",
+    "description": "点燃2",
     "quote": "",
     "elements_cost": {
-      "水": 2
+      "火": 1
     },
     "elements_gain": {},
     "version_number": "1",
@@ -2101,9 +2126,133 @@
     "life": -1,
     "duration": -1,
     "power": 4,
-    "elements_expense": {},
+    "elements_expense": {
+      "法": 2
+    },
     "spawns": [],
-    "output_path": "output\\进阶版\\道具\\水\\2221008.jpg"
+    "output_path": "output\\进阶版\\道具\\火\\2121003.jpg"
+  },
+  {
+    "number": "2121004",
+    "type": "道具",
+    "name": "火焰箭",
+    "category": "火",
+    "tag": "装备-武器",
+    "description": "献祭:对1个无视范围的单位造成1点伤害",
+    "quote": "",
+    "elements_cost": {
+      "火": 2
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 1
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\火\\2121004.jpg"
+  },
+  {
+    "number": "1021006",
+    "type": "伙伴",
+    "name": "杂货商贩",
+    "category": "无",
+    "tag": "人类",
+    "description": "入场:抽2张牌",
+    "quote": "",
+    "elements_cost": {},
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 3,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\无\\1021006.jpg"
+  },
+  {
+    "number": "1221005",
+    "type": "伙伴",
+    "name": "西境海妖",
+    "category": "水",
+    "tag": "异兽",
+    "description": "引魔.祈咒:使敌方失去1点剩余\\法",
+    "quote": "很难想象什么样的水手没能禁住诱惑",
+    "elements_cost": {
+      "水": 2
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 3,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\水\\1221005.jpg"
+  },
+  {
+    "number": "1221006",
+    "type": "伙伴",
+    "name": "水栖狸猫",
+    "category": "水",
+    "tag": "野兽",
+    "description": "在本卡相邻有2个及以上水纹伙伴时,本卡负载+1\\水",
+    "quote": "",
+    "elements_cost": {
+      "水": 2
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 2,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\水\\1221006.jpg"
+  },
+  {
+    "number": "1221007",
+    "type": "伙伴",
+    "name": "冰原狼",
+    "category": "水",
+    "tag": "野兽",
+    "description": "",
+    "quote": "",
+    "elements_cost": {},
+    "elements_gain": {
+      "水": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 2,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\水\\1221007.jpg"
   },
   {
     "number": "1221008",
@@ -2133,52 +2282,24 @@
     "output_path": "output\\进阶版\\伙伴\\水\\1221008.jpg"
   },
   {
-    "number": "2121008",
-    "type": "道具",
-    "name": "烈焰风暴卷轴",
-    "category": "火",
-    "tag": "消耗品-法术卷轴-创造",
-    "description": "范围:方阵.点燃2",
+    "number": "3201001",
+    "type": "技能",
+    "name": "凛冬将至",
+    "category": "水",
+    "tag": "衍生-法术-幻变",
+    "description": "范围:溅射.穿透.冻结1.使用时必须移除嗜魔弓 凛冬上的3点储能",
     "quote": "",
-    "elements_cost": {
-      "火": 5
-    },
+    "elements_cost": {},
     "elements_gain": {},
     "version_number": "1",
     "version_name": "进阶版",
     "attack": 1,
     "life": -1,
     "duration": -1,
-    "power": 5,
-    "elements_expense": {
-      "法": 3
-    },
+    "power": 8,
+    "elements_expense": {},
     "spawns": [],
-    "output_path": "output\\进阶版\\道具\\火\\2121008.jpg"
-  },
-  {
-    "number": "3121007",
-    "type": "技能",
-    "name": "激情之火",
-    "category": "火",
-    "tag": "咒术-聚能",
-    "description": "速攻.冷却1.异能:你的火焰法术命中时抽1张牌",
-    "quote": "",
-    "elements_cost": {
-      "火": 4
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": 1,
-    "power": -1,
-    "elements_expense": {
-      "法": 1
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\火\\3121007.jpg"
+    "output_path": "output\\进阶版\\技能\\水\\3201001.jpg"
   },
   {
     "number": "1121008",
@@ -2186,20 +2307,20 @@
     "name": "炎狱使者",
     "category": "火",
     "tag": "恶魔",
-    "description": "吞噬:2火",
+    "description": "",
     "quote": "",
     "elements_cost": {
       "地": 1,
-      "火": 5
+      "火": 4
     },
     "elements_gain": {
       "地": 1,
-      "火": 3
+      "火": 2
     },
     "version_number": "1",
     "version_name": "进阶版",
     "attack": 2,
-    "life": 7,
+    "life": 6,
     "duration": -1,
     "power": -1,
     "elements_expense": {
@@ -2207,129 +2328,6 @@
     },
     "spawns": [],
     "output_path": "output\\进阶版\\伙伴\\火\\1121008.jpg"
-  },
-  {
-    "number": "3221007",
-    "type": "技能",
-    "name": "水占术",
-    "category": "水",
-    "tag": "咒术-灵媒",
-    "description": "冷却1.查看牌堆顶4张牌并检索其中1张水纹卡牌,其余按任意顺序置于牌堆顶或牌堆底",
-    "quote": "\"可能你不相信命运,但是命运似乎很相信你\"",
-    "elements_cost": {
-      "水": 2
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 1
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\水\\3221007.jpg"
-  },
-  {
-    "number": "2221009",
-    "type": "道具",
-    "name": "寒冰爆裂卷轴",
-    "category": "水",
-    "tag": "消耗品-法术卷轴-聚能",
-    "description": "范围:溅射.冻结1",
-    "quote": "",
-    "elements_cost": {
-      "无": 1,
-      "水": 4
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 1,
-    "life": -1,
-    "duration": -1,
-    "power": 5,
-    "elements_expense": {
-      "法": 3
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\水\\2221009.jpg"
-  },
-  {
-    "number": "1221009",
-    "type": "伙伴",
-    "name": "南海海怪",
-    "category": "水",
-    "tag": "异兽",
-    "description": "",
-    "quote": "",
-    "elements_cost": {
-      "水": 5
-    },
-    "elements_gain": {
-      "水": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 1,
-    "life": 5,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 3
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\水\\1221009.jpg"
-  },
-  {
-    "number": "2121009",
-    "type": "道具",
-    "name": "烈焰障壁卷轴",
-    "category": "火",
-    "tag": "消耗品-法术卷轴-创造",
-    "description": "防御",
-    "quote": "",
-    "elements_cost": {
-      "火": 2
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": 6,
-    "elements_expense": {
-      "法": 1
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\火\\2121009.jpg"
-  },
-  {
-    "number": "3121008",
-    "type": "技能",
-    "name": "火焰结界",
-    "category": "火",
-    "tag": "咒术-创造",
-    "description": "冷却1.异能:你的火焰法术获得点燃1和+2\\威",
-    "quote": "",
-    "elements_cost": {
-      "火": 5
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": 1,
-    "power": -1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\火\\3121008.jpg"
   },
   {
     "number": "1121009",
@@ -2358,126 +2356,6 @@
     "output_path": "output\\进阶版\\伙伴\\火\\1121009.jpg"
   },
   {
-    "number": "3221008",
-    "type": "技能",
-    "name": "冰封消解",
-    "category": "水",
-    "tag": "咒术-幻变",
-    "description": "冷却1.当对方使用法术时使用,使其中1个\\威变为0",
-    "quote": "",
-    "elements_cost": {
-      "水": 4
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 1
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\水\\3221008.jpg"
-  },
-  {
-    "number": "2221010",
-    "type": "道具",
-    "name": "潮涌符文",
-    "category": "水",
-    "tag": "消耗品-符文",
-    "description": "反制:当敌方在一个回合内抽第三张牌时,获得3\\法",
-    "quote": "",
-    "elements_cost": {
-      "水": 2
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 1
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\水\\2221010.jpg"
-  },
-  {
-    "number": "1221010",
-    "type": "伙伴",
-    "name": "护壁者",
-    "category": "水",
-    "tag": "巫师",
-    "description": "入场:直到下个回合结束所有法术\\攻变为0",
-    "quote": "在极北冰原之上,护壁者们或许是在守护,或许是在封印,人们唯一知道的是他们不欢迎任何冒险家",
-    "elements_cost": {
-      "水": 7
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 3,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 5
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\水\\1221010.jpg"
-  },
-  {
-    "number": "2121010",
-    "type": "道具",
-    "name": "炽火链鞭",
-    "category": "火",
-    "tag": "装备-武器",
-    "description": "",
-    "quote": "想不到你还好这口",
-    "elements_cost": {
-      "火": 4
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 3
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\火\\2121010.jpg"
-  },
-  {
-    "number": "3121009",
-    "type": "技能",
-    "name": "爆焰一击",
-    "category": "火",
-    "tag": "法术-聚能",
-    "description": "",
-    "quote": "",
-    "elements_cost": {
-      "火": 6
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 3,
-    "life": -1,
-    "duration": -1,
-    "power": 7,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\火\\3121009.jpg"
-  },
-  {
     "number": "1121010",
     "type": "伙伴",
     "name": "火焰艺人",
@@ -2502,129 +2380,6 @@
     },
     "spawns": [],
     "output_path": "output\\进阶版\\伙伴\\火\\1121010.jpg"
-  },
-  {
-    "number": "3221009",
-    "type": "技能",
-    "name": "冰霜利刃",
-    "category": "水",
-    "tag": "法术-创造",
-    "description": "攻击.",
-    "quote": "",
-    "elements_cost": {
-      "水": 2
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 1,
-    "life": -1,
-    "duration": -1,
-    "power": 4,
-    "elements_expense": {
-      "法": 1
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\水\\3221009.jpg"
-  },
-  {
-    "number": "2221011",
-    "type": "道具",
-    "name": "恩惠之雨",
-    "category": "水",
-    "tag": "消耗品-卷轴",
-    "description": "反制:当1个友方单位受伤后,使所有友方单位回复2\\血",
-    "quote": "",
-    "elements_cost": {
-      "水": 1
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\水\\2221011.jpg"
-  },
-  {
-    "number": "1221011",
-    "type": "伙伴",
-    "name": "凛冬城术士",
-    "category": "水",
-    "tag": "巫师",
-    "description": "绝技:使你的1个水纹法术永久获得冻结1",
-    "quote": "",
-    "elements_cost": {
-      "水": 2
-    },
-    "elements_gain": {
-      "水": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 3,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 3
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\水\\1221011.jpg"
-  },
-  {
-    "number": "2121011",
-    "type": "道具",
-    "name": "火流星卷轴",
-    "category": "火",
-    "tag": "消耗品-法术卷轴-创造",
-    "description": "穿透",
-    "quote": "",
-    "elements_cost": {
-      "火": 3
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 3,
-    "life": -1,
-    "duration": -1,
-    "power": 5,
-    "elements_expense": {
-      "法": 3
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\火\\2121011.jpg"
-  },
-  {
-    "number": "3121010",
-    "type": "技能",
-    "name": "岩浆爆发",
-    "category": "火",
-    "tag": "法术-驱动",
-    "description": "攻击.范围:方阵.穿透.点燃2",
-    "quote": "",
-    "elements_cost": {
-      "地": 1,
-      "火": 6
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 2,
-    "life": -1,
-    "duration": -1,
-    "power": 7,
-    "elements_expense": {
-      "法": 4
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\火\\3121010.jpg"
   },
   {
     "number": "1121011",
@@ -2655,130 +2410,6 @@
     "output_path": "output\\进阶版\\伙伴\\火\\1121011.jpg"
   },
   {
-    "number": "3221010",
-    "type": "技能",
-    "name": "水幻影",
-    "category": "水",
-    "tag": "咒术-创造",
-    "description": "冷却1.召唤1个幻影,使它复制法力范围内的1个伙伴的负载和生命",
-    "quote": "",
-    "elements_cost": {
-      "暗": 1,
-      "水": 2
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 3
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\水\\3221010.jpg"
-  },
-  {
-    "number": "2221012",
-    "type": "道具",
-    "name": "水行之靴",
-    "category": "水",
-    "tag": "装备-防具",
-    "description": "入场:储能2.祈咒:你的人物每与一个水纹伙伴相邻,获得1\\法",
-    "quote": "",
-    "elements_cost": {
-      "水": 2
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 3
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\水\\2221012.jpg"
-  },
-  {
-    "number": "2121012",
-    "type": "道具",
-    "name": "狱火符文",
-    "category": "火",
-    "tag": "消耗品-符文",
-    "description": "反制:当敌方召唤1个伙伴时,使其获得晕眩2,石化2,点燃2",
-    "quote": "",
-    "elements_cost": {
-      "地": 1,
-      "火": 2
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\火\\2121012.jpg"
-  },
-  {
-    "number": "1221012",
-    "type": "伙伴",
-    "name": "龙王子裔",
-    "category": "水",
-    "tag": "龙",
-    "description": "绝技:检索1个水纹伙伴并使其入场花费减少1\\法",
-    "quote": "",
-    "elements_cost": {
-      "水": 2
-    },
-    "elements_gain": {
-      "水": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 2,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\水\\1221012.jpg"
-  },
-  {
-    "number": "3121011",
-    "type": "技能",
-    "name": "引燃",
-    "category": "火",
-    "tag": "咒术-幻变",
-    "description": "速攻.使1个敌方单位点燃1",
-    "quote": "",
-    "elements_cost": {
-      "火": 2
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 1
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\火\\3121011.jpg"
-  },
-  {
     "number": "1121012",
     "type": "伙伴",
     "name": "火焰洞察者",
@@ -2803,132 +2434,6 @@
     },
     "spawns": [],
     "output_path": "output\\进阶版\\伙伴\\火\\1121012.jpg"
-  },
-  {
-    "number": "3221011",
-    "type": "技能",
-    "name": "幽影寒锋",
-    "category": "水",
-    "tag": "法术-聚能",
-    "description": "穿透",
-    "quote": "",
-    "elements_cost": {
-      "暗": 1,
-      "水": 4
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 2,
-    "life": -1,
-    "duration": -1,
-    "power": 6,
-    "elements_expense": {
-      "法": 3
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\水\\3221011.jpg"
-  },
-  {
-    "number": "2221013",
-    "type": "道具",
-    "name": "深寒诅咒卷轴",
-    "category": "水",
-    "tag": "消耗品-卷轴",
-    "description": "使法力范围内的1个敌方伙伴永久冻结",
-    "quote": "",
-    "elements_cost": {
-      "水": 3
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 3
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\水\\2221013.jpg"
-  },
-  {
-    "number": "2121013",
-    "type": "道具",
-    "name": "熔火战铠",
-    "category": "火",
-    "tag": "装备-防具",
-    "description": "+1\\法回复",
-    "quote": "",
-    "elements_cost": {
-      "火": 4
-    },
-    "elements_gain": {
-      "火": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": -1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 4
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\道具\\火\\2121013.jpg"
-  },
-  {
-    "number": "1221013",
-    "type": "伙伴",
-    "name": "唤雨师",
-    "category": "水",
-    "tag": "巫师",
-    "description": "+1\\法回复.你的水纹和大气法术+1\\威",
-    "quote": "",
-    "elements_cost": {
-      "水": 4
-    },
-    "elements_gain": {
-      "气": 1,
-      "水": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 3,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 4
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\水\\1221013.jpg"
-  },
-  {
-    "number": "3121012",
-    "type": "技能",
-    "name": "烈焰护体",
-    "category": "火",
-    "tag": "法术-创造",
-    "description": "防御",
-    "quote": "",
-    "elements_cost": {
-      "火": 1
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 0,
-    "life": -1,
-    "duration": -1,
-    "power": 4,
-    "elements_expense": {
-      "法": 1
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\火\\3121012.jpg"
   },
   {
     "number": "1121013",
@@ -2957,12 +2462,187 @@
     "output_path": "output\\进阶版\\伙伴\\火\\1121013.jpg"
   },
   {
-    "number": "3221012",
-    "type": "技能",
-    "name": "霜冻射线",
+    "number": "1121014",
+    "type": "伙伴",
+    "name": "火荆",
+    "category": "火",
+    "tag": "植物",
+    "description": "遗言:使法力范围内的1个敌人点燃2",
+    "quote": "",
+    "elements_cost": {
+      "火": 1
+    },
+    "elements_gain": {
+      "火": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\火\\1121014.jpg"
+  },
+  {
+    "number": "1121015",
+    "type": "伙伴",
+    "name": "火云法师",
+    "category": "火",
+    "tag": "巫师",
+    "description": "+1\\法回复",
+    "quote": "",
+    "elements_cost": {
+      "火": 3
+    },
+    "elements_gain": {
+      "气": 1,
+      "火": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 4,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 4
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\火\\1121015.jpg"
+  },
+  {
+    "number": "2121005",
+    "type": "道具",
+    "name": "神炎魔咒药剂",
+    "category": "火",
+    "tag": "消耗品-药剂",
+    "description": "直到下个回合结束你的法术+2\\威,你的人物获得点燃2",
+    "quote": "",
+    "elements_cost": {
+      "火": 4
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\火\\2121005.jpg"
+  },
+  {
+    "number": "2121006",
+    "type": "道具",
+    "name": "火焰面甲",
+    "category": "火",
+    "tag": "装备-饰物",
+    "description": "+1\\法回复",
+    "quote": "",
+    "elements_cost": {
+      "火": 2
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\火\\2121006.jpg"
+  },
+  {
+    "number": "2121007",
+    "type": "道具",
+    "name": "舞火战裙",
+    "category": "火",
+    "tag": "装备-防具",
+    "description": "入场:储能3.回合技:获得2法力,可以移除1层友方负面状态",
+    "quote": "",
+    "elements_cost": {
+      "火": 3
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\火\\2121007.jpg"
+  },
+  {
+    "number": "2121008",
+    "type": "道具",
+    "name": "烈焰风暴卷轴",
+    "category": "火",
+    "tag": "消耗品-法术卷轴-创造",
+    "description": "范围:方阵.点燃2",
+    "quote": "",
+    "elements_cost": {
+      "火": 5
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 1,
+    "life": -1,
+    "duration": -1,
+    "power": 5,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\火\\2121008.jpg"
+  },
+  {
+    "number": "1221009",
+    "type": "伙伴",
+    "name": "南海海怪",
     "category": "水",
-    "tag": "法术-聚能",
-    "description": "冻结2",
+    "tag": "异兽",
+    "description": "",
+    "quote": "",
+    "elements_cost": {
+      "水": 4
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 1,
+    "life": 5,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\水\\1221009.jpg"
+  },
+  {
+    "number": "3221001",
+    "type": "技能",
+    "name": "冰雹术",
+    "category": "水",
+    "tag": "法术-幻变",
+    "description": "范围:方阵",
     "quote": "",
     "elements_cost": {
       "水": 3
@@ -2973,12 +2653,336 @@
     "attack": 1,
     "life": -1,
     "duration": -1,
+    "power": 1,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\水\\3221001.jpg"
+  },
+  {
+    "number": "3221002",
+    "type": "技能",
+    "name": "冰锥术",
+    "category": "水",
+    "tag": "法术-创造",
+    "description": "",
+    "quote": "",
+    "elements_cost": {
+      "水": 2
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 1,
+    "life": -1,
+    "duration": -1,
+    "power": 3,
+    "elements_expense": {
+      "法": 1
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\水\\3221002.jpg"
+  },
+  {
+    "number": "3221003",
+    "type": "技能",
+    "name": "激冻寒流",
+    "category": "水",
+    "tag": "法术-聚能",
+    "description": "强化其他水纹法术时+2\\威",
+    "quote": "",
+    "elements_cost": {
+      "水": 4
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 2,
+    "life": -1,
+    "duration": -1,
     "power": 4,
     "elements_expense": {
       "法": 2
     },
     "spawns": [],
-    "output_path": "output\\进阶版\\技能\\水\\3221012.jpg"
+    "output_path": "output\\进阶版\\技能\\水\\3221003.jpg"
+  },
+  {
+    "number": "2121009",
+    "type": "道具",
+    "name": "烈焰障壁卷轴",
+    "category": "火",
+    "tag": "消耗品-法术卷轴-创造",
+    "description": "防御",
+    "quote": "",
+    "elements_cost": {
+      "火": 1
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": 6,
+    "elements_expense": {
+      "法": 1
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\火\\2121009.jpg"
+  },
+  {
+    "number": "2121010",
+    "type": "道具",
+    "name": "炽火链鞭",
+    "category": "火",
+    "tag": "装备-武器",
+    "description": "",
+    "quote": "想不到你还好这口",
+    "elements_cost": {
+      "火": 4
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\火\\2121010.jpg"
+  },
+  {
+    "number": "2121011",
+    "type": "道具",
+    "name": "火流星卷轴",
+    "category": "火",
+    "tag": "消耗品-法术卷轴-创造",
+    "description": "穿透",
+    "quote": "",
+    "elements_cost": {
+      "火": 3
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 3,
+    "life": -1,
+    "duration": -1,
+    "power": 5,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\火\\2121011.jpg"
+  },
+  {
+    "number": "2121012",
+    "type": "道具",
+    "name": "狱火符文",
+    "category": "火",
+    "tag": "消耗品-符文",
+    "description": "反制:当敌方召唤1个伙伴时,使其获得晕眩2,石化2,点燃2",
+    "quote": "",
+    "elements_cost": {
+      "地": 1,
+      "火": 2
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\火\\2121012.jpg"
+  },
+  {
+    "number": "2121013",
+    "type": "道具",
+    "name": "熔火战铠",
+    "category": "火",
+    "tag": "装备-防具",
+    "description": "+1\\法回复",
+    "quote": "",
+    "elements_cost": {
+      "火": 4
+    },
+    "elements_gain": {
+      "火": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 4
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\道具\\火\\2121013.jpg"
+  },
+  {
+    "number": "1221010",
+    "type": "伙伴",
+    "name": "护壁者",
+    "category": "水",
+    "tag": "巫师",
+    "description": "入场:直到下个回合结束所有法术\\攻变为0",
+    "quote": "在极北冰原之上,护壁者们或许是在守护,或许是在封印,人们唯一知道的是他们不欢迎任何冒险家",
+    "elements_cost": {
+      "水": 6
+    },
+    "elements_gain": {
+      "水": 2
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 3,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 5
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\水\\1221010.jpg"
+  },
+  {
+    "number": "1221011",
+    "type": "伙伴",
+    "name": "凛冬城术士",
+    "category": "水",
+    "tag": "巫师",
+    "description": "绝技:使你的1个水纹法术永久获得冻结1",
+    "quote": "",
+    "elements_cost": {
+      "水": 2
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 3,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\水\\1221011.jpg"
+  },
+  {
+    "number": "1221012",
+    "type": "伙伴",
+    "name": "龙王子裔",
+    "category": "水",
+    "tag": "龙",
+    "description": "绝技:检索1个水纹伙伴并使其入场花费减少1\\法",
+    "quote": "",
+    "elements_cost": {
+      "水": 2
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 2,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\水\\1221012.jpg"
+  },
+  {
+    "number": "3221004",
+    "type": "技能",
+    "name": "寒冰屏障",
+    "category": "水",
+    "tag": "法术-创造",
+    "description": "防御",
+    "quote": "",
+    "elements_cost": {
+      "水": 2
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 0,
+    "life": -1,
+    "duration": -1,
+    "power": 4,
+    "elements_expense": {
+      "法": 1
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\水\\3221004.jpg"
+  },
+  {
+    "number": "3221005",
+    "type": "技能",
+    "name": "玄冰阵",
+    "category": "水",
+    "tag": "法术-创造",
+    "description": "范围:溅射.冻结1",
+    "quote": "",
+    "elements_cost": {
+      "水": 5
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 1,
+    "life": -1,
+    "duration": -1,
+    "power": 5,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\水\\3221005.jpg"
+  },
+  {
+    "number": "1221013",
+    "type": "伙伴",
+    "name": "唤雨师",
+    "category": "水",
+    "tag": "巫师",
+    "description": "+1\\法回复.你的水纹和大气法术+1\\威",
+    "quote": "",
+    "elements_cost": {
+      "水": 3
+    },
+    "elements_gain": {
+      "气": 1,
+      "水": 1
+    },
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": 3,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 4
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\伙伴\\水\\1221013.jpg"
   },
   {
     "number": "1221014",
@@ -3006,81 +3010,6 @@
     },
     "spawns": [],
     "output_path": "output\\进阶版\\伙伴\\水\\1221014.jpg"
-  },
-  {
-    "number": "3121013",
-    "type": "技能",
-    "name": "烈焰反噬",
-    "category": "火",
-    "tag": "法术-驱动",
-    "description": "防御.若防御成功,对敌方人物造成点燃1",
-    "quote": "",
-    "elements_cost": {
-      "火": 3
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 0,
-    "life": -1,
-    "duration": -1,
-    "power": 5,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\火\\3121013.jpg"
-  },
-  {
-    "number": "1121014",
-    "type": "伙伴",
-    "name": "火荆",
-    "category": "火",
-    "tag": "植物",
-    "description": "遗言:使法力范围内的1个敌人点燃2",
-    "quote": "",
-    "elements_cost": {
-      "火": 1
-    },
-    "elements_gain": {
-      "火": 1
-    },
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": -1,
-    "life": 1,
-    "duration": -1,
-    "power": -1,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\火\\1121014.jpg"
-  },
-  {
-    "number": "3221013",
-    "type": "技能",
-    "name": "猎潮",
-    "category": "水",
-    "tag": "法术-驱动",
-    "description": "",
-    "quote": "归来的勇士跃向无底的巨口,鳞甲深处是它跳动的心脏",
-    "elements_cost": {
-      "气": 1,
-      "水": 5
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 3,
-    "life": -1,
-    "duration": -1,
-    "power": 7,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\水\\3221013.jpg"
   },
   {
     "number": "1221015",
@@ -3111,15 +3040,39 @@
     "output_path": "output\\进阶版\\伙伴\\水\\1221015.jpg"
   },
   {
-    "number": "3121014",
+    "number": "3221006",
     "type": "技能",
-    "name": "烈焰重燃",
-    "category": "火",
-    "tag": "咒术-聚能",
-    "description": "获得1\\法.本回合你每使用过1个火焰法术就获得1\\法",
-    "quote": "",
+    "name": "海啸",
+    "category": "水",
+    "tag": "法术-驱动",
+    "description": "攻击.冷却1.范围:全场",
+    "quote": "参天的浪潮裹挟着天空,随后便是利齿,以及无尽的黑暗",
     "elements_cost": {
-      "火": 2
+      "水": 7
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 3,
+    "life": -1,
+    "duration": -1,
+    "power": 9,
+    "elements_expense": {
+      "法": 5
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\水\\3221006.jpg"
+  },
+  {
+    "number": "3221007",
+    "type": "技能",
+    "name": "水占术",
+    "category": "水",
+    "tag": "咒术-灵媒",
+    "description": "冷却1.查看牌堆顶4张牌并检索其中1张水纹卡牌,其余按任意顺序置于牌堆顶或牌堆底",
+    "quote": "\"可能你不相信命运,但是命运似乎很相信你\"",
+    "elements_cost": {
+      "水": 2
     },
     "elements_gain": {},
     "version_number": "1",
@@ -3132,34 +3085,154 @@
       "法": 1
     },
     "spawns": [],
-    "output_path": "output\\进阶版\\技能\\火\\3121014.jpg"
+    "output_path": "output\\进阶版\\技能\\水\\3221007.jpg"
   },
   {
-    "number": "1121015",
-    "type": "伙伴",
-    "name": "火云法师",
-    "category": "火",
-    "tag": "巫师",
-    "description": "+1\\法回复",
+    "number": "3221008",
+    "type": "技能",
+    "name": "冰封消解",
+    "category": "水",
+    "tag": "咒术-幻变",
+    "description": "冷却1.当对方使用法术时使用,使其中1个\\威变为0",
     "quote": "",
     "elements_cost": {
-      "火": 3
+      "水": 4
     },
-    "elements_gain": {
-      "气": 1,
-      "火": 1
-    },
+    "elements_gain": {},
     "version_number": "1",
     "version_name": "进阶版",
     "attack": -1,
-    "life": 4,
+    "life": -1,
     "duration": -1,
     "power": -1,
     "elements_expense": {
-      "法": 4
+      "法": 1
     },
     "spawns": [],
-    "output_path": "output\\进阶版\\伙伴\\火\\1121015.jpg"
+    "output_path": "output\\进阶版\\技能\\水\\3221008.jpg"
+  },
+  {
+    "number": "3221009",
+    "type": "技能",
+    "name": "冰霜利刃",
+    "category": "水",
+    "tag": "法术-创造",
+    "description": "攻击.",
+    "quote": "",
+    "elements_cost": {
+      "水": 2
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 1,
+    "life": -1,
+    "duration": -1,
+    "power": 4,
+    "elements_expense": {
+      "法": 1
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\水\\3221009.jpg"
+  },
+  {
+    "number": "3221010",
+    "type": "技能",
+    "name": "水幻影",
+    "category": "水",
+    "tag": "咒术-创造",
+    "description": "冷却1.召唤1个幻影,使它复制法力范围内的1个伙伴的负载和生命",
+    "quote": "",
+    "elements_cost": {
+      "暗": 1,
+      "水": 2
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": -1,
+    "life": -1,
+    "duration": -1,
+    "power": -1,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\水\\3221010.jpg"
+  },
+  {
+    "number": "3221011",
+    "type": "技能",
+    "name": "幽影寒锋",
+    "category": "水",
+    "tag": "法术-聚能",
+    "description": "攻击.穿透",
+    "quote": "",
+    "elements_cost": {
+      "暗": 1,
+      "水": 4
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 2,
+    "life": -1,
+    "duration": -1,
+    "power": 6,
+    "elements_expense": {
+      "法": 3
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\水\\3221011.jpg"
+  },
+  {
+    "number": "3221012",
+    "type": "技能",
+    "name": "霜冻射线",
+    "category": "水",
+    "tag": "法术-聚能",
+    "description": "冻结2",
+    "quote": "",
+    "elements_cost": {
+      "水": 3
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 1,
+    "life": -1,
+    "duration": -1,
+    "power": 4,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\水\\3221012.jpg"
+  },
+  {
+    "number": "3221013",
+    "type": "技能",
+    "name": "猎潮",
+    "category": "水",
+    "tag": "法术-驱动",
+    "description": "",
+    "quote": "归来的勇士跃向无底的巨口,鳞甲深处是它跳动的心脏",
+    "elements_cost": {
+      "气": 1,
+      "水": 5
+    },
+    "elements_gain": {},
+    "version_number": "1",
+    "version_name": "进阶版",
+    "attack": 3,
+    "life": -1,
+    "duration": -1,
+    "power": 7,
+    "elements_expense": {
+      "法": 2
+    },
+    "spawns": [],
+    "output_path": "output\\进阶版\\技能\\水\\3221013.jpg"
   },
   {
     "number": "3221014",
@@ -3186,31 +3259,6 @@
     "output_path": "output\\进阶版\\技能\\水\\3221014.jpg"
   },
   {
-    "number": "3121015",
-    "type": "技能",
-    "name": "焚风",
-    "category": "火",
-    "tag": "法术-驱动",
-    "description": "攻击.穿透.强化其他法术时使其获得穿透",
-    "quote": "",
-    "elements_cost": {
-      "气": 1,
-      "火": 3
-    },
-    "elements_gain": {},
-    "version_number": "1",
-    "version_name": "进阶版",
-    "attack": 1,
-    "life": -1,
-    "duration": -1,
-    "power": 3,
-    "elements_expense": {
-      "法": 2
-    },
-    "spawns": [],
-    "output_path": "output\\进阶版\\技能\\火\\3121015.jpg"
-  },
-  {
     "number": "3221015",
     "type": "技能",
     "name": "暴风雪",
@@ -3220,7 +3268,7 @@
     "quote": "",
     "elements_cost": {
       "气": 1,
-      "水": 1
+      "水": 2
     },
     "elements_gain": {},
     "version_number": "1",
