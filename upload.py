@@ -24,6 +24,7 @@ def run_git(*args, capture_output=False, check=True):
         cwd=REPO_DIR,
         check=check,
         text=True,
+        encoding="utf-8",
         stdout=subprocess.PIPE if capture_output else None,
     )
 
