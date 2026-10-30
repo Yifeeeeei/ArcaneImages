@@ -1,109 +1,162 @@
-import os
-import shutil
 import json
-from tqdm import tqdm
+import os
+from pathlib import Path
+import shutil
 import subprocess
 
+from tqdm import tqdm
+
+
 BATCH_SIZE = 40
+REPO_DIR = Path(__file__).resolve().parent
+ARCANE_GO_DIR = Path(
+    os.environ.get("ARCANE_GO_REPO", REPO_DIR.parent / "arcane_go")
+).resolve()
+OUTPUT_MAPPINGS = (
+    (ARCANE_GO_DIR / "output", REPO_DIR / "output"),
+    (ARCANE_GO_DIR / "new_output", REPO_DIR / "new_output"),
+)
+
+
+def run_git(*args, capture_output=False, check=True):
+    return subprocess.run(
+        ["git", *args],
+        cwd=REPO_DIR,
+        check=check,
+        text=True,
+        stdout=subprocess.PIPE if capture_output else None,
+    )
 
 
 def get_latest_commit():
-    # Run the git log command to get the latest commit hash
-    result = subprocess.run(
-        ["git", "rev-parse", "HEAD"], stdout=subprocess.PIPE, text=True
-    )
-
-    # Strip any trailing newline or spaces
-    latest_commit = result.stdout.strip()
-    return latest_commit
+    return run_git("rev-parse", "HEAD", capture_output=True).stdout.strip()
 
 
 def get_modified_and_added_files(commit1, commit2):
-    # Run the git diff command with --diff-filter=AM to ignore deleted files
-    result = subprocess.run(
-        ["git", "diff", "--name-only", "--diff-filter=AM", commit1, commit2],
-        stdout=subprocess.PIPE,
-        text=True,
+    result = run_git(
+        "diff",
+        "--name-only",
+        "--diff-filter=AM",
+        commit1,
+        commit2,
+        capture_output=True,
     )
+    return result.stdout.splitlines()
 
-    # Split the result by newline to get individual file names
-    files = result.stdout.splitlines()
+
+def sync_tree(source, destination):
+    if not source.is_dir():
+        raise FileNotFoundError(f"generated output directory does not exist: {source}")
+
+    copied = 0
+    for source_file in source.rglob("*"):
+        if not source_file.is_file():
+            continue
+        relative_path = source_file.relative_to(source)
+        destination_file = destination / relative_path
+        destination_file.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(source_file, destination_file)
+        copied += 1
+    print(f"Synced {copied} files: {source} -> {destination}")
+
+
+def sync_generated_outputs():
+    for source, destination in OUTPUT_MAPPINGS:
+        sync_tree(source, destination)
+
+
+def get_changed_output_files():
+    result = run_git(
+        "-c",
+        "core.quotepath=false",
+        "status",
+        "--porcelain",
+        "--untracked-files=all",
+        "--",
+        "output",
+        "new_output",
+        capture_output=True,
+    )
+    files = []
+    for line in result.stdout.splitlines():
+        path = line[3:]
+        if " -> " in path:
+            path = path.split(" -> ", 1)[1]
+        files.append(path.strip('"'))
     return files
 
 
-def get_all_files_in_dir_recursively(dirname):
-    all_files = []
-    for root, dirs, files in os.walk(dirname):
-        for file in files:
-            all_files.append(os.path.join(root, file))
-    return all_files
+def commit_and_push(files):
+    batches = [files[index : index + BATCH_SIZE] for index in range(0, len(files), BATCH_SIZE)]
+    if not batches:
+        print("No generated card files changed.")
+        return
 
-
-def commit_and_push(all_files):
-    batch_num = len(all_files) // BATCH_SIZE
-    if len(all_files) % BATCH_SIZE != 0:
-        batch_num += 1
-
-    for batch_idx in tqdm(range(batch_num)):
-        start_idx = batch_idx * BATCH_SIZE
-        end_idx = min((batch_idx + 1) * BATCH_SIZE, len(all_files))
-        batch_files = all_files[start_idx:end_idx]
-
-        cmd_add = "git add " + " ".join(batch_files)
-        os.system(cmd_add)
-        cmt_commit = (
-            'git commit -m "upload batch '
-            + str(batch_idx + 1)
-            + " of "
-            + str(batch_num)
-            + '"'
-        )
-        os.system(cmt_commit)
-        os.system("git push")
+    for batch_index, batch_files in enumerate(tqdm(batches), start=1):
+        run_git("add", "--", *batch_files)
+        run_git("commit", "-m", f"upload batch {batch_index} of {len(batches)}")
+        run_git("push")
 
 
 def commit_single_file(file_path):
-    if not os.path.exists(file_path):
-        print(file_path + " does not exist!")
-        exit(-1)
-    os.system("git add " + file_path)
-    os.system('git commit -m "upload ' + file_path + '"')
-    os.system("git push")
-    print(file_path + " uploaded successfully!")
+    path = REPO_DIR / file_path
+    if not path.exists():
+        raise FileNotFoundError(f"{file_path} does not exist")
+
+    run_git("add", "--", file_path)
+    staged = run_git(
+        "diff", "--cached", "--quiet", "--", file_path, check=False
+    )
+    if staged.returncode == 0:
+        print(f"{file_path} has no changes.")
+        return
+    run_git("commit", "-m", f"upload {file_path}")
+    run_git("push")
+    print(f"{file_path} uploaded successfully!")
 
 
-def filter_card_only(files):
-    card_numbers = []
-    for file in files:
-        number_str = file.split("/")[-1].split(".")[0]
-        # see if it can be converted to an integer
-        number = None
-        try:
-            number = int(number_str)
-            card_numbers.append(number)
-        except:
+def filter_card_ids(files, new_schema=False):
+    card_ids = []
+    prefix = "new_output/" if new_schema else "output/"
+    for file_path in files:
+        normalized = file_path.replace("\\", "/")
+        if not normalized.startswith(prefix):
             continue
-    return card_numbers
+        card_id = Path(normalized).stem
+        if new_schema:
+            if card_id and not card_id.isdigit():
+                card_ids.append(card_id)
+        elif card_id.isdigit():
+            card_ids.append(int(card_id))
+    return sorted(set(card_ids))
 
 
-if __name__ == "__main__":
+def write_update_file(file_path, card_ids):
+    with (REPO_DIR / file_path).open("w", encoding="utf-8") as file:
+        json.dump(card_ids, file, ensure_ascii=False)
+        file.write("\n")
+    commit_single_file(file_path)
+
+
+def main():
+    os.chdir(REPO_DIR)
     last_commit_hash = get_latest_commit()
 
+    sync_generated_outputs()
     commit_single_file("update.txt")
-    if not os.path.exists("output"):
-        print("output directory does not exist!")
-        exit(-1)
-    all_files = get_all_files_in_dir_recursively("output")
-    commit_and_push(all_files)
-    print("All files uploaded successfully!")
+    commit_and_push(get_changed_output_files())
 
     now_commit_hash = get_latest_commit()
     modified_files = get_modified_and_added_files(last_commit_hash, now_commit_hash)
+    modified_cards = filter_card_ids(modified_files)
+    modified_new_cards = filter_card_ids(modified_files, new_schema=True)
+    print("Modified legacy cards:", modified_cards)
+    print("Modified redesigned cards:", modified_new_cards)
 
-    modified_cards = filter_card_only(modified_files)
-    print("Modified cards: ", modified_cards)
-
-    with open("update.json", "w") as f:
-        json.dump(modified_cards, f)
-    commit_single_file("update.json")
+    write_update_file("update.json", modified_cards)
+    write_update_file("new_update.json", modified_new_cards)
     print("upload completed")
+
+
+if __name__ == "__main__":
+    main()
