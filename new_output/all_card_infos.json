@@ -1,0 +1,2945 @@
+[
+  {
+    "number": "BAC001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "收藏家·珊瑚·芬洛",
+    "category": "奥术",
+    "subtype": "人类",
+    "rarity": "传奇",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "奥术": 5
+    },
+    "elements_gain": {
+      "奥术": 1
+    },
+    "attack": 2,
+    "life": 8,
+    "cooldown": 0,
+    "description": "诱发回合技1：己方回合，使用一张卷轴结算后，抽1张牌。",
+    "quote": "“没错啊，小岛上全是我的收藏品，不过这些东西加一起都比不上我的宝贝女儿”",
+    "source": "奥术",
+    "art_ref": "1011101",
+    "output_path": "new_output/基础包/伙伴/奥术/BAC001.jpg"
+  },
+  {
+    "number": "BAC002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "学院守门学徒",
+    "category": "奥术",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "attack": 1,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "奥术",
+    "output_path": "new_output/基础包/伙伴/奥术/BAC002.jpg"
+  },
+  {
+    "number": "BAC003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "魔力勘探者",
+    "category": "奥术",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "elements_gain": {
+      "奥术": 1
+    },
+    "attack": 0,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "奥术",
+    "output_path": "new_output/基础包/伙伴/奥术/BAC003.jpg"
+  },
+  {
+    "number": "BAC004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "奥术壁垒",
+    "category": "奥术",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "奥术": 2
+    },
+    "attack": 0,
+    "life": 6,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "奥术",
+    "art_ref": "1021018",
+    "output_path": "new_output/基础包/伙伴/奥术/BAC004.jpg"
+  },
+  {
+    "number": "BAC005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "屠魔者武士",
+    "category": "奥术",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "奥术": 3
+    },
+    "attack": 3,
+    "life": 7,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "奥术",
+    "art_ref": "1021013",
+    "output_path": "new_output/基础包/伙伴/奥术/BAC005.jpg"
+  },
+  {
+    "number": "BAC006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "符文师",
+    "category": "奥术",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "奥术": 2
+    },
+    "attack": 1,
+    "life": 3,
+    "cooldown": 0,
+    "description": "入场：抽1张牌，然后弃1张手牌。",
+    "quote": "",
+    "source": "奥术",
+    "art_ref": "1021017",
+    "output_path": "new_output/基础包/伙伴/奥术/BAC006.jpg"
+  },
+  {
+    "number": "BAC007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "奥术盔甲匠",
+    "category": "奥术",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "奥术": 3
+    },
+    "elements_gain": {
+      "奥术": 1
+    },
+    "attack": 2,
+    "life": 5,
+    "cooldown": 0,
+    "description": "",
+    "quote": "“不不不，您这套行头出去可不像样啊”",
+    "source": "奥术",
+    "art_ref": "1021016",
+    "output_path": "new_output/基础包/伙伴/奥术/BAC007.jpg"
+  },
+  {
+    "number": "BAC008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "知识馆守卫",
+    "category": "奥术",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "奥术": 5
+    },
+    "attack": 4,
+    "life": 10,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "奥术",
+    "output_path": "new_output/基础包/伙伴/奥术/BAC008.jpg"
+  },
+  {
+    "number": "BAH001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "“南境百灵”斯卡尔蒂·罗佳",
+    "category": "奥术",
+    "subtype": "璀璨歌星",
+    "elements_gain": {
+      "奥术": 2
+    },
+    "attack": 0,
+    "life": 25,
+    "skill_slots": 2,
+    "description": "诱发回合技1：己方回合，使用一张卷轴结算后，可以使1个友方伙伴本回合攻击力+1。",
+    "quote": "发表获奖感言时，这位闪耀的歌星热泪盈眶：“尽管我未能成功毕业，但我要特别感谢我曾经的地脉法术教师耶伦尔，在所有人不看好我的情况下，他却说我是一个发展均衡，充满潜力的孩子”",
+    "source": "人物",
+    "art_ref": "4011001",
+    "output_path": "new_output/基础包/人物/奥术/BAH001.jpg"
+  },
+  {
+    "number": "BAH002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "“无面”",
+    "category": "奥术",
+    "subtype": "战士",
+    "elements_gain": {
+      "奥术": 2
+    },
+    "attack": 0,
+    "life": 20,
+    "skill_slots": 2,
+    "description": "诱发：己方回合开始时，若你的普通技能区没有技能，可以使1个友方伙伴本回合攻击力+1。",
+    "quote": "凡有所相，皆是虚妄",
+    "source": "人物",
+    "art_ref": "4011002",
+    "output_path": "new_output/基础包/人物/奥术/BAH002.jpg"
+  },
+  {
+    "number": "BAH003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "纯净灵体·奥希斯",
+    "category": "奥术",
+    "subtype": "法师",
+    "elements_gain": {
+      "奥术": 2
+    },
+    "attack": 0,
+    "life": 20,
+    "skill_slots": 3,
+    "description": "诱发回合技1：己方回合，施放一个奥术属性技能结算后，若你的普通技能区中的所有技能均为奥术属性，你的人物回复1生命。",
+    "quote": "\"你觉得你创造了我?我倒是觉得恰恰相反\"",
+    "source": "人物",
+    "art_ref": "4011101",
+    "output_path": "new_output/基础包/人物/奥术/BAH003.jpg"
+  },
+  {
+    "number": "BAH004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "大法师·罗慕路斯",
+    "category": "奥术",
+    "subtype": "法师",
+    "elements_gain": {
+      "奥术": 2
+    },
+    "attack": 0,
+    "life": 21,
+    "skill_slots": 3,
+    "description": "诱发回合技1：己方回合，学习或同名刷新一个奥术属性技能后，查看牌库顶1张牌，可以将其置于牌库底。",
+    "quote": "“看啊，多么完美而纯粹的造物！”",
+    "source": "人物",
+    "art_ref": "4011102",
+    "output_path": "new_output/基础包/人物/奥术/BAH004.jpg"
+  },
+  {
+    "number": "BAI001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "大法师之杖",
+    "category": "奥术",
+    "subtype": "装备-武器",
+    "rarity": "传奇",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "奥术": 6
+    },
+    "elements_gain": {
+      "奥术": 2
+    },
+    "cooldown": 0,
+    "description": "诱发回合技1：己方回合，施放一个印刷发动法力费用不少于2的技能结算后，抽1张牌。",
+    "quote": "等你成为了大法师，你的法杖就是大法师之杖",
+    "source": "奥术",
+    "art_ref": "2011001",
+    "output_path": "new_output/基础包/道具/奥术/BAI001.jpg"
+  },
+  {
+    "number": "BAI002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "魔法石",
+    "category": "奥术",
+    "subtype": "装备-器物",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "elements_gain": {
+      "奥术": 1
+    },
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "奥术",
+    "art_ref": "2021008",
+    "output_path": "new_output/基础包/道具/奥术/BAI002.jpg"
+  },
+  {
+    "number": "BAI003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "秘法宝典",
+    "category": "奥术",
+    "subtype": "装备-器物",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "奥术": 3
+    },
+    "elements_gain": {
+      "奥术": 1
+    },
+    "cooldown": 0,
+    "description": "入场：查看牌库顶1张牌，可以将其置于牌库底。",
+    "quote": "",
+    "source": "奥术",
+    "art_ref": "2021001",
+    "output_path": "new_output/基础包/道具/奥术/BAI003.jpg"
+  },
+  {
+    "number": "BAI004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "记忆项链",
+    "category": "奥术",
+    "subtype": "装备-饰物",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "奥术": 4
+    },
+    "cooldown": 0,
+    "description": "光环：你的普通技能槽数量+1，但不能因这张牌超过4个。",
+    "quote": "",
+    "source": "奥术",
+    "art_ref": "2021002",
+    "output_path": "new_output/基础包/道具/奥术/BAI004.jpg"
+  },
+  {
+    "number": "BAI005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "破魔之刃",
+    "category": "奥术",
+    "subtype": "装备-武器",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "奥术": 3
+    },
+    "attack": 1,
+    "cooldown": 0,
+    "description": "入场：对手失去2点护盾。",
+    "quote": "",
+    "source": "奥术",
+    "art_ref": "2021102",
+    "output_path": "new_output/基础包/道具/奥术/BAI005.jpg"
+  },
+  {
+    "number": "BAI006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "奥术容器",
+    "category": "奥术",
+    "subtype": "装备-器物",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "奥术": 4
+    },
+    "elements_gain": {
+      "奥术": 2
+    },
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "奥术",
+    "art_ref": "2021106",
+    "output_path": "new_output/基础包/道具/奥术/BAI006.jpg"
+  },
+  {
+    "number": "BAI007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "缴械卷轴",
+    "category": "奥术",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "奥术": 3
+    },
+    "cooldown": 0,
+    "description": "将1张敌方正面装备送入其拥有者的弃牌堆。",
+    "quote": "除你武器！",
+    "source": "奥术",
+    "art_ref": "3021008",
+    "output_path": "new_output/基础包/道具/奥术/BAI007.jpg"
+  },
+  {
+    "number": "BAI008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "移形换影卷轴",
+    "category": "奥术",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "奥术": 1
+    },
+    "cooldown": 0,
+    "description": "将1个友方单位移动至己方单位区1个空位。",
+    "quote": "",
+    "source": "奥术",
+    "art_ref": "3021001",
+    "output_path": "new_output/基础包/道具/奥术/BAI008.jpg"
+  },
+  {
+    "number": "BAI009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "奥能净化卷轴",
+    "category": "奥术",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "奥术": 2
+    },
+    "cooldown": 0,
+    "description": "选择1个友方单位或1个己方普通技能，移除其全部负面状态。不移除冷却，也不将其竖置。",
+    "quote": "",
+    "source": "奥术",
+    "art_ref": "3021105",
+    "output_path": "new_output/基础包/道具/奥术/BAI009.jpg"
+  },
+  {
+    "number": "BAI010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "银叶手札",
+    "category": "奥术",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "奥术": 2
+    },
+    "cooldown": 0,
+    "description": "抽2张牌。",
+    "quote": "",
+    "source": "奥术",
+    "art_ref": "2021101",
+    "output_path": "new_output/基础包/道具/奥术/BAI010.jpg"
+  },
+  {
+    "number": "BAI011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "奥术结界",
+    "category": "奥术",
+    "subtype": "消耗品-反制",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "奥术": 2
+    },
+    "cooldown": 0,
+    "description": "反制：敌方声明施放一个进攻法术时，在命中前你获得2点护盾。",
+    "quote": "",
+    "source": "奥术",
+    "art_ref": "2021113",
+    "output_path": "new_output/基础包/道具/奥术/BAI011.jpg"
+  },
+  {
+    "number": "BAI012",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "神护符文",
+    "category": "奥术",
+    "subtype": "消耗品-反制",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "奥术": 3
+    },
+    "cooldown": 0,
+    "description": "反制：敌方单位或装备声明直接攻击1个友方单位时，在伤害前使该次攻击对该单位造成的伤害减少2，最低为0。",
+    "quote": "",
+    "source": "奥术",
+    "art_ref": "2021114",
+    "output_path": "new_output/基础包/道具/奥术/BAI012.jpg"
+  },
+  {
+    "number": "BAS001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "绝对纯净·奥能一心",
+    "category": "奥术",
+    "subtype": "法术-聚能",
+    "rarity": "传奇",
+    "mana_cost": 4,
+    "activation_mana": 3,
+    "tech_requirement": {
+      "奥术": 8
+    },
+    "attack": 4,
+    "cooldown": 1,
+    "description": "范围：敌方实际前排。",
+    "quote": "“罗慕路斯，一个只会奥术的法师是走不远的”",
+    "source": "奥术",
+    "art_ref": "3011101",
+    "output_path": "new_output/基础包/技能/奥术/BAS001.jpg"
+  },
+  {
+    "number": "BAS002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "奥术箭矢",
+    "category": "奥术",
+    "subtype": "法术-聚能",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "奥术": 2
+    },
+    "attack": 1,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "奥术",
+    "art_ref": "3021005",
+    "output_path": "new_output/基础包/技能/奥术/BAS002.jpg"
+  },
+  {
+    "number": "BAS003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "预见",
+    "category": "奥术",
+    "subtype": "咒术-灵媒",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "奥术": 1
+    },
+    "cooldown": 1,
+    "description": "查看牌库顶2张牌，将其中任意数量的牌按任意顺序置于牌库底，其余按任意顺序放回牌库顶。",
+    "quote": "这是否也是命运的一部分？",
+    "source": "奥术",
+    "art_ref": "3021002",
+    "output_path": "new_output/基础包/技能/奥术/BAS003.jpg"
+  },
+  {
+    "number": "BAS004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "奥能汲取",
+    "category": "奥术",
+    "subtype": "咒术-灵媒",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 2,
+    "tech_requirement": {
+      "奥术": 3
+    },
+    "cooldown": 1,
+    "description": "抽2张牌。",
+    "quote": "",
+    "source": "奥术",
+    "art_ref": "3021103",
+    "output_path": "new_output/基础包/技能/奥术/BAS004.jpg"
+  },
+  {
+    "number": "BFC001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "火龙 “辉煌”",
+    "category": "火焰",
+    "subtype": "龙",
+    "rarity": "传奇",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "火": 7
+    },
+    "elements_gain": {
+      "火": 1
+    },
+    "attack": 5,
+    "life": 12,
+    "cooldown": 0,
+    "description": "入场：对敌方实际前排所有单位各造成2点火焰效果伤害。",
+    "quote": "不可一世的巨龙，为了残存的火焰元素，向巫师们尽忠",
+    "source": "火",
+    "art_ref": "1111001",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC001.jpg"
+  },
+  {
+    "number": "BFC002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "炎狱大将军 狄斯托德",
+    "category": "火焰",
+    "subtype": "巫师",
+    "rarity": "传奇",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "火": 8
+    },
+    "elements_gain": {
+      "火": 1
+    },
+    "attack": 4,
+    "life": 13,
+    "cooldown": 0,
+    "description": "诱发：己方回合开始时，对敌方实际前排所有伙伴各造成2点火焰效果伤害。",
+    "quote": "“我的使命，就是将地狱带到人间”",
+    "source": "火",
+    "art_ref": "1111002",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC002.jpg"
+  },
+  {
+    "number": "BFC003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "火焰精灵",
+    "category": "火焰",
+    "subtype": "精灵",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "elements_gain": {
+      "火": 1
+    },
+    "attack": 0,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "火",
+    "art_ref": "1121001",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC003.jpg"
+  },
+  {
+    "number": "BFC004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "燎原新兵",
+    "category": "火焰",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "火": 1
+    },
+    "attack": 2,
+    "life": 1,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "火",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC004.jpg"
+  },
+  {
+    "number": "BFC005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "活泼的炉火",
+    "category": "火焰",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "火": 2
+    },
+    "elements_gain": {
+      "火": 1
+    },
+    "attack": 0,
+    "life": 2,
+    "cooldown": 0,
+    "description": "入场：抽1张牌。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "1121002",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC005.jpg"
+  },
+  {
+    "number": "BFC006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "火花飞蛾",
+    "category": "火焰",
+    "subtype": "野兽",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "火": 2
+    },
+    "attack": 1,
+    "life": 2,
+    "cooldown": 0,
+    "description": "速攻。\n条件：本回合你造成的火焰伤害大于5时，此卡的入场法力费用-1。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "1121112",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC006.jpg"
+  },
+  {
+    "number": "BFC007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "熔岩傀儡",
+    "category": "火焰",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "火": 1
+    },
+    "elements_gain": {
+      "火": 1
+    },
+    "attack": 1,
+    "life": 4,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "火",
+    "art_ref": "1121005",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC007.jpg"
+  },
+  {
+    "number": "BFC008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "熔岩烽蛇",
+    "category": "火焰",
+    "subtype": "野兽",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "火": 3
+    },
+    "attack": 2,
+    "life": 5,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "火",
+    "art_ref": "1121006",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC008.jpg"
+  },
+  {
+    "number": "BFC009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "火荆",
+    "category": "火焰",
+    "subtype": "植物",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "火": 1
+    },
+    "attack": 1,
+    "life": 2,
+    "cooldown": 0,
+    "description": "遗言：使法力范围内1个敌方单位获得点燃1。",
+    "quote": "穿过如火荆棘，方见白洁花簇",
+    "source": "火",
+    "art_ref": "1121014",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC009.jpg"
+  },
+  {
+    "number": "BFC010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "赤鹰",
+    "category": "火焰",
+    "subtype": "野兽",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "火": 3
+    },
+    "attack": 1,
+    "life": 4,
+    "cooldown": 0,
+    "description": "入场：检索1张入场法力为4的火焰伙伴牌。",
+    "quote": "每只赤鹰都想成为凤凰，前提是它们身上的羽毛还没有被猎人拔光",
+    "source": "火",
+    "art_ref": "1121009",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC010.jpg"
+  },
+  {
+    "number": "BFC011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "锻石工匠",
+    "category": "火焰",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "火": 2
+    },
+    "elements_gain": {
+      "火": 1
+    },
+    "attack": 1,
+    "life": 2,
+    "cooldown": 0,
+    "description": "主动：横置此伙伴，使1个其他友方火焰伙伴本回合攻击力增加1。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "1121003",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC011.jpg"
+  },
+  {
+    "number": "BFC012",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "舞火者",
+    "category": "火焰",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "火": 2
+    },
+    "attack": 2,
+    "life": 4,
+    "cooldown": 0,
+    "description": "入场：你可以移除1个友方火焰伙伴的全部冻结和眩晕。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "1121016",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC012.jpg"
+  },
+  {
+    "number": "BFC013",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "凯尔特雄狮",
+    "category": "火焰",
+    "subtype": "野兽",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "火": 4
+    },
+    "attack": 3,
+    "life": 8,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "火",
+    "art_ref": "1121004",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC013.jpg"
+  },
+  {
+    "number": "BFC014",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "纵火者",
+    "category": "火焰",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "火": 3
+    },
+    "attack": 1,
+    "life": 4,
+    "cooldown": 0,
+    "description": "远程。",
+    "quote": "谁能拒绝将一切燃烧殆尽的快乐呢",
+    "source": "火",
+    "art_ref": "1121013",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC014.jpg"
+  },
+  {
+    "number": "BFC015",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "至纯之火",
+    "category": "火焰",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "火": 3
+    },
+    "elements_gain": {
+      "火": 2
+    },
+    "attack": 0,
+    "life": 4,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "火",
+    "art_ref": "1121007",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC015.jpg"
+  },
+  {
+    "number": "BFC016",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "熔岩堡战车",
+    "category": "火焰",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "火": 4
+    },
+    "attack": 3,
+    "life": 7,
+    "cooldown": 0,
+    "description": "诱发：此卡攻击造成伤害后，使该单位获得点燃1。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "1121104",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC016.jpg"
+  },
+  {
+    "number": "BFC017",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "弗卡莱诺近卫",
+    "category": "火焰",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "火": 3
+    },
+    "elements_gain": {
+      "火": 1
+    },
+    "attack": 1,
+    "life": 6,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "火",
+    "art_ref": "1121105",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC017.jpg"
+  },
+  {
+    "number": "BFC018",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "神火兽骑手",
+    "category": "火焰",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "火": 4
+    },
+    "attack": 3,
+    "life": 3,
+    "cooldown": 0,
+    "description": "速攻。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "1121109",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC018.jpg"
+  },
+  {
+    "number": "BFC019",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "火山飞龙",
+    "category": "火焰",
+    "subtype": "龙",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "火": 6
+    },
+    "elements_gain": {
+      "火": 1
+    },
+    "attack": 4,
+    "life": 11,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "火",
+    "art_ref": "1121011",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC019.jpg"
+  },
+  {
+    "number": "BFC020",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "炎狱使者",
+    "category": "火焰",
+    "subtype": "恶魔",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "火": 7
+    },
+    "elements_gain": {
+      "火": 1
+    },
+    "attack": 5,
+    "life": 12,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "火",
+    "art_ref": "1121008",
+    "output_path": "new_output/基础包/伙伴/火焰/BFC020.jpg"
+  },
+  {
+    "number": "BFH001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "掌门 龙卷火",
+    "category": "火焰",
+    "subtype": "大法师",
+    "elements_gain": {
+      "火": 2
+    },
+    "attack": 0,
+    "life": 20,
+    "skill_slots": 3,
+    "description": "诱发回合技1：己方回合首次使用火焰单体常驻法术技能时，若其目标是伙伴，该次法术的攻击力+1。",
+    "quote": "“我最强大的弟子，我们本可一起称霸...很遗憾你选择与我为敌”",
+    "source": "人物",
+    "art_ref": "4111001",
+    "output_path": "new_output/基础包/人物/火焰/BFH001.jpg"
+  },
+  {
+    "number": "BFH002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "女巫 维兰德",
+    "category": "火焰",
+    "subtype": "魔女",
+    "activation_mana": 0,
+    "elements_gain": {
+      "火": 2
+    },
+    "attack": 0,
+    "life": 20,
+    "skill_slots": 3,
+    "description": "主动回合技1：失去1生命，本回合你下一次使用的火焰单体法术攻击力增加1，直到该次法术结算完毕。",
+    "quote": "“别瞎说，我们可不敢烧女巫，是她自己烧的”",
+    "source": "人物",
+    "art_ref": "4111002",
+    "output_path": "new_output/基础包/人物/火焰/BFH002.jpg"
+  },
+  {
+    "number": "BFH003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "大祭司 梵天",
+    "category": "火焰",
+    "subtype": "大祭司",
+    "activation_mana": 2,
+    "elements_gain": {
+      "火": 2
+    },
+    "attack": 0,
+    "life": 20,
+    "skill_slots": 3,
+    "description": "主动绝技：支付2法力，直到你的下个回合结束，此人物额外提供2点火焰负载。",
+    "quote": "“我，梵天，带领全火焰门派，将追随我们唯一的王。愿祭坛之火庇佑她的王国”",
+    "source": "人物",
+    "art_ref": "4111003",
+    "output_path": "new_output/基础包/人物/火焰/BFH003.jpg"
+  },
+  {
+    "number": "BFH004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "首席顾问 费林",
+    "category": "火焰",
+    "subtype": "军团顾问",
+    "activation_mana": 1,
+    "elements_gain": {
+      "火": 2
+    },
+    "attack": 0,
+    "life": 25,
+    "skill_slots": 2,
+    "description": "主动回合技1：支付1法力并献祭1个友方火焰伙伴，抽2张牌。",
+    "quote": "\"不用担心，我想师兄会认同我们的，毕竟，我们必须以王国的利益为重\"",
+    "source": "人物",
+    "art_ref": "4111101",
+    "output_path": "new_output/基础包/人物/火焰/BFH004.jpg"
+  },
+  {
+    "number": "BFH005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "大将军 克兰",
+    "category": "火焰",
+    "subtype": "将星",
+    "elements_gain": {
+      "火": 2
+    },
+    "attack": 0,
+    "life": 25,
+    "skill_slots": 2,
+    "description": "诱发回合技1：己方回合，你的第一次火焰伙伴普通攻击获得+1攻击力，直到该次攻击结算完毕。",
+    "quote": "\"我给你了一次又一次的机会，可惜你依然选择违抗我\"",
+    "source": "人物",
+    "art_ref": "4111102",
+    "output_path": "new_output/基础包/人物/火焰/BFH005.jpg"
+  },
+  {
+    "number": "BFI001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "火龙之心",
+    "category": "火焰",
+    "subtype": "装备-神器",
+    "rarity": "传奇",
+    "mana_cost": 4,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "火": 6
+    },
+    "elements_gain": {
+      "火": 2
+    },
+    "cooldown": 0,
+    "description": "主动回合技1：横置此装备，本回合你下一次使用的火焰单体法术攻击力增加1，直到该次法术结算完毕。",
+    "quote": "辉煌死后，索拓尔使用它的心脏炼制了这件神器。只是没人看见火龙是怎么死的",
+    "source": "火",
+    "art_ref": "2111001",
+    "output_path": "new_output/基础包/道具/火焰/BFI001.jpg"
+  },
+  {
+    "number": "BFI002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "火焰面甲",
+    "category": "火焰",
+    "subtype": "装备-饰物",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "火": 1
+    },
+    "elements_gain": {
+      "火": 1
+    },
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "火",
+    "art_ref": "2121006",
+    "output_path": "new_output/基础包/道具/火焰/BFI002.jpg"
+  },
+  {
+    "number": "BFI003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "火匣子",
+    "category": "火焰",
+    "subtype": "装备-器物",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "elements_gain": {
+      "火": 1
+    },
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "火",
+    "art_ref": "2121014",
+    "output_path": "new_output/基础包/道具/火焰/BFI003.jpg"
+  },
+  {
+    "number": "BFI004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "凤凰之羽",
+    "category": "火焰",
+    "subtype": "装备-神器",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "火": 3
+    },
+    "elements_gain": {
+      "火": 1
+    },
+    "cooldown": 0,
+    "description": "主动绝技：横置并献祭此装备，使1个友方伙伴回复4生命。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "2121001",
+    "output_path": "new_output/基础包/道具/火焰/BFI004.jpg"
+  },
+  {
+    "number": "BFI005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "炽火链鞭",
+    "category": "火焰",
+    "subtype": "装备-武器",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "火": 3
+    },
+    "elements_gain": {
+      "火": 1
+    },
+    "attack": 1,
+    "cooldown": 0,
+    "description": "",
+    "quote": "想不到你还好这口",
+    "source": "火",
+    "art_ref": "2121010",
+    "output_path": "new_output/基础包/道具/火焰/BFI005.jpg"
+  },
+  {
+    "number": "BFI006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "舞火战裙",
+    "category": "火焰",
+    "subtype": "装备-防具",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "火": 2
+    },
+    "elements_gain": {
+      "火": 1
+    },
+    "cooldown": 0,
+    "description": "主动绝技：横置此装备，移除1个友方火焰单位的全部负面状态。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "2121007",
+    "output_path": "new_output/基础包/道具/火焰/BFI006.jpg"
+  },
+  {
+    "number": "BFI007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "熔火战铠",
+    "category": "火焰",
+    "subtype": "装备-防具",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "火": 4
+    },
+    "elements_gain": {
+      "火": 2
+    },
+    "cooldown": 0,
+    "description": "诱发回合技1：敌方回合，你的人物第一次将受到敌方单位或装备的直接攻击伤害时，该次伤害减少1，最低为0。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "2121013",
+    "output_path": "new_output/基础包/道具/火焰/BFI007.jpg"
+  },
+  {
+    "number": "BFI008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "神火集结号",
+    "category": "火焰",
+    "subtype": "装备-器物",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "火": 4
+    },
+    "elements_gain": {
+      "火": 2
+    },
+    "cooldown": 0,
+    "description": "入场：抽1张牌，然后弃1张手牌。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "2121107",
+    "output_path": "new_output/基础包/道具/火焰/BFI008.jpg"
+  },
+  {
+    "number": "BFI009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "灼烧卷轴",
+    "category": "火焰",
+    "subtype": "消耗品-法术卷轴-聚能",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "火": 1
+    },
+    "attack": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "火",
+    "art_ref": "2121003",
+    "output_path": "new_output/基础包/道具/火焰/BFI009.jpg"
+  },
+  {
+    "number": "BFI010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "火流星卷轴",
+    "category": "火焰",
+    "subtype": "消耗品-法术卷轴-驱动",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "火": 4
+    },
+    "attack": 2,
+    "cooldown": 0,
+    "description": "穿透。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "2121011",
+    "output_path": "new_output/基础包/道具/火焰/BFI010.jpg"
+  },
+  {
+    "number": "BFI011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "烈焰风暴卷轴",
+    "category": "火焰",
+    "subtype": "消耗品-法术卷轴-创造",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "火": 4
+    },
+    "attack": 2,
+    "cooldown": 0,
+    "description": "范围：方阵。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "2121008",
+    "output_path": "new_output/基础包/道具/火焰/BFI011.jpg"
+  },
+  {
+    "number": "BFI012",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "炎流卷轴",
+    "category": "火焰",
+    "subtype": "消耗品-法术卷轴-创造",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "火": 4
+    },
+    "attack": 3,
+    "cooldown": 0,
+    "description": "范围：纵列。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "2121112",
+    "output_path": "new_output/基础包/道具/火焰/BFI012.jpg"
+  },
+  {
+    "number": "BFI013",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "神炎鼓舞卷轴",
+    "category": "火焰",
+    "subtype": "消耗品-咒术卷轴-聚能",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "火": 2
+    },
+    "cooldown": 0,
+    "description": "使1个友方火焰伙伴本回合攻击力增加2。",
+    "quote": "",
+    "source": "火",
+    "output_path": "new_output/基础包/道具/火焰/BFI013.jpg"
+  },
+  {
+    "number": "BFI014",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "烈焰障壁卷轴",
+    "category": "火焰",
+    "subtype": "消耗品-咒术卷轴-创造",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "火": 2
+    },
+    "cooldown": 0,
+    "description": "你获得3点护盾。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "2121009",
+    "output_path": "new_output/基础包/道具/火焰/BFI014.jpg"
+  },
+  {
+    "number": "BFI015",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "火焰符文",
+    "category": "火焰",
+    "subtype": "消耗品-反制-符文",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "火": 2
+    },
+    "cooldown": 0,
+    "description": "反制：敌方单位宣告普通攻击时，对该攻击者造成2点火焰效果伤害。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "2121002",
+    "output_path": "new_output/基础包/道具/火焰/BFI015.jpg"
+  },
+  {
+    "number": "BFI016",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "狱火符文",
+    "category": "火焰",
+    "subtype": "消耗品-反制-符文",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "火": 4
+    },
+    "cooldown": 0,
+    "description": "反制：敌方伙伴入场后，使该伙伴获得点燃2和眩晕1。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "2121012",
+    "output_path": "new_output/基础包/道具/火焰/BFI016.jpg"
+  },
+  {
+    "number": "BFS001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "原初神炎 洛普修斯",
+    "category": "火焰",
+    "subtype": "法术-神秘",
+    "rarity": "传奇",
+    "mana_cost": 4,
+    "activation_mana": 4,
+    "tech_requirement": {
+      "火": 8
+    },
+    "attack": 6,
+    "cooldown": 2,
+    "description": "范围：敌方全场。",
+    "quote": "“努尔已经被战争和毁灭蒙蔽双眼，而洛普修斯将引领我们向往更辉煌的终点！”",
+    "source": "火",
+    "art_ref": "3111102",
+    "output_path": "new_output/基础包/技能/火焰/BFS001.jpg"
+  },
+  {
+    "number": "BFS002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "火球术",
+    "category": "火焰",
+    "subtype": "法术-创造",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "火": 2
+    },
+    "attack": 1,
+    "cooldown": 0,
+    "description": "",
+    "quote": "巫师学院里有一个传说，你可以看到五颜六色的火焰，蓝色的、绿色的、黑色的，唯独没有红色的",
+    "source": "火",
+    "art_ref": "3121001",
+    "output_path": "new_output/基础包/技能/火焰/BFS002.jpg"
+  },
+  {
+    "number": "BFS003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "炽热射线",
+    "category": "火焰",
+    "subtype": "法术-聚能",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "火": 3
+    },
+    "attack": 1,
+    "cooldown": 0,
+    "description": "命中后：目标获得点燃1。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "3121003",
+    "output_path": "new_output/基础包/技能/火焰/BFS003.jpg"
+  },
+  {
+    "number": "BFS004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "焚烧",
+    "category": "火焰",
+    "subtype": "法术-幻变",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "火": 4
+    },
+    "attack": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "火",
+    "art_ref": "3121002",
+    "output_path": "new_output/基础包/技能/火焰/BFS004.jpg"
+  },
+  {
+    "number": "BFS005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "引燃",
+    "category": "火焰",
+    "subtype": "咒术-幻变",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "火": 2
+    },
+    "cooldown": 0,
+    "description": "使法力范围内1个敌方单位获得点燃1。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "3121011",
+    "output_path": "new_output/基础包/技能/火焰/BFS005.jpg"
+  },
+  {
+    "number": "BFS006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "爆焰一击",
+    "category": "火焰",
+    "subtype": "法术-聚能",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "火": 4
+    },
+    "attack": 3,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "火",
+    "art_ref": "3121009",
+    "output_path": "new_output/基础包/技能/火焰/BFS006.jpg"
+  },
+  {
+    "number": "BFS007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "燃烧大地",
+    "category": "火焰",
+    "subtype": "法术-驱动",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 2,
+    "tech_requirement": {
+      "火": 4
+    },
+    "attack": 3,
+    "cooldown": 1,
+    "description": "范围：敌方实际前排。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "3121004",
+    "output_path": "new_output/基础包/技能/火焰/BFS007.jpg"
+  },
+  {
+    "number": "BFS008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "烈焰风暴",
+    "category": "火焰",
+    "subtype": "法术-创造",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 2,
+    "tech_requirement": {
+      "火": 5
+    },
+    "attack": 3,
+    "cooldown": 1,
+    "description": "范围：方阵。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "3121005",
+    "output_path": "new_output/基础包/技能/火焰/BFS008.jpg"
+  },
+  {
+    "number": "BFS009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "炎狱怒吼",
+    "category": "火焰",
+    "subtype": "法术-创造",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 2,
+    "tech_requirement": {
+      "火": 5
+    },
+    "attack": 3,
+    "cooldown": 1,
+    "description": "范围：纵列。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "3121104",
+    "output_path": "new_output/基础包/技能/火焰/BFS009.jpg"
+  },
+  {
+    "number": "BFS010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "陨石术",
+    "category": "火焰",
+    "subtype": "法术-驱动",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 3,
+    "tech_requirement": {
+      "火": 6
+    },
+    "attack": 4,
+    "cooldown": 1,
+    "description": "穿透。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "3121006",
+    "output_path": "new_output/基础包/技能/火焰/BFS010.jpg"
+  },
+  {
+    "number": "BFS011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "激情之火",
+    "category": "火焰",
+    "subtype": "咒术-聚能",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "火": 3
+    },
+    "cooldown": 1,
+    "description": "抽1张牌。",
+    "quote": "",
+    "source": "火",
+    "art_ref": "3121007",
+    "output_path": "new_output/基础包/技能/火焰/BFS011.jpg"
+  },
+  {
+    "number": "BFS012",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "万火合一术",
+    "category": "火焰",
+    "subtype": "法术-聚能",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "activation_mana": 2,
+    "tech_requirement": {
+      "火": 7
+    },
+    "attack": 6,
+    "cooldown": 1,
+    "description": "",
+    "quote": "",
+    "source": "火",
+    "art_ref": "3101002",
+    "output_path": "new_output/基础包/技能/火焰/BFS012.jpg"
+  },
+  {
+    "number": "BWC001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "人鱼 菲尔",
+    "category": "水纹",
+    "subtype": "异兽",
+    "rarity": "传奇",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "水": 4
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "attack": 2,
+    "life": 6,
+    "cooldown": 0,
+    "description": "入场：你可以从主卡组检索1张入场法力费用不超过2的水纹伙伴牌，展示并加入手牌，然后洗混主卡组。",
+    "quote": "合上眼睛，她回忆起曾经的海浪，礁石...以及她信任的那位王子",
+    "source": "水",
+    "art_ref": "1211001",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC001.jpg"
+  },
+  {
+    "number": "BWC002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "深渊巨口 利维坦",
+    "category": "水纹",
+    "subtype": "异兽-深渊",
+    "rarity": "传奇",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "水": 8
+    },
+    "attack": 6,
+    "life": 13,
+    "cooldown": 0,
+    "description": "入场：你可以消灭法力范围内1个当前生命不超过3的敌方伙伴。",
+    "quote": "\"只有一人能从巨口中存活，他便是那怪物命中注定的斩杀者\"",
+    "source": "水",
+    "art_ref": "1211002",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC002.jpg"
+  },
+  {
+    "number": "BWC003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "初生水灵",
+    "category": "水纹",
+    "subtype": "元素",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "elements_gain": {
+      "水": 1
+    },
+    "attack": 0,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "水",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC003.jpg"
+  },
+  {
+    "number": "BWC004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "凝霜侍从",
+    "category": "水纹",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "水": 1
+    },
+    "attack": 2,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "水",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC004.jpg"
+  },
+  {
+    "number": "BWC005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "岸礁盾兵",
+    "category": "水纹",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "水": 2
+    },
+    "attack": 1,
+    "life": 4,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "水",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC005.jpg"
+  },
+  {
+    "number": "BWC006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "北海飞鱼",
+    "category": "水纹",
+    "subtype": "野兽",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "水": 3
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "attack": 1,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "水",
+    "art_ref": "1221014",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC006.jpg"
+  },
+  {
+    "number": "BWC007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "海豚伙伴",
+    "category": "水纹",
+    "subtype": "野兽",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "水": 2
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "attack": 1,
+    "life": 2,
+    "cooldown": 0,
+    "description": "诱发：当另1个友方单位将受到伤害时，你可以献祭此伙伴，使该次对该单位的伤害减少3，最低为0。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "1221001",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC007.jpg"
+  },
+  {
+    "number": "BWC008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "冰原狼",
+    "category": "水纹",
+    "subtype": "野兽",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "水": 2
+    },
+    "attack": 2,
+    "life": 4,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "水",
+    "art_ref": "1221007",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC008.jpg"
+  },
+  {
+    "number": "BWC009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "寒霜傀儡",
+    "category": "水纹",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "水": 2
+    },
+    "attack": 1,
+    "life": 4,
+    "cooldown": 0,
+    "description": "入场：使法力范围内1个敌方伙伴获得冻结1。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "1221004",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC009.jpg"
+  },
+  {
+    "number": "BWC010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "水栖狸猫",
+    "category": "水纹",
+    "subtype": "野兽",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "水": 2
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "attack": 1,
+    "life": 3,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "水",
+    "art_ref": "1221006",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC010.jpg"
+  },
+  {
+    "number": "BWC011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "凛冬城射手",
+    "category": "水纹",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "水": 3
+    },
+    "attack": 1,
+    "life": 4,
+    "cooldown": 0,
+    "description": "此伙伴可以从己方任意一排进行普通攻击；目标仍须是敌方实际前排的合法单位。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "1221103",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC011.jpg"
+  },
+  {
+    "number": "BWC012",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "珊瑚工匠",
+    "category": "水纹",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "水": 3
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "attack": 1,
+    "life": 4,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "水",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC012.jpg"
+  },
+  {
+    "number": "BWC013",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "冰原法师",
+    "category": "水纹",
+    "subtype": "巫师",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "水": 3
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "attack": 2,
+    "life": 6,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "水",
+    "art_ref": "1221002",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC013.jpg"
+  },
+  {
+    "number": "BWC014",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "心莲守护者",
+    "category": "水纹",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "水": 4
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "attack": 2,
+    "life": 7,
+    "cooldown": 0,
+    "description": "入场：你获得2点护盾。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "1221107",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC014.jpg"
+  },
+  {
+    "number": "BWC015",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "冰刺堡垒",
+    "category": "水纹",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "水": 3
+    },
+    "attack": 1,
+    "life": 8,
+    "cooldown": 0,
+    "description": "此伙伴受到敌方单位或装备直接攻击造成的伤害减少1，最低为0。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "1221016",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC015.jpg"
+  },
+  {
+    "number": "BWC016",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "唤雨师",
+    "category": "水纹",
+    "subtype": "巫师",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "水": 4
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "attack": 2,
+    "life": 6,
+    "cooldown": 0,
+    "description": "入场：使1个友方单位回复2点生命。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "1221013",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC016.jpg"
+  },
+  {
+    "number": "BWC017",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "眺望者商舰",
+    "category": "水纹",
+    "subtype": "机械",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "水": 4
+    },
+    "attack": 1,
+    "life": 6,
+    "cooldown": 0,
+    "description": "入场：查看你的牌库顶3张牌，可以将其中1张水纹牌展示并加入手牌，其余按任意顺序置于牌库底。",
+    "quote": "群屿大陆绝不会停止的两件事：战争和贸易",
+    "source": "水",
+    "art_ref": "1221015",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC017.jpg"
+  },
+  {
+    "number": "BWC018",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "冰原猛犸",
+    "category": "水纹",
+    "subtype": "野兽",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "水": 5
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "attack": 4,
+    "life": 11,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "水",
+    "art_ref": "1221104",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC018.jpg"
+  },
+  {
+    "number": "BWC019",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "凛冬城象骑兵",
+    "category": "水纹",
+    "subtype": "人类-野兽",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "水": 6
+    },
+    "attack": 5,
+    "life": 12,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "水",
+    "art_ref": "1221113",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC019.jpg"
+  },
+  {
+    "number": "BWC020",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "南海海怪",
+    "category": "水纹",
+    "subtype": "异兽",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "水": 7
+    },
+    "attack": 5,
+    "life": 14,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "水",
+    "art_ref": "1221009",
+    "output_path": "new_output/基础包/伙伴/水纹/BWC020.jpg"
+  },
+  {
+    "number": "BWH001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "“浪之人” 巴特尔",
+    "category": "水纹",
+    "subtype": "流浪者",
+    "elements_gain": {
+      "水": 2
+    },
+    "attack": 0,
+    "life": 25,
+    "skill_slots": 2,
+    "description": "诱发回合技1：己方回合，你召唤的第一个水纹伙伴入场后，若其印刷攻击力不大于2，使其永久增加1点生命上限并回复1点生命。",
+    "quote": "“把这个带上吧”人鱼手捧一小块蓝色的晶石，“它会带给你...好运”",
+    "source": "人物",
+    "art_ref": "4211001",
+    "output_path": "new_output/基础包/人物/水纹/BWH001.jpg"
+  },
+  {
+    "number": "BWH002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "大贤者 沃尔波特",
+    "category": "水纹",
+    "subtype": "内阁巫师",
+    "elements_gain": {
+      "水": 2
+    },
+    "attack": 0,
+    "life": 20,
+    "skill_slots": 3,
+    "description": "诱发回合技1：己方回合，你的第一张水纹装备入场后，可以查看牌库顶1张牌，并选择将其留在原处或置于牌库底。",
+    "quote": "“反对我？你不是第一个，但确实是现在唯一的一个”",
+    "source": "人物",
+    "art_ref": "4211002",
+    "output_path": "new_output/基础包/人物/水纹/BWH002.jpg"
+  },
+  {
+    "number": "BWH003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "凛冬城主 水晶心",
+    "category": "水纹",
+    "subtype": "王国法师",
+    "elements_gain": {
+      "水": 2
+    },
+    "attack": 0,
+    "life": 20,
+    "skill_slots": 2,
+    "description": "诱发回合技1：敌方回合，敌方单位或装备对你的水纹伙伴发起的第一次普通攻击，其伤害减少2，最低为0。此次数由所有伙伴共享。",
+    "quote": "“卡姆陛下，我想凛冬城下的无数冰雕已经足够说明了，这里不需要一个国王”",
+    "source": "人物",
+    "art_ref": "4211003",
+    "output_path": "new_output/基础包/人物/水纹/BWH003.jpg"
+  },
+  {
+    "number": "BWH004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "海神之使 珊瑚 贝莉",
+    "category": "水纹",
+    "subtype": "法师",
+    "activation_mana": 1,
+    "elements_gain": {
+      "水": 2
+    },
+    "attack": 0,
+    "life": 25,
+    "skill_slots": 3,
+    "description": "主动绝技：支付1点法力，选择一个你已学习且印刷攻击力至少为3的水纹法术，使它在本次在场期间攻击力永久+1。",
+    "quote": "“别忘了父亲的话，每个人出生便被赋予了属于自己和家族的责任”",
+    "source": "人物",
+    "art_ref": "4211101",
+    "output_path": "new_output/基础包/人物/水纹/BWH004.jpg"
+  },
+  {
+    "number": "BWH005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "凛冰魔巫 索菲娅",
+    "category": "水纹",
+    "subtype": "法师",
+    "activation_mana": 1,
+    "elements_gain": {
+      "水": 2
+    },
+    "attack": 0,
+    "life": 20,
+    "skill_slots": 3,
+    "description": "此人物不会获得冻结。主动回合技1：支付1点法力并横置此人物，选择法力范围内1个带有冻结的敌方伙伴，移除其1层冻结；若如此做，对其造成2点水纹效果伤害。",
+    "quote": "\"终于，你找到了我\"",
+    "source": "人物",
+    "art_ref": "4211102",
+    "output_path": "new_output/基础包/人物/水纹/BWH005.jpg"
+  },
+  {
+    "number": "BWI001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "人鱼之泪",
+    "category": "水纹",
+    "subtype": "装备-神器",
+    "rarity": "传奇",
+    "mana_cost": 3,
+    "activation_mana": 2,
+    "tech_requirement": {
+      "水": 5
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "cooldown": 0,
+    "description": "主动绝技：支付2点法力并将此装备移出游戏，从你的弃牌堆选择1张入场法力费用不超过3的伙伴牌，以其基础生命上限和横置状态召唤到己方1个空位。此召唤不支付该伙伴费用，也不检定其科技。",
+    "quote": "巴特尔从沙滩上惊醒，身旁的泡沫顷刻间被浪花融化",
+    "source": "水",
+    "art_ref": "2211001",
+    "output_path": "new_output/基础包/道具/水纹/BWI001.jpg"
+  },
+  {
+    "number": "BWI002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "凝霜手镯",
+    "category": "水纹",
+    "subtype": "装备-饰物",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "水": 1
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "水",
+    "art_ref": "2221007",
+    "output_path": "new_output/基础包/道具/水纹/BWI002.jpg"
+  },
+  {
+    "number": "BWI003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "蓄潮水晶",
+    "category": "水纹",
+    "subtype": "装备-器物",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "elements_gain": {
+      "水": 1
+    },
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "水",
+    "output_path": "new_output/基础包/道具/水纹/BWI003.jpg"
+  },
+  {
+    "number": "BWI004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "海之眷顾",
+    "category": "水纹",
+    "subtype": "装备-器物",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "水": 3
+    },
+    "elements_gain": {
+      "水": 2
+    },
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "水",
+    "art_ref": "2221006",
+    "output_path": "new_output/基础包/道具/水纹/BWI004.jpg"
+  },
+  {
+    "number": "BWI005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "冰霜之心",
+    "category": "水纹",
+    "subtype": "装备-防具",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "水": 2
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "cooldown": 0,
+    "description": "诱发：当敌方声明使用法术时，你可以献祭此装备，使该法术本次使用的攻击力减少2，最低为0。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "2221001",
+    "output_path": "new_output/基础包/道具/水纹/BWI005.jpg"
+  },
+  {
+    "number": "BWI006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "水行之靴",
+    "category": "水纹",
+    "subtype": "装备-防具",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "水": 4
+    },
+    "elements_gain": {
+      "水": 2
+    },
+    "cooldown": 0,
+    "description": "主动回合技1：支付1点法力并横置此装备，将1个友方伙伴移动至己方1个空位。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "2221012",
+    "output_path": "new_output/基础包/道具/水纹/BWI006.jpg"
+  },
+  {
+    "number": "BWI007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "玛涅斯之杖",
+    "category": "水纹",
+    "subtype": "装备-武器",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "水": 4
+    },
+    "elements_gain": {
+      "水": 1
+    },
+    "cooldown": 0,
+    "description": "诱发回合技1：己方回合，你使用的第一个印刷攻击力至少为3的水纹法术，在该次使用中攻击力+1。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "2221004",
+    "output_path": "new_output/基础包/道具/水纹/BWI007.jpg"
+  },
+  {
+    "number": "BWI008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "嗜魔弓 凛冬",
+    "category": "水纹",
+    "subtype": "装备-武器",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "水": 6
+    },
+    "attack": 2,
+    "cooldown": 0,
+    "description": "诱发：此装备直接攻击敌方伙伴并对其造成伤害后，使该伙伴获得冻结1。",
+    "quote": "一箭霜降，两箭严寒",
+    "source": "水",
+    "art_ref": "2211002",
+    "output_path": "new_output/基础包/道具/水纹/BWI008.jpg"
+  },
+  {
+    "number": "BWI009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "水形之束卷轴",
+    "category": "水纹",
+    "subtype": "消耗品-法术卷轴-驱动",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "水": 2
+    },
+    "attack": 1,
+    "cooldown": 0,
+    "description": "目标：法力范围内1个敌方伙伴。\n命中后：将目标横置。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "2221008",
+    "output_path": "new_output/基础包/道具/水纹/BWI009.jpg"
+  },
+  {
+    "number": "BWI010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "寒冰爆裂卷轴",
+    "category": "水纹",
+    "subtype": "消耗品-法术卷轴-聚能",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "水": 4
+    },
+    "attack": 3,
+    "cooldown": 0,
+    "description": "范围：溅射。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "2221009",
+    "output_path": "new_output/基础包/道具/水纹/BWI010.jpg"
+  },
+  {
+    "number": "BWI011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "恩惠之雨",
+    "category": "水纹",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "水": 2
+    },
+    "cooldown": 0,
+    "description": "使所有友方单位各回复2点生命。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "2221011",
+    "output_path": "new_output/基础包/道具/水纹/BWI011.jpg"
+  },
+  {
+    "number": "BWI012",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "海洋之盾卷轴",
+    "category": "水纹",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "水": 1
+    },
+    "cooldown": 0,
+    "description": "你获得3点护盾。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "2221102",
+    "output_path": "new_output/基础包/道具/水纹/BWI012.jpg"
+  },
+  {
+    "number": "BWI013",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "冰封卷轴",
+    "category": "水纹",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "水": 5
+    },
+    "cooldown": 0,
+    "description": "将法力范围内1个敌方伙伴横置，并使其获得冻结1。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "2221003",
+    "output_path": "new_output/基础包/道具/水纹/BWI013.jpg"
+  },
+  {
+    "number": "BWI014",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "退潮卷轴",
+    "category": "水纹",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "水": 4
+    },
+    "cooldown": 0,
+    "description": "将法力范围内1个敌方伙伴返回其拥有者手牌。",
+    "quote": "",
+    "source": "水",
+    "output_path": "new_output/基础包/道具/水纹/BWI014.jpg"
+  },
+  {
+    "number": "BWI015",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "冰锁符文",
+    "category": "水纹",
+    "subtype": "消耗品-反制-符文",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "水": 2
+    },
+    "cooldown": 0,
+    "description": "反制：敌方伙伴宣告直接攻击友方单位时，在伤害前使该次攻击对其目标造成的伤害减少3，最低为0。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "2221103",
+    "output_path": "new_output/基础包/道具/水纹/BWI015.jpg"
+  },
+  {
+    "number": "BWI016",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "冰魄印 消",
+    "category": "水纹",
+    "subtype": "消耗品-反制-符文",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "水": 4
+    },
+    "cooldown": 0,
+    "description": "反制：敌方声明使用法术时，使该法术本次使用的攻击力减少3，最低为0。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "2221112",
+    "output_path": "new_output/基础包/道具/水纹/BWI016.jpg"
+  },
+  {
+    "number": "BWS001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "海啸",
+    "category": "水纹",
+    "subtype": "法术-驱动",
+    "rarity": "传奇",
+    "mana_cost": 4,
+    "activation_mana": 3,
+    "tech_requirement": {
+      "水": 8
+    },
+    "attack": 4,
+    "cooldown": 2,
+    "description": "范围：敌方全场。",
+    "quote": "参天的浪潮裹挟着天空，随后便是利齿，以及无尽的黑暗",
+    "source": "水",
+    "art_ref": "3221006",
+    "output_path": "new_output/基础包/技能/水纹/BWS001.jpg"
+  },
+  {
+    "number": "BWS002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "冰锥术",
+    "category": "水纹",
+    "subtype": "法术-创造",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "水": 1
+    },
+    "attack": 1,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "水",
+    "art_ref": "3221002",
+    "output_path": "new_output/基础包/技能/水纹/BWS002.jpg"
+  },
+  {
+    "number": "BWS003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "激冻寒流",
+    "category": "水纹",
+    "subtype": "法术-聚能",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "水": 2
+    },
+    "attack": 1,
+    "cooldown": 1,
+    "description": "目标：法力范围内1个敌方伙伴。\n命中后：使目标获得冻结1。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "3221003",
+    "output_path": "new_output/基础包/技能/水纹/BWS003.jpg"
+  },
+  {
+    "number": "BWS004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "冰霜利刃",
+    "category": "水纹",
+    "subtype": "法术-创造",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "水": 4
+    },
+    "attack": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "水",
+    "art_ref": "3221009",
+    "output_path": "new_output/基础包/技能/水纹/BWS004.jpg"
+  },
+  {
+    "number": "BWS005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "寒冰屏障",
+    "category": "水纹",
+    "subtype": "咒术-创造",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "水": 2
+    },
+    "cooldown": 0,
+    "description": "若你的护盾少于3，将你的护盾设为3。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "3221004",
+    "output_path": "new_output/基础包/技能/水纹/BWS005.jpg"
+  },
+  {
+    "number": "BWS006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "水占术",
+    "category": "水纹",
+    "subtype": "咒术-灵媒",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "水": 1
+    },
+    "cooldown": 1,
+    "description": "查看你的牌库顶3张牌，可以将其中1张水纹牌展示并加入手牌，其余按任意顺序置于牌库底。",
+    "quote": "“可能你不相信命运，但是命运似乎很相信你”",
+    "source": "水",
+    "art_ref": "3221007",
+    "output_path": "new_output/基础包/技能/水纹/BWS006.jpg"
+  },
+  {
+    "number": "BWS007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "清泉术",
+    "category": "水纹",
+    "subtype": "咒术-创造",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "水": 2
+    },
+    "cooldown": 0,
+    "description": "使1个友方单位回复2点生命。",
+    "quote": "",
+    "source": "水",
+    "output_path": "new_output/基础包/技能/水纹/BWS007.jpg"
+  },
+  {
+    "number": "BWS008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "冰雹术",
+    "category": "水纹",
+    "subtype": "法术-幻变",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "水": 3
+    },
+    "attack": 2,
+    "cooldown": 1,
+    "description": "范围：敌方实际前排。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "3221001",
+    "output_path": "new_output/基础包/技能/水纹/BWS008.jpg"
+  },
+  {
+    "number": "BWS009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "海龙卷",
+    "category": "水纹",
+    "subtype": "法术-驱动",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 2,
+    "tech_requirement": {
+      "水": 5
+    },
+    "attack": 3,
+    "cooldown": 1,
+    "description": "范围：纵列。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "3221107",
+    "output_path": "new_output/基础包/技能/水纹/BWS009.jpg"
+  },
+  {
+    "number": "BWS010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "猎潮",
+    "category": "水纹",
+    "subtype": "法术-驱动",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 2,
+    "tech_requirement": {
+      "水": 5
+    },
+    "attack": 4,
+    "cooldown": 0,
+    "description": "",
+    "quote": "归来的勇士跃向无底的巨口，鳞甲深处是它跳动的心脏",
+    "source": "水",
+    "art_ref": "3221013",
+    "output_path": "new_output/基础包/技能/水纹/BWS010.jpg"
+  },
+  {
+    "number": "BWS011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "幽影寒锋",
+    "category": "水纹",
+    "subtype": "法术-聚能",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 2,
+    "tech_requirement": {
+      "水": 6
+    },
+    "attack": 3,
+    "cooldown": 1,
+    "description": "穿透。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "3221011",
+    "output_path": "new_output/基础包/技能/水纹/BWS011.jpg"
+  },
+  {
+    "number": "BWS012",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "百川归海",
+    "category": "水纹",
+    "subtype": "咒术-聚能",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "水": 5
+    },
+    "cooldown": 1,
+    "description": "抽2张牌。",
+    "quote": "",
+    "source": "水",
+    "art_ref": "3201001",
+    "output_path": "new_output/基础包/技能/水纹/BWS012.jpg"
+  }
+]
