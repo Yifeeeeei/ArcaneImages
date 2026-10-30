@@ -47,16 +47,16 @@
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
-    "name": "魔力勘探者",
+    "name": "巫师学徒",
     "category": "奥术",
     "subtype": "人类",
     "rarity": "普通",
-    "mana_cost": 2,
+    "mana_cost": 1,
     "elements_gain": {
       "奥术": 1
     },
     "attack": 0,
-    "life": 2,
+    "life": 1,
     "cooldown": 0,
     "description": "",
     "quote": "",
@@ -73,9 +73,6 @@
     "subtype": "造物",
     "rarity": "普通",
     "mana_cost": 2,
-    "tech_requirement": {
-      "奥术": 2
-    },
     "attack": 0,
     "life": 6,
     "cooldown": 0,
@@ -182,12 +179,12 @@
     "type": "人物",
     "name": "“南境百灵”斯卡尔蒂·罗佳",
     "category": "奥术",
-    "subtype": "璀璨歌星",
+    "subtype": "",
     "elements_gain": {
       "奥术": 2
     },
     "attack": 0,
-    "life": 25,
+    "life": 20,
     "skill_slots": 2,
     "description": "诱发回合技1：己方回合，使用一张卷轴结算后，可以使1个友方伙伴本回合攻击力+1。",
     "quote": "发表获奖感言时，这位闪耀的歌星热泪盈眶：“尽管我未能成功毕业，但我要特别感谢我曾经的地脉法术教师耶伦尔，在所有人不看好我的情况下，他却说我是一个发展均衡，充满潜力的孩子”",
@@ -202,11 +199,11 @@
     "type": "人物",
     "name": "“无面”",
     "category": "奥术",
-    "subtype": "战士",
+    "subtype": "",
     "elements_gain": {
       "奥术": 2
     },
-    "attack": 0,
+    "attack": 1,
     "life": 20,
     "skill_slots": 2,
     "description": "诱发：己方回合开始时，若你的普通技能区没有技能，可以使1个友方伙伴本回合攻击力+1。",
@@ -222,12 +219,12 @@
     "type": "人物",
     "name": "纯净灵体·奥希斯",
     "category": "奥术",
-    "subtype": "法师",
+    "subtype": "",
     "elements_gain": {
       "奥术": 2
     },
     "attack": 0,
-    "life": 20,
+    "life": 15,
     "skill_slots": 3,
     "description": "诱发回合技1：己方回合，施放一个奥术属性技能结算后，若你的普通技能区中的所有技能均为奥术属性，你的人物回复1生命。",
     "quote": "\"你觉得你创造了我?我倒是觉得恰恰相反\"",
@@ -242,12 +239,12 @@
     "type": "人物",
     "name": "大法师·罗慕路斯",
     "category": "奥术",
-    "subtype": "法师",
+    "subtype": "",
     "elements_gain": {
       "奥术": 2
     },
     "attack": 0,
-    "life": 21,
+    "life": 15,
     "skill_slots": 3,
     "description": "诱发回合技1：己方回合，学习或同名刷新一个奥术属性技能后，查看牌库顶1张牌，可以将其置于牌库底。",
     "quote": "“看啊，多么完美而纯粹的造物！”",
@@ -287,7 +284,10 @@
     "category": "奥术",
     "subtype": "装备-器物",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
+    "tech_requirement": {
+      "奥术": 3
+    },
     "elements_gain": {
       "奥术": 1
     },
@@ -415,9 +415,6 @@
     "subtype": "消耗品-咒术卷轴",
     "rarity": "普通",
     "mana_cost": 1,
-    "tech_requirement": {
-      "奥术": 1
-    },
     "cooldown": 0,
     "description": "将1个友方单位移动至己方单位区1个空位。",
     "quote": "",
@@ -540,9 +537,6 @@
     "rarity": "普通",
     "mana_cost": 2,
     "activation_mana": 0,
-    "tech_requirement": {
-      "奥术": 2
-    },
     "attack": 1,
     "cooldown": 0,
     "description": "",
@@ -562,9 +556,6 @@
     "rarity": "普通",
     "mana_cost": 1,
     "activation_mana": 0,
-    "tech_requirement": {
-      "奥术": 1
-    },
     "cooldown": 1,
     "description": "查看牌库顶2张牌，将其中任意数量的牌按任意顺序置于牌库底，其余按任意顺序放回牌库顶。",
     "quote": "这是否也是命运的一部分？",
@@ -627,9 +618,9 @@
     "category": "火焰",
     "subtype": "巫师",
     "rarity": "传奇",
-    "mana_cost": 4,
+    "mana_cost": 3,
     "tech_requirement": {
-      "火": 8
+      "火": 7
     },
     "elements_gain": {
       "火": 1
@@ -727,7 +718,7 @@
     "attack": 1,
     "life": 2,
     "cooldown": 0,
-    "description": "速攻。\n条件：本回合你造成的火焰伤害大于5时，此卡的入场法力费用-1。",
+    "description": "速攻。本回合你造成的火焰伤害大于4时，此卡的法力消耗-1。",
     "quote": "",
     "source": "火",
     "art_ref": "1121112",
@@ -791,12 +782,12 @@
     "rarity": "普通",
     "mana_cost": 1,
     "tech_requirement": {
-      "火": 1
+      "火": 2
     },
     "attack": 1,
     "life": 2,
     "cooldown": 0,
-    "description": "遗言：使法力范围内1个敌方单位获得点燃1。",
+    "description": "遗言：使法力范围内1个敌方单位获得点燃2。",
     "quote": "穿过如火荆棘，方见白洁花簇",
     "source": "火",
     "art_ref": "1121014",
@@ -818,7 +809,7 @@
     "attack": 1,
     "life": 4,
     "cooldown": 0,
-    "description": "入场：检索1张入场法力为4的火焰伙伴牌。",
+    "description": "入场：检索1张法力消耗为4的火焰伙伴牌。",
     "quote": "每只赤鹰都想成为凤凰，前提是它们身上的羽毛还没有被猎人拔光",
     "source": "火",
     "art_ref": "1121009",
@@ -841,10 +832,10 @@
     "elements_gain": {
       "火": 1
     },
-    "attack": 1,
+    "attack": 0,
     "life": 2,
     "cooldown": 0,
-    "description": "主动：横置此伙伴，使1个其他友方火焰伙伴本回合攻击力增加1。",
+    "description": "回合技：使1个其他友方火焰单位本回合攻击力增加1。",
     "quote": "",
     "source": "火",
     "art_ref": "1121003",
@@ -927,13 +918,13 @@
     "rarity": "普通",
     "mana_cost": 3,
     "tech_requirement": {
-      "火": 3
+      "火": 2
     },
     "elements_gain": {
       "火": 2
     },
     "attack": 0,
-    "life": 4,
+    "life": 3,
     "cooldown": 0,
     "description": "",
     "quote": "",
@@ -974,13 +965,13 @@
     "rarity": "普通",
     "mana_cost": 3,
     "tech_requirement": {
-      "火": 3
+      "火": 2
     },
     "elements_gain": {
       "火": 1
     },
     "attack": 1,
-    "life": 6,
+    "life": 7,
     "cooldown": 0,
     "description": "",
     "quote": "",
@@ -1019,14 +1010,14 @@
     "category": "火焰",
     "subtype": "龙",
     "rarity": "普通",
-    "mana_cost": 4,
+    "mana_cost": 3,
     "tech_requirement": {
-      "火": 6
+      "火": 5
     },
     "elements_gain": {
       "火": 1
     },
-    "attack": 4,
+    "attack": 3,
     "life": 11,
     "cooldown": 0,
     "description": "",
@@ -1046,12 +1037,12 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "火": 7
+      "火": 6
     },
     "elements_gain": {
       "火": 1
     },
-    "attack": 5,
+    "attack": 4,
     "life": 12,
     "cooldown": 0,
     "description": "",
@@ -1067,12 +1058,12 @@
     "type": "人物",
     "name": "掌门 龙卷火",
     "category": "火焰",
-    "subtype": "大法师",
+    "subtype": "",
     "elements_gain": {
       "火": 2
     },
     "attack": 0,
-    "life": 20,
+    "life": 15,
     "skill_slots": 3,
     "description": "诱发回合技1：己方回合首次使用火焰单体常驻法术技能时，若其目标是伙伴，该次法术的攻击力+1。",
     "quote": "“我最强大的弟子，我们本可一起称霸...很遗憾你选择与我为敌”",
@@ -1087,13 +1078,13 @@
     "type": "人物",
     "name": "女巫 维兰德",
     "category": "火焰",
-    "subtype": "魔女",
+    "subtype": "",
     "activation_mana": 0,
     "elements_gain": {
       "火": 2
     },
     "attack": 0,
-    "life": 20,
+    "life": 15,
     "skill_slots": 3,
     "description": "主动回合技1：失去1生命，本回合你下一次使用的火焰单体法术攻击力增加1，直到该次法术结算完毕。",
     "quote": "“别瞎说，我们可不敢烧女巫，是她自己烧的”",
@@ -1108,13 +1099,13 @@
     "type": "人物",
     "name": "大祭司 梵天",
     "category": "火焰",
-    "subtype": "大祭司",
+    "subtype": "",
     "activation_mana": 2,
     "elements_gain": {
       "火": 2
     },
     "attack": 0,
-    "life": 20,
+    "life": 15,
     "skill_slots": 3,
     "description": "主动绝技：支付2法力，直到你的下个回合结束，此人物额外提供2点火焰负载。",
     "quote": "“我，梵天，带领全火焰门派，将追随我们唯一的王。愿祭坛之火庇佑她的王国”",
@@ -1129,13 +1120,13 @@
     "type": "人物",
     "name": "首席顾问 费林",
     "category": "火焰",
-    "subtype": "军团顾问",
+    "subtype": "",
     "activation_mana": 1,
     "elements_gain": {
       "火": 2
     },
-    "attack": 0,
-    "life": 25,
+    "attack": 1,
+    "life": 20,
     "skill_slots": 2,
     "description": "主动回合技1：支付1法力并献祭1个友方火焰伙伴，抽2张牌。",
     "quote": "\"不用担心，我想师兄会认同我们的，毕竟，我们必须以王国的利益为重\"",
@@ -1150,12 +1141,12 @@
     "type": "人物",
     "name": "大将军 克兰",
     "category": "火焰",
-    "subtype": "将星",
+    "subtype": "",
     "elements_gain": {
       "火": 2
     },
-    "attack": 0,
-    "life": 25,
+    "attack": 1,
+    "life": 20,
     "skill_slots": 2,
     "description": "诱发回合技1：己方回合，你的第一次火焰伙伴普通攻击获得+1攻击力，直到该次攻击结算完毕。",
     "quote": "\"我给你了一次又一次的机会，可惜你依然选择违抗我\"",
@@ -1172,10 +1163,10 @@
     "category": "火焰",
     "subtype": "装备-神器",
     "rarity": "传奇",
-    "mana_cost": 4,
+    "mana_cost": 2,
     "activation_mana": 0,
     "tech_requirement": {
-      "火": 6
+      "火": 5
     },
     "elements_gain": {
       "火": 2
@@ -1196,15 +1187,15 @@
     "category": "火焰",
     "subtype": "装备-饰物",
     "rarity": "普通",
-    "mana_cost": 1,
+    "mana_cost": 2,
     "tech_requirement": {
-      "火": 1
+      "火": 2
     },
     "elements_gain": {
       "火": 1
     },
     "cooldown": 0,
-    "description": "",
+    "description": "入场：获得护盾1",
     "quote": "",
     "source": "火",
     "art_ref": "2121006",
@@ -1242,13 +1233,13 @@
     "mana_cost": 2,
     "activation_mana": 0,
     "tech_requirement": {
-      "火": 3
+      "火": 2
     },
     "elements_gain": {
       "火": 1
     },
     "cooldown": 0,
-    "description": "主动绝技：横置并献祭此装备，使1个友方伙伴回复4生命。",
+    "description": "主动绝技：花费1\\法，翻取1张火焰法术",
     "quote": "",
     "source": "火",
     "art_ref": "2121001",
@@ -1522,7 +1513,7 @@
     "category": "火焰",
     "subtype": "法术-神秘",
     "rarity": "传奇",
-    "mana_cost": 4,
+    "mana_cost": 3,
     "activation_mana": 4,
     "tech_requirement": {
       "火": 8
@@ -1569,7 +1560,7 @@
     "mana_cost": 2,
     "activation_mana": 1,
     "tech_requirement": {
-      "火": 3
+      "火": 2
     },
     "attack": 1,
     "cooldown": 0,
@@ -1591,7 +1582,7 @@
     "mana_cost": 3,
     "activation_mana": 0,
     "tech_requirement": {
-      "火": 4
+      "火": 2
     },
     "attack": 2,
     "cooldown": 0,
@@ -1613,10 +1604,10 @@
     "mana_cost": 1,
     "activation_mana": 0,
     "tech_requirement": {
-      "火": 2
+      "火": 3
     },
     "cooldown": 0,
-    "description": "使法力范围内1个敌方单位获得点燃1。",
+    "description": "使法力范围内1个敌方单位获得点燃2。",
     "quote": "",
     "source": "火",
     "art_ref": "3121011",
@@ -1654,11 +1645,11 @@
     "subtype": "法术-驱动",
     "rarity": "普通",
     "mana_cost": 2,
-    "activation_mana": 2,
+    "activation_mana": 1,
     "tech_requirement": {
       "火": 4
     },
-    "attack": 3,
+    "attack": 2,
     "cooldown": 1,
     "description": "范围：敌方实际前排。",
     "quote": "",
@@ -1676,7 +1667,7 @@
     "subtype": "法术-创造",
     "rarity": "普通",
     "mana_cost": 3,
-    "activation_mana": 2,
+    "activation_mana": 1,
     "tech_requirement": {
       "火": 5
     },
@@ -1698,7 +1689,7 @@
     "subtype": "法术-创造",
     "rarity": "普通",
     "mana_cost": 3,
-    "activation_mana": 2,
+    "activation_mana": 1,
     "tech_requirement": {
       "火": 5
     },
@@ -1720,7 +1711,7 @@
     "subtype": "法术-驱动",
     "rarity": "普通",
     "mana_cost": 3,
-    "activation_mana": 3,
+    "activation_mana": 2,
     "tech_requirement": {
       "火": 6
     },
@@ -1741,7 +1732,7 @@
     "category": "火焰",
     "subtype": "咒术-聚能",
     "rarity": "普通",
-    "mana_cost": 2,
+    "mana_cost": 1,
     "activation_mana": 1,
     "tech_requirement": {
       "火": 3
@@ -1856,8 +1847,8 @@
     "tech_requirement": {
       "水": 1
     },
-    "attack": 2,
-    "life": 2,
+    "attack": 1,
+    "life": 3,
     "cooldown": 0,
     "description": "",
     "quote": "",
@@ -1896,7 +1887,7 @@
     "rarity": "普通",
     "mana_cost": 1,
     "tech_requirement": {
-      "水": 3
+      "水": 2
     },
     "elements_gain": {
       "水": 1
@@ -1919,17 +1910,14 @@
     "category": "水纹",
     "subtype": "野兽",
     "rarity": "普通",
-    "mana_cost": 2,
+    "mana_cost": 1,
     "tech_requirement": {
       "水": 2
-    },
-    "elements_gain": {
-      "水": 1
     },
     "attack": 1,
     "life": 2,
     "cooldown": 0,
-    "description": "诱发：当另1个友方单位将受到伤害时，你可以献祭此伙伴，使该次对该单位的伤害减少3，最低为0。",
+    "description": "诱发：当另1个友方单位将受到伤害时，你可以献祭此伙伴，使该次伤害变为0。",
     "quote": "",
     "source": "水",
     "art_ref": "1221001",
@@ -2018,9 +2006,9 @@
       "水": 3
     },
     "attack": 1,
-    "life": 4,
+    "life": 3,
     "cooldown": 0,
-    "description": "此伙伴可以从己方任意一排进行普通攻击；目标仍须是敌方实际前排的合法单位。",
+    "description": "远程",
     "quote": "",
     "source": "水",
     "art_ref": "1221103",
@@ -2245,12 +2233,12 @@
     "type": "人物",
     "name": "“浪之人” 巴特尔",
     "category": "水纹",
-    "subtype": "流浪者",
+    "subtype": "",
     "elements_gain": {
       "水": 2
     },
-    "attack": 0,
-    "life": 25,
+    "attack": 1,
+    "life": 20,
     "skill_slots": 2,
     "description": "诱发回合技1：己方回合，你召唤的第一个水纹伙伴入场后，若其印刷攻击力不大于2，使其永久增加1点生命上限并回复1点生命。",
     "quote": "“把这个带上吧”人鱼手捧一小块蓝色的晶石，“它会带给你...好运”",
@@ -2265,12 +2253,12 @@
     "type": "人物",
     "name": "大贤者 沃尔波特",
     "category": "水纹",
-    "subtype": "内阁巫师",
+    "subtype": "",
     "elements_gain": {
       "水": 2
     },
     "attack": 0,
-    "life": 20,
+    "life": 15,
     "skill_slots": 3,
     "description": "诱发回合技1：己方回合，你的第一张水纹装备入场后，可以查看牌库顶1张牌，并选择将其留在原处或置于牌库底。",
     "quote": "“反对我？你不是第一个，但确实是现在唯一的一个”",
@@ -2285,12 +2273,12 @@
     "type": "人物",
     "name": "凛冬城主 水晶心",
     "category": "水纹",
-    "subtype": "王国法师",
+    "subtype": "",
     "elements_gain": {
       "水": 2
     },
     "attack": 0,
-    "life": 20,
+    "life": 15,
     "skill_slots": 2,
     "description": "诱发回合技1：敌方回合，敌方单位或装备对你的水纹伙伴发起的第一次普通攻击，其伤害减少2，最低为0。此次数由所有伙伴共享。",
     "quote": "“卡姆陛下，我想凛冬城下的无数冰雕已经足够说明了，这里不需要一个国王”",
@@ -2305,13 +2293,13 @@
     "type": "人物",
     "name": "海神之使 珊瑚 贝莉",
     "category": "水纹",
-    "subtype": "法师",
+    "subtype": "",
     "activation_mana": 1,
     "elements_gain": {
       "水": 2
     },
-    "attack": 0,
-    "life": 25,
+    "attack": 1,
+    "life": 20,
     "skill_slots": 3,
     "description": "主动绝技：支付1点法力，选择一个你已学习且印刷攻击力至少为3的水纹法术，使它在本次在场期间攻击力永久+1。",
     "quote": "“别忘了父亲的话，每个人出生便被赋予了属于自己和家族的责任”",
@@ -2326,13 +2314,13 @@
     "type": "人物",
     "name": "凛冰魔巫 索菲娅",
     "category": "水纹",
-    "subtype": "法师",
+    "subtype": "",
     "activation_mana": 1,
     "elements_gain": {
       "水": 2
     },
     "attack": 0,
-    "life": 20,
+    "life": 15,
     "skill_slots": 3,
     "description": "此人物不会获得冻结。主动回合技1：支付1点法力并横置此人物，选择法力范围内1个带有冻结的敌方伙伴，移除其1层冻结；若如此做，对其造成2点水纹效果伤害。",
     "quote": "\"终于，你找到了我\"",
