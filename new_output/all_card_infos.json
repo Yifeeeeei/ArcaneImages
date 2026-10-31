@@ -10,13 +10,13 @@
     "rarity": "传奇",
     "mana_cost": 4,
     "tech_requirement": {
-      "奥术": 5
+      "奥术": 4
     },
     "elements_gain": {
       "奥术": 1
     },
     "attack": 2,
-    "life": 8,
+    "life": 7,
     "cooldown": 0,
     "description": "诱发回合技1：己方回合，使用一张卷轴结算后，抽1张牌。",
     "quote": "“没错啊，小岛上全是我的收藏品，不过这些东西加一起都比不上我的宝贝女儿”",
@@ -96,7 +96,7 @@
       "奥术": 3
     },
     "attack": 3,
-    "life": 7,
+    "life": 6,
     "cooldown": 0,
     "description": "",
     "quote": "",
@@ -135,15 +135,15 @@
     "category": "奥术",
     "subtype": "人类",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 1,
     "tech_requirement": {
-      "奥术": 3
+      "奥术": 2
     },
     "elements_gain": {
       "奥术": 1
     },
-    "attack": 2,
-    "life": 5,
+    "attack": 0,
+    "life": 2,
     "cooldown": 0,
     "description": "",
     "quote": "“不不不，您这套行头出去可不像样啊”",
@@ -165,7 +165,7 @@
       "奥术": 5
     },
     "attack": 4,
-    "life": 10,
+    "life": 8,
     "cooldown": 0,
     "description": "",
     "quote": "",
@@ -183,7 +183,7 @@
     "elements_gain": {
       "奥术": 2
     },
-    "attack": 0,
+    "attack": 1,
     "life": 20,
     "skill_slots": 2,
     "description": "诱发回合技1：己方回合，使用一张卷轴结算后，可以使1个友方伙伴本回合攻击力+1。",
@@ -246,7 +246,7 @@
     "attack": 0,
     "life": 15,
     "skill_slots": 3,
-    "description": "诱发回合技1：己方回合，学习或同名刷新一个奥术属性技能后，查看牌库顶1张牌，可以将其置于牌库底。",
+    "description": "诱发回合技1：己方回合，学习一个奥术属性技能后，查看牌库顶2张牌，可将其中任意数量置于牌库底，其余按任意顺序放回牌库顶。",
     "quote": "“看啊，多么完美而纯粹的造物！”",
     "source": "人物",
     "art_ref": "4011102",
@@ -263,13 +263,13 @@
     "rarity": "传奇",
     "mana_cost": 4,
     "tech_requirement": {
-      "奥术": 6
+      "奥术": 2
     },
     "elements_gain": {
       "奥术": 2
     },
     "cooldown": 0,
-    "description": "诱发回合技1：己方回合，施放一个印刷发动法力费用不少于2的技能结算后，抽1张牌。",
+    "description": "诱发回合技1：己方回合，施放一个负载条件合计不少于5的技能结算后，抽1张牌。",
     "quote": "等你成为了大法师，你的法杖就是大法师之杖",
     "source": "奥术",
     "art_ref": "2011001",
@@ -285,9 +285,6 @@
     "subtype": "装备-器物",
     "rarity": "普通",
     "mana_cost": 2,
-    "tech_requirement": {
-      "奥术": 3
-    },
     "elements_gain": {
       "奥术": 1
     },
@@ -309,7 +306,7 @@
     "rarity": "普通",
     "mana_cost": 2,
     "tech_requirement": {
-      "奥术": 3
+      "奥术": 2
     },
     "elements_gain": {
       "奥术": 1
@@ -352,11 +349,11 @@
     "rarity": "普通",
     "mana_cost": 2,
     "tech_requirement": {
-      "奥术": 3
+      "奥术": 2
     },
     "attack": 1,
     "cooldown": 0,
-    "description": "入场：对手失去2点护盾。",
+    "description": "入场：对手失去3点护盾。",
     "quote": "",
     "source": "奥术",
     "art_ref": "2021102",
@@ -373,7 +370,7 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "奥术": 4
+      "奥术": 2
     },
     "elements_gain": {
       "奥术": 2
@@ -495,7 +492,7 @@
     "mana_cost": 1,
     "activation_mana": 0,
     "tech_requirement": {
-      "奥术": 3
+      "奥术": 2
     },
     "cooldown": 0,
     "description": "反制：敌方单位或装备声明直接攻击1个友方单位时，在伤害前使该次攻击对该单位造成的伤害减少2，最低为0。",
@@ -513,13 +510,13 @@
     "category": "奥术",
     "subtype": "法术-聚能",
     "rarity": "传奇",
-    "mana_cost": 4,
-    "activation_mana": 3,
+    "mana_cost": 3,
+    "activation_mana": 1,
     "tech_requirement": {
-      "奥术": 8
+      "奥术": 7
     },
     "attack": 4,
-    "cooldown": 1,
+    "cooldown": 2,
     "description": "范围：敌方实际前排。",
     "quote": "“罗慕路斯，一个只会奥术的法师是走不远的”",
     "source": "奥术",
@@ -573,11 +570,11 @@
     "subtype": "咒术-灵媒",
     "rarity": "普通",
     "mana_cost": 2,
-    "activation_mana": 2,
+    "activation_mana": 1,
     "tech_requirement": {
       "奥术": 3
     },
-    "cooldown": 1,
+    "cooldown": 2,
     "description": "抽2张牌。",
     "quote": "",
     "source": "奥术",
@@ -601,9 +598,9 @@
       "火": 1
     },
     "attack": 5,
-    "life": 12,
+    "life": 10,
     "cooldown": 0,
-    "description": "入场：对敌方实际前排所有单位各造成2点火焰效果伤害。",
+    "description": "入场：对敌方前排所有单位造成2点火焰伤害。绑定技能：火焰吐息",
     "quote": "不可一世的巨龙，为了残存的火焰元素，向巫师们尽忠",
     "source": "火",
     "art_ref": "1111001",
@@ -618,7 +615,7 @@
     "category": "火焰",
     "subtype": "巫师",
     "rarity": "传奇",
-    "mana_cost": 3,
+    "mana_cost": 4,
     "tech_requirement": {
       "火": 7
     },
@@ -626,7 +623,7 @@
       "火": 1
     },
     "attack": 4,
-    "life": 13,
+    "life": 10,
     "cooldown": 0,
     "description": "诱发：己方回合开始时，对敌方实际前排所有伙伴各造成2点火焰效果伤害。",
     "quote": "“我的使命，就是将地狱带到人间”",
@@ -667,10 +664,10 @@
     "rarity": "普通",
     "mana_cost": 1,
     "tech_requirement": {
-      "火": 1
+      "火": 2
     },
     "attack": 2,
-    "life": 1,
+    "life": 2,
     "cooldown": 0,
     "description": "",
     "quote": "",
@@ -718,7 +715,7 @@
     "attack": 1,
     "life": 2,
     "cooldown": 0,
-    "description": "速攻。本回合你造成的火焰伤害大于4时，此卡的法力消耗-1。",
+    "description": "速攻。",
     "quote": "",
     "source": "火",
     "art_ref": "1121112",
@@ -733,15 +730,15 @@
     "category": "火焰",
     "subtype": "造物",
     "rarity": "普通",
-    "mana_cost": 2,
+    "mana_cost": 1,
     "tech_requirement": {
-      "火": 1
+      "火": 2
     },
     "elements_gain": {
       "火": 1
     },
     "attack": 1,
-    "life": 4,
+    "life": 2,
     "cooldown": 0,
     "description": "",
     "quote": "",
@@ -762,8 +759,8 @@
     "tech_requirement": {
       "火": 3
     },
-    "attack": 2,
-    "life": 5,
+    "attack": 3,
+    "life": 4,
     "cooldown": 0,
     "description": "",
     "quote": "",
@@ -804,12 +801,12 @@
     "rarity": "普通",
     "mana_cost": 2,
     "tech_requirement": {
-      "火": 3
+      "火": 2
     },
     "attack": 1,
-    "life": 4,
+    "life": 3,
     "cooldown": 0,
-    "description": "入场：检索1张法力消耗为4的火焰伙伴牌。",
+    "description": "入场：检索1张入场法力费用为4的火焰伙伴牌。",
     "quote": "每只赤鹰都想成为凤凰，前提是它们身上的羽毛还没有被猎人拔光",
     "source": "火",
     "art_ref": "1121009",
@@ -835,7 +832,7 @@
     "attack": 0,
     "life": 2,
     "cooldown": 0,
-    "description": "回合技：使1个其他友方火焰单位本回合攻击力增加1。",
+    "description": "主动回合技1：横置此伙伴，使1个其他友方火焰伙伴本回合攻击力+1。",
     "quote": "",
     "source": "火",
     "art_ref": "1121003",
@@ -857,7 +854,7 @@
     "attack": 2,
     "life": 4,
     "cooldown": 0,
-    "description": "入场：你可以移除1个友方火焰伙伴的全部冻结和眩晕。",
+    "description": "入场：你可以移除1个友方火焰单位的全部负面状态",
     "quote": "",
     "source": "火",
     "art_ref": "1121016",
@@ -876,8 +873,8 @@
     "tech_requirement": {
       "火": 4
     },
-    "attack": 3,
-    "life": 8,
+    "attack": 4,
+    "life": 6,
     "cooldown": 0,
     "description": "",
     "quote": "",
@@ -898,8 +895,8 @@
     "tech_requirement": {
       "火": 3
     },
-    "attack": 1,
-    "life": 4,
+    "attack": 2,
+    "life": 3,
     "cooldown": 0,
     "description": "远程。",
     "quote": "谁能拒绝将一切燃烧殆尽的快乐呢",
@@ -948,7 +945,7 @@
     "attack": 3,
     "life": 7,
     "cooldown": 0,
-    "description": "诱发：此卡攻击造成伤害后，使该单位获得点燃1。",
+    "description": "诱发：此卡攻击造成伤害后，使目标单位获得点燃1。",
     "quote": "",
     "source": "火",
     "art_ref": "1121104",
@@ -963,7 +960,7 @@
     "category": "火焰",
     "subtype": "人类",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "tech_requirement": {
       "火": 2
     },
@@ -971,7 +968,7 @@
       "火": 1
     },
     "attack": 1,
-    "life": 7,
+    "life": 4,
     "cooldown": 0,
     "description": "",
     "quote": "",
@@ -1018,7 +1015,7 @@
       "火": 1
     },
     "attack": 3,
-    "life": 11,
+    "life": 8,
     "cooldown": 0,
     "description": "",
     "quote": "",
@@ -1042,8 +1039,8 @@
     "elements_gain": {
       "火": 1
     },
-    "attack": 4,
-    "life": 12,
+    "attack": 5,
+    "life": 9,
     "cooldown": 0,
     "description": "",
     "quote": "",
@@ -1100,14 +1097,14 @@
     "name": "大祭司 梵天",
     "category": "火焰",
     "subtype": "",
-    "activation_mana": 2,
+    "activation_mana": 1,
     "elements_gain": {
       "火": 2
     },
     "attack": 0,
     "life": 15,
     "skill_slots": 3,
-    "description": "主动绝技：支付2法力，直到你的下个回合结束，此人物额外提供2点火焰负载。",
+    "description": "主动绝技：支付1法力，直到你的下个回合结束，此人物额外提供2点火焰负载。",
     "quote": "“我，梵天，带领全火焰门派，将追随我们唯一的王。愿祭坛之火庇佑她的王国”",
     "source": "人物",
     "art_ref": "4111003",
@@ -1163,16 +1160,16 @@
     "category": "火焰",
     "subtype": "装备-神器",
     "rarity": "传奇",
-    "mana_cost": 2,
+    "mana_cost": 3,
     "activation_mana": 0,
     "tech_requirement": {
-      "火": 5
+      "火": 4
     },
     "elements_gain": {
       "火": 2
     },
     "cooldown": 0,
-    "description": "主动回合技1：横置此装备，本回合你下一次使用的火焰单体法术攻击力增加1，直到该次法术结算完毕。",
+    "description": "主动回合技1：献祭你场上一张包含火焰负载的卡牌，本回合你的所有火焰伤害+1",
     "quote": "辉煌死后，索拓尔使用它的心脏炼制了这件神器。只是没人看见火龙是怎么死的",
     "source": "火",
     "art_ref": "2111001",
@@ -1195,7 +1192,7 @@
       "火": 1
     },
     "cooldown": 0,
-    "description": "入场：获得护盾1",
+    "description": "入场：你获得1点护盾。",
     "quote": "",
     "source": "火",
     "art_ref": "2121006",
@@ -1231,7 +1228,7 @@
     "subtype": "装备-神器",
     "rarity": "普通",
     "mana_cost": 2,
-    "activation_mana": 0,
+    "activation_mana": 1,
     "tech_requirement": {
       "火": 2
     },
@@ -1239,7 +1236,7 @@
       "火": 1
     },
     "cooldown": 0,
-    "description": "主动绝技：花费1\\法，翻取1张火焰法术",
+    "description": "主动绝技：支付1法力并横置此装备，翻取1张火焰法术。",
     "quote": "",
     "source": "火",
     "art_ref": "2121001",
@@ -1256,7 +1253,7 @@
     "rarity": "普通",
     "mana_cost": 2,
     "tech_requirement": {
-      "火": 3
+      "火": 2
     },
     "elements_gain": {
       "火": 1
@@ -1302,7 +1299,7 @@
     "category": "火焰",
     "subtype": "装备-防具",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 4,
     "tech_requirement": {
       "火": 4
     },
@@ -1310,7 +1307,7 @@
       "火": 2
     },
     "cooldown": 0,
-    "description": "诱发回合技1：敌方回合，你的人物第一次将受到敌方单位或装备的直接攻击伤害时，该次伤害减少1，最低为0。",
+    "description": "诱发回合技1：友方物第一次将受到敌方伤害时，该次伤害减少2，最低为0。",
     "quote": "",
     "source": "火",
     "art_ref": "2121013",
@@ -1327,13 +1324,13 @@
     "rarity": "普通",
     "mana_cost": 3,
     "tech_requirement": {
-      "火": 4
+      "火": 3
     },
     "elements_gain": {
-      "火": 2
+      "火": 1
     },
     "cooldown": 0,
-    "description": "入场：抽1张牌，然后弃1张手牌。",
+    "description": "入场：抽2张牌。",
     "quote": "",
     "source": "火",
     "art_ref": "2121107",
@@ -1369,9 +1366,9 @@
     "category": "火焰",
     "subtype": "消耗品-法术卷轴-驱动",
     "rarity": "普通",
-    "mana_cost": 2,
+    "mana_cost": 1,
     "tech_requirement": {
-      "火": 4
+      "火": 3
     },
     "attack": 2,
     "cooldown": 0,
@@ -1390,7 +1387,7 @@
     "category": "火焰",
     "subtype": "消耗品-法术卷轴-创造",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "tech_requirement": {
       "火": 4
     },
@@ -1411,9 +1408,9 @@
     "category": "火焰",
     "subtype": "消耗品-法术卷轴-创造",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "tech_requirement": {
-      "火": 4
+      "火": 5
     },
     "attack": 3,
     "cooldown": 0,
@@ -1434,10 +1431,10 @@
     "rarity": "普通",
     "mana_cost": 1,
     "tech_requirement": {
-      "火": 2
+      "火": 4
     },
     "cooldown": 0,
-    "description": "使1个友方火焰伙伴本回合攻击力增加2。",
+    "description": "使所有友方火焰单位本回合攻击力+1。",
     "quote": "",
     "source": "火",
     "output_path": "new_output/基础包/道具/火焰/BFI013.jpg"
@@ -1453,10 +1450,10 @@
     "rarity": "普通",
     "mana_cost": 1,
     "tech_requirement": {
-      "火": 2
+      "火": 1
     },
     "cooldown": 0,
-    "description": "你获得3点护盾。",
+    "description": "你获得2点护盾。",
     "quote": "",
     "source": "火",
     "art_ref": "2121009",
@@ -1498,7 +1495,7 @@
       "火": 4
     },
     "cooldown": 0,
-    "description": "反制：敌方伙伴入场后，使该伙伴获得点燃2和眩晕1。",
+    "description": "反制：敌方伙伴入场后，使该伙伴获得点燃2和眩晕2。",
     "quote": "",
     "source": "火",
     "art_ref": "2121012",
@@ -1514,12 +1511,12 @@
     "subtype": "法术-神秘",
     "rarity": "传奇",
     "mana_cost": 3,
-    "activation_mana": 4,
+    "activation_mana": 2,
     "tech_requirement": {
       "火": 8
     },
     "attack": 6,
-    "cooldown": 2,
+    "cooldown": 3,
     "description": "范围：敌方全场。",
     "quote": "“努尔已经被战争和毁灭蒙蔽双眼，而洛普修斯将引领我们向往更辉煌的终点！”",
     "source": "火",
@@ -1558,7 +1555,7 @@
     "subtype": "法术-聚能",
     "rarity": "普通",
     "mana_cost": 2,
-    "activation_mana": 1,
+    "activation_mana": 0,
     "tech_requirement": {
       "火": 2
     },
@@ -1711,7 +1708,7 @@
     "subtype": "法术-驱动",
     "rarity": "普通",
     "mana_cost": 3,
-    "activation_mana": 2,
+    "activation_mana": 1,
     "tech_requirement": {
       "火": 6
     },
@@ -1753,8 +1750,8 @@
     "category": "火焰",
     "subtype": "法术-聚能",
     "rarity": "普通",
-    "mana_cost": 4,
-    "activation_mana": 2,
+    "mana_cost": 3,
+    "activation_mana": 1,
     "tech_requirement": {
       "火": 7
     },
@@ -1765,6 +1762,21 @@
     "source": "火",
     "art_ref": "3101002",
     "output_path": "new_output/基础包/技能/火焰/BFS012.jpg"
+  },
+  {
+    "number": "BFS013",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "火焰吐息",
+    "category": "火焰",
+    "subtype": "衍生-法术-聚能",
+    "rarity": "普通",
+    "attack": 3,
+    "description": "",
+    "quote": "",
+    "source": "火",
+    "output_path": "new_output/基础包/技能/火焰/BFS013.jpg"
   },
   {
     "number": "BWC001",
@@ -1783,9 +1795,9 @@
       "水": 1
     },
     "attack": 2,
-    "life": 6,
+    "life": 5,
     "cooldown": 0,
-    "description": "入场：你可以从主卡组检索1张入场法力费用不超过2的水纹伙伴牌，展示并加入手牌，然后洗混主卡组。",
+    "description": "入场：可以检索1张水纹卡牌。",
     "quote": "合上眼睛，她回忆起曾经的海浪，礁石...以及她信任的那位王子",
     "source": "水",
     "art_ref": "1211001",
@@ -1805,9 +1817,9 @@
       "水": 8
     },
     "attack": 6,
-    "life": 13,
+    "life": 11,
     "cooldown": 0,
-    "description": "入场：你可以消灭法力范围内1个当前生命不超过3的敌方伙伴。",
+    "description": "入场：你可以消灭1个前排敌方伙伴。",
     "quote": "\"只有一人能从巨口中存活，他便是那怪物命中注定的斩杀者\"",
     "source": "水",
     "art_ref": "1211002",
@@ -1844,9 +1856,6 @@
     "subtype": "人类",
     "rarity": "普通",
     "mana_cost": 1,
-    "tech_requirement": {
-      "水": 1
-    },
     "attack": 1,
     "life": 3,
     "cooldown": 0,
@@ -1977,9 +1986,6 @@
     "subtype": "野兽",
     "rarity": "普通",
     "mana_cost": 2,
-    "tech_requirement": {
-      "水": 2
-    },
     "elements_gain": {
       "水": 1
     },
@@ -2005,7 +2011,7 @@
     "tech_requirement": {
       "水": 3
     },
-    "attack": 1,
+    "attack": 2,
     "life": 3,
     "cooldown": 0,
     "description": "远程",
@@ -2025,7 +2031,7 @@
     "rarity": "普通",
     "mana_cost": 2,
     "tech_requirement": {
-      "水": 3
+      "水": 2
     },
     "elements_gain": {
       "水": 1
@@ -2049,7 +2055,7 @@
     "rarity": "普通",
     "mana_cost": 3,
     "tech_requirement": {
-      "水": 3
+      "水": 2
     },
     "elements_gain": {
       "水": 1
@@ -2074,13 +2080,13 @@
     "rarity": "普通",
     "mana_cost": 3,
     "tech_requirement": {
-      "水": 4
+      "水": 2
     },
     "elements_gain": {
       "水": 1
     },
     "attack": 2,
-    "life": 7,
+    "life": 5,
     "cooldown": 0,
     "description": "入场：你获得2点护盾。",
     "quote": "",
@@ -2102,9 +2108,9 @@
       "水": 3
     },
     "attack": 1,
-    "life": 8,
+    "life": 6,
     "cooldown": 0,
-    "description": "此伙伴受到敌方单位或装备直接攻击造成的伤害减少1，最低为0。",
+    "description": "诱发回合技1：此伙伴将受到来自其他单位的攻击伤害时，使其冻结1。",
     "quote": "",
     "source": "水",
     "art_ref": "1221016",
@@ -2121,13 +2127,13 @@
     "rarity": "普通",
     "mana_cost": 3,
     "tech_requirement": {
-      "水": 4
+      "水": 2
     },
     "elements_gain": {
       "水": 1
     },
     "attack": 2,
-    "life": 6,
+    "life": 5,
     "cooldown": 0,
     "description": "入场：使1个友方单位回复2点生命。",
     "quote": "",
@@ -2144,11 +2150,11 @@
     "category": "水纹",
     "subtype": "机械",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "tech_requirement": {
       "水": 4
     },
-    "attack": 1,
+    "attack": 2,
     "life": 6,
     "cooldown": 0,
     "description": "入场：查看你的牌库顶3张牌，可以将其中1张水纹牌展示并加入手牌，其余按任意顺序置于牌库底。",
@@ -2174,7 +2180,7 @@
       "水": 1
     },
     "attack": 4,
-    "life": 11,
+    "life": 9,
     "cooldown": 0,
     "description": "",
     "quote": "",
@@ -2196,7 +2202,7 @@
       "水": 6
     },
     "attack": 5,
-    "life": 12,
+    "life": 10,
     "cooldown": 0,
     "description": "",
     "quote": "",
@@ -2218,7 +2224,7 @@
       "水": 7
     },
     "attack": 5,
-    "life": 14,
+    "life": 11,
     "cooldown": 0,
     "description": "",
     "quote": "",
@@ -2260,7 +2266,7 @@
     "attack": 0,
     "life": 15,
     "skill_slots": 3,
-    "description": "诱发回合技1：己方回合，你的第一张水纹装备入场后，可以查看牌库顶1张牌，并选择将其留在原处或置于牌库底。",
+    "description": "诱发回合技1：己方回合，你的第一张水纹装备入场后，此人物回复1点生命，然后查看牌库顶1张牌，可以将其置于牌库底。",
     "quote": "“反对我？你不是第一个，但确实是现在唯一的一个”",
     "source": "人物",
     "art_ref": "4211002",
@@ -2277,10 +2283,10 @@
     "elements_gain": {
       "水": 2
     },
-    "attack": 0,
-    "life": 15,
+    "attack": 1,
+    "life": 20,
     "skill_slots": 2,
-    "description": "诱发回合技1：敌方回合，敌方单位或装备对你的水纹伙伴发起的第一次普通攻击，其伤害减少2，最低为0。此次数由所有伙伴共享。",
+    "description": "诱发回合技1：敌方回合，敌方单位或装备对你的水纹伙伴发起的第一次普通攻击，其伤害减少1，最低为0。此次数由所有伙伴共享。",
     "quote": "“卡姆陛下，我想凛冬城下的无数冰雕已经足够说明了，这里不需要一个国王”",
     "source": "人物",
     "art_ref": "4211003",
@@ -2298,8 +2304,8 @@
     "elements_gain": {
       "水": 2
     },
-    "attack": 1,
-    "life": 20,
+    "attack": 0,
+    "life": 15,
     "skill_slots": 3,
     "description": "主动绝技：支付1点法力，选择一个你已学习且印刷攻击力至少为3的水纹法术，使它在本次在场期间攻击力永久+1。",
     "quote": "“别忘了父亲的话，每个人出生便被赋予了属于自己和家族的责任”",
@@ -2337,16 +2343,15 @@
     "category": "水纹",
     "subtype": "装备-神器",
     "rarity": "传奇",
-    "mana_cost": 3,
-    "activation_mana": 2,
+    "mana_cost": 2,
     "tech_requirement": {
-      "水": 5
+      "水": 2
     },
     "elements_gain": {
       "水": 1
     },
     "cooldown": 0,
-    "description": "主动绝技：支付2点法力并将此装备移出游戏，从你的弃牌堆选择1张入场法力费用不超过3的伙伴牌，以其基础生命上限和横置状态召唤到己方1个空位。此召唤不支付该伙伴费用，也不检定其科技。",
+    "description": "主动绝技：支付2点法力并将此装备移出游戏，从你的弃牌堆选择1张入场法力费用不超过3的伙伴牌，将其召唤到你的场上，无需支付其入场花费和负载检定。",
     "quote": "巴特尔从沙滩上惊醒，身旁的泡沫顷刻间被浪花融化",
     "source": "水",
     "art_ref": "2211001",
@@ -2361,15 +2366,15 @@
     "category": "水纹",
     "subtype": "装备-饰物",
     "rarity": "普通",
-    "mana_cost": 1,
+    "mana_cost": 2,
     "tech_requirement": {
-      "水": 1
+      "水": 2
     },
     "elements_gain": {
       "水": 1
     },
     "cooldown": 0,
-    "description": "",
+    "description": "入场：你获得1点护盾。",
     "quote": "",
     "source": "水",
     "art_ref": "2221007",
@@ -2403,15 +2408,15 @@
     "category": "水纹",
     "subtype": "装备-器物",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 4,
     "tech_requirement": {
-      "水": 3
+      "水": 2
     },
     "elements_gain": {
       "水": 2
     },
     "cooldown": 0,
-    "description": "",
+    "description": "入场：使1个友方单位回复2点生命。",
     "quote": "",
     "source": "水",
     "art_ref": "2221006",
@@ -2434,7 +2439,7 @@
       "水": 1
     },
     "cooldown": 0,
-    "description": "诱发：当敌方声明使用法术时，你可以献祭此装备，使该法术本次使用的攻击力减少2，最低为0。",
+    "description": "诱发：当敌方声明使用法术时，你可以献祭此装备，使该法术本次使用的攻击力减少3，最低为0。",
     "quote": "",
     "source": "水",
     "art_ref": "2221001",
@@ -2449,13 +2454,13 @@
     "category": "水纹",
     "subtype": "装备-防具",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "activation_mana": 1,
     "tech_requirement": {
-      "水": 4
+      "水": 2
     },
     "elements_gain": {
-      "水": 2
+      "水": 1
     },
     "cooldown": 0,
     "description": "主动回合技1：支付1点法力并横置此装备，将1个友方伙伴移动至己方1个空位。",
@@ -2473,9 +2478,9 @@
     "category": "水纹",
     "subtype": "装备-武器",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "tech_requirement": {
-      "水": 4
+      "水": 3
     },
     "elements_gain": {
       "水": 1
@@ -2496,13 +2501,12 @@
     "category": "水纹",
     "subtype": "装备-武器",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "tech_requirement": {
       "水": 6
     },
-    "attack": 2,
     "cooldown": 0,
-    "description": "诱发：此装备直接攻击敌方伙伴并对其造成伤害后，使该伙伴获得冻结1。",
+    "description": "你的人物获得+2\\攻和远程效果，其攻击还会使目标冻结1",
     "quote": "一箭霜降，两箭严寒",
     "source": "水",
     "art_ref": "2211002",
@@ -2538,7 +2542,7 @@
     "category": "水纹",
     "subtype": "消耗品-法术卷轴-聚能",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "tech_requirement": {
       "水": 4
     },
@@ -2599,9 +2603,9 @@
     "category": "水纹",
     "subtype": "消耗品-咒术卷轴",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 1,
     "tech_requirement": {
-      "水": 5
+      "水": 3
     },
     "cooldown": 0,
     "description": "将法力范围内1个敌方伙伴横置，并使其获得冻结1。",
@@ -2619,7 +2623,7 @@
     "category": "水纹",
     "subtype": "消耗品-咒术卷轴",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "tech_requirement": {
       "水": 4
     },
@@ -2644,7 +2648,7 @@
       "水": 2
     },
     "cooldown": 0,
-    "description": "反制：敌方伙伴宣告直接攻击友方单位时，在伤害前使该次攻击对其目标造成的伤害减少3，最低为0。",
+    "description": "反制：敌方伙伴宣告直接攻击友方单位时，在伤害前使该次攻击对其目标造成的伤害减少2，最低为0。",
     "quote": "",
     "source": "水",
     "art_ref": "2221103",
@@ -2662,7 +2666,7 @@
     "mana_cost": 1,
     "activation_mana": 0,
     "tech_requirement": {
-      "水": 4
+      "水": 3
     },
     "cooldown": 0,
     "description": "反制：敌方声明使用法术时，使该法术本次使用的攻击力减少3，最低为0。",
@@ -2680,12 +2684,12 @@
     "category": "水纹",
     "subtype": "法术-驱动",
     "rarity": "传奇",
-    "mana_cost": 4,
-    "activation_mana": 3,
+    "mana_cost": 3,
+    "activation_mana": 2,
     "tech_requirement": {
       "水": 8
     },
-    "attack": 4,
+    "attack": 5,
     "cooldown": 2,
     "description": "范围：敌方全场。",
     "quote": "参天的浪潮裹挟着天空，随后便是利齿，以及无尽的黑暗",
@@ -2746,7 +2750,7 @@
     "category": "水纹",
     "subtype": "法术-创造",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "activation_mana": 0,
     "tech_requirement": {
       "水": 4
@@ -2773,7 +2777,7 @@
     "tech_requirement": {
       "水": 2
     },
-    "cooldown": 0,
+    "cooldown": 1,
     "description": "若你的护盾少于3，将你的护盾设为3。",
     "quote": "",
     "source": "水",
@@ -2852,8 +2856,8 @@
     "category": "水纹",
     "subtype": "法术-驱动",
     "rarity": "普通",
-    "mana_cost": 3,
-    "activation_mana": 2,
+    "mana_cost": 2,
+    "activation_mana": 1,
     "tech_requirement": {
       "水": 5
     },
@@ -2875,9 +2879,9 @@
     "subtype": "法术-驱动",
     "rarity": "普通",
     "mana_cost": 3,
-    "activation_mana": 2,
+    "activation_mana": 0,
     "tech_requirement": {
-      "水": 5
+      "水": 6
     },
     "attack": 4,
     "cooldown": 0,
@@ -2896,10 +2900,10 @@
     "category": "水纹",
     "subtype": "法术-聚能",
     "rarity": "普通",
-    "mana_cost": 3,
-    "activation_mana": 2,
+    "mana_cost": 2,
+    "activation_mana": 1,
     "tech_requirement": {
-      "水": 6
+      "水": 5
     },
     "attack": 3,
     "cooldown": 1,
@@ -2918,7 +2922,7 @@
     "category": "水纹",
     "subtype": "咒术-聚能",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "activation_mana": 1,
     "tech_requirement": {
       "水": 5
