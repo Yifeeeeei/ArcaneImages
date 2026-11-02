@@ -1,6 +1,6 @@
 [
   {
-    "number": "BAC001",
+    "number": "BACL001",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -22,10 +22,10 @@
     "quote": "“没错啊，小岛上全是我的收藏品，不过这些东西加一起都比不上我的宝贝女儿”",
     "source": "奥术",
     "art_ref": "1011101",
-    "output_path": "new_output/基础包/伙伴/无/BAC001.jpg"
+    "output_path": "new_output/基础包/伙伴/无/BACL001.jpg"
   },
   {
-    "number": "BAC002",
+    "number": "BACN002",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -40,10 +40,10 @@
     "description": "",
     "quote": "",
     "source": "奥术",
-    "output_path": "new_output/基础包/伙伴/无/BAC002.jpg"
+    "output_path": "new_output/基础包/伙伴/无/BACN002.jpg"
   },
   {
-    "number": "BAC003",
+    "number": "BACN003",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -61,10 +61,11 @@
     "description": "",
     "quote": "",
     "source": "奥术",
-    "output_path": "new_output/基础包/伙伴/无/BAC003.jpg"
+    "art_ref": "1021001",
+    "output_path": "new_output/基础包/伙伴/无/BACN003.jpg"
   },
   {
-    "number": "BAC004",
+    "number": "BACN004",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -80,10 +81,10 @@
     "quote": "",
     "source": "奥术",
     "art_ref": "1021018",
-    "output_path": "new_output/基础包/伙伴/无/BAC004.jpg"
+    "output_path": "new_output/基础包/伙伴/无/BACN004.jpg"
   },
   {
-    "number": "BAC005",
+    "number": "BACN005",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -102,10 +103,10 @@
     "quote": "",
     "source": "奥术",
     "art_ref": "1021013",
-    "output_path": "new_output/基础包/伙伴/无/BAC005.jpg"
+    "output_path": "new_output/基础包/伙伴/无/BACN005.jpg"
   },
   {
-    "number": "BAC006",
+    "number": "BACN006",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -124,10 +125,10 @@
     "quote": "",
     "source": "奥术",
     "art_ref": "1021017",
-    "output_path": "new_output/基础包/伙伴/无/BAC006.jpg"
+    "output_path": "new_output/基础包/伙伴/无/BACN006.jpg"
   },
   {
-    "number": "BAC007",
+    "number": "BACN007",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -149,10 +150,10 @@
     "quote": "“不不不，您这套行头出去可不像样啊”",
     "source": "奥术",
     "art_ref": "1021016",
-    "output_path": "new_output/基础包/伙伴/无/BAC007.jpg"
+    "output_path": "new_output/基础包/伙伴/无/BACN007.jpg"
   },
   {
-    "number": "BAC008",
+    "number": "BACN008",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -170,7 +171,7 @@
     "description": "",
     "quote": "",
     "source": "奥术",
-    "output_path": "new_output/基础包/伙伴/无/BAC008.jpg"
+    "output_path": "new_output/基础包/伙伴/无/BACN008.jpg"
   },
   {
     "number": "BAH001",
@@ -253,7 +254,7 @@
     "output_path": "new_output/基础包/人物/无/BAH004.jpg"
   },
   {
-    "number": "BAI001",
+    "number": "BAIL001",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -263,20 +264,42 @@
     "rarity": "传奇",
     "mana_cost": 3,
     "tech_requirement": {
-      "奥术": 4
+      "奥术": 5
     },
     "elements_gain": {
       "奥术": 1
     },
     "cooldown": 0,
-    "description": "你的技能槽+1，技能使用花费-1",
+    "description": "光环：你的普通技能槽+1；你的技能发动法力费用-1，最低为0。",
     "quote": "等你成为了大法师，你的法杖就是大法师之杖",
     "source": "奥术",
     "art_ref": "2011001",
-    "output_path": "new_output/基础包/道具/无/BAI001.jpg"
+    "output_path": "new_output/基础包/道具/无/BAIL001.jpg"
   },
   {
-    "number": "BAI002",
+    "number": "BAIL013",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "统御者之冠",
+    "category": "无",
+    "subtype": "装备-饰物",
+    "rarity": "传奇",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "奥术": 4
+    },
+    "elements_gain": {
+      "奥术": 1
+    },
+    "description": "诱发：你的伙伴入场时，使其攻击力和生命上限各+1、回复1点生命，并失去全部负载；这些修改持续至其离场。",
+    "quote": "",
+    "source": "奥术",
+    "art_ref": "2011002",
+    "output_path": "new_output/基础包/道具/无/BAIL013.jpg"
+  },
+  {
+    "number": "BAIN002",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -296,10 +319,10 @@
     "quote": "",
     "source": "奥术",
     "art_ref": "2021008",
-    "output_path": "new_output/基础包/道具/无/BAI002.jpg"
+    "output_path": "new_output/基础包/道具/无/BAIN002.jpg"
   },
   {
-    "number": "BAI003",
+    "number": "BAIN003",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -312,14 +335,14 @@
       "奥术": 1
     },
     "cooldown": 0,
-    "description": "翻取1张技能牌",
+    "description": "入场：翻取1张技能牌。",
     "quote": "",
     "source": "奥术",
     "art_ref": "2021001",
-    "output_path": "new_output/基础包/道具/无/BAI003.jpg"
+    "output_path": "new_output/基础包/道具/无/BAIN003.jpg"
   },
   {
-    "number": "BAI004",
+    "number": "BAIN004",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -336,10 +359,10 @@
     "quote": "",
     "source": "奥术",
     "art_ref": "2021002",
-    "output_path": "new_output/基础包/道具/无/BAI004.jpg"
+    "output_path": "new_output/基础包/道具/无/BAIN004.jpg"
   },
   {
-    "number": "BAI005",
+    "number": "BAIN005",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -352,14 +375,14 @@
       "奥术": 3
     },
     "cooldown": 0,
-    "description": "入场：对手失去3点护盾，若没有护盾则改为造成2点伤害。",
+    "description": "入场：若对手有护盾，移除其至多3点护盾；否则对其人物造成2点奥术效果伤害。",
     "quote": "",
     "source": "奥术",
     "art_ref": "2021102",
-    "output_path": "new_output/基础包/道具/无/BAI005.jpg"
+    "output_path": "new_output/基础包/道具/无/BAIN005.jpg"
   },
   {
-    "number": "BAI006",
+    "number": "BAIN006",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -376,10 +399,10 @@
     "quote": "",
     "source": "奥术",
     "art_ref": "2021106",
-    "output_path": "new_output/基础包/道具/无/BAI006.jpg"
+    "output_path": "new_output/基础包/道具/无/BAIN006.jpg"
   },
   {
-    "number": "BAI007",
+    "number": "BAIN007",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -392,14 +415,14 @@
       "奥术": 5
     },
     "cooldown": 0,
-    "description": "弃置将1张敌方装备",
+    "description": "弃置1张敌方装备。",
     "quote": "除你武器！",
     "source": "奥术",
     "art_ref": "3021008",
-    "output_path": "new_output/基础包/道具/无/BAI007.jpg"
+    "output_path": "new_output/基础包/道具/无/BAIN007.jpg"
   },
   {
-    "number": "BAI008",
+    "number": "BAIN008",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -413,10 +436,10 @@
     "quote": "",
     "source": "奥术",
     "art_ref": "3021001",
-    "output_path": "new_output/基础包/道具/无/BAI008.jpg"
+    "output_path": "new_output/基础包/道具/无/BAIN008.jpg"
   },
   {
-    "number": "BAI009",
+    "number": "BAIN009",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -433,10 +456,10 @@
     "quote": "",
     "source": "奥术",
     "art_ref": "3021105",
-    "output_path": "new_output/基础包/道具/无/BAI009.jpg"
+    "output_path": "new_output/基础包/道具/无/BAIN009.jpg"
   },
   {
-    "number": "BAI010",
+    "number": "BAIN010",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -453,10 +476,10 @@
     "quote": "",
     "source": "奥术",
     "art_ref": "2021101",
-    "output_path": "new_output/基础包/道具/无/BAI010.jpg"
+    "output_path": "new_output/基础包/道具/无/BAIN010.jpg"
   },
   {
-    "number": "BAI011",
+    "number": "BAIN011",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -474,10 +497,10 @@
     "quote": "",
     "source": "奥术",
     "art_ref": "2021113",
-    "output_path": "new_output/基础包/道具/无/BAI011.jpg"
+    "output_path": "new_output/基础包/道具/无/BAIN011.jpg"
   },
   {
-    "number": "BAI012",
+    "number": "BAIN012",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -491,35 +514,14 @@
       "奥术": 4
     },
     "cooldown": 0,
-    "description": "反制：在1个友方单位将要受到敌方致命伤害时，使其减少3点",
+    "description": "反制：1个友方单位将受到敌方造成的致命伤害时，使本次对该单位造成的伤害减少3，最低为0。",
     "quote": "",
     "source": "奥术",
     "art_ref": "2021114",
-    "output_path": "new_output/基础包/道具/无/BAI012.jpg"
+    "output_path": "new_output/基础包/道具/无/BAIN012.jpg"
   },
   {
-    "number": "BAI013",
-    "set_code": "B",
-    "set_name": "基础包",
-    "type": "道具",
-    "name": "统御者之冠",
-    "category": "无",
-    "subtype": "装备-饰物",
-    "rarity": "传奇",
-    "mana_cost": 2,
-    "tech_requirement": {
-      "奥术": 4
-    },
-    "elements_gain": {
-      "奥术": 1
-    },
-    "description": "你召唤的所有伙伴牌在入场时获得+1\\血和+1\\攻，但失去所有负载",
-    "quote": "",
-    "source": "奥术",
-    "output_path": "new_output/基础包/道具/无/BAI013.jpg"
-  },
-  {
-    "number": "BAS002",
+    "number": "BASN002",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -535,10 +537,10 @@
     "quote": "",
     "source": "奥术",
     "art_ref": "3021005",
-    "output_path": "new_output/基础包/技能/无/BAS002.jpg"
+    "output_path": "new_output/基础包/技能/无/BASN002.jpg"
   },
   {
-    "number": "BAS003",
+    "number": "BASN003",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -553,10 +555,10 @@
     "quote": "这是否也是命运的一部分？",
     "source": "奥术",
     "art_ref": "3021002",
-    "output_path": "new_output/基础包/技能/无/BAS003.jpg"
+    "output_path": "new_output/基础包/技能/无/BASN003.jpg"
   },
   {
-    "number": "BAS004",
+    "number": "BASN004",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -574,10 +576,2275 @@
     "quote": "",
     "source": "奥术",
     "art_ref": "3021103",
-    "output_path": "new_output/基础包/技能/无/BAS004.jpg"
+    "output_path": "new_output/基础包/技能/无/BASN004.jpg"
   },
   {
-    "number": "BFC001",
+    "number": "BDCL001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "\"观察者\" 欧柯茹",
+    "category": "暗",
+    "subtype": "恶魔",
+    "rarity": "传奇",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "暗": 5
+    },
+    "elements_gain": {
+      "暗": 1
+    },
+    "attack": 3,
+    "life": 6,
+    "cooldown": 0,
+    "description": "入场：查看牌库顶3张牌。你可以支付最多2点人物生命，每支付1点，将其中1张加入手牌；其余按任意顺序置于牌库底。",
+    "quote": "\"接受真相,比真相本身更加残酷...\"",
+    "source": "暗",
+    "art_ref": "1611001",
+    "output_path": "new_output/基础包/伙伴/暗/BDCL001.jpg"
+  },
+  {
+    "number": "BDCL002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "黑袍执行官 无心",
+    "category": "暗",
+    "subtype": "巫师",
+    "rarity": "传奇",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "暗": 8
+    },
+    "attack": 6,
+    "life": 12,
+    "cooldown": 0,
+    "description": "入场：你可以献祭1个其他友方暗属性伙伴；若如此做，消灭法力范围内1个敌方伙伴。诱发回合技1：另1个友方伙伴被你献祭后，此伙伴本次在场期间攻击力+1。",
+    "quote": "\"你厌恶的事实,不过是万物轮回的流程\"",
+    "source": "暗",
+    "art_ref": "1611002",
+    "output_path": "new_output/基础包/伙伴/暗/BDCL002.jpg"
+  },
+  {
+    "number": "BDCN003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "冥界信鸽",
+    "category": "暗",
+    "subtype": "野兽",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "attack": 0,
+    "life": 2,
+    "cooldown": 0,
+    "description": "遗言：抽1张牌。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "1621001",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN003.jpg"
+  },
+  {
+    "number": "BDCN004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "元素躯壳",
+    "category": "暗",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "elements_gain": {
+      "暗": 1
+    },
+    "attack": 0,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "1621002",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN004.jpg"
+  },
+  {
+    "number": "BDCN005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "恶魔仆从",
+    "category": "暗",
+    "subtype": "恶魔",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "elements_gain": {
+      "暗": 1
+    },
+    "attack": 1,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "1621014",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN005.jpg"
+  },
+  {
+    "number": "BDCN006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "巫师的人偶",
+    "category": "暗",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "attack": 1,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "1621007",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN006.jpg"
+  },
+  {
+    "number": "BDCN007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "南境奴隶",
+    "category": "暗",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "attack": 1,
+    "life": 3,
+    "cooldown": 0,
+    "description": "诱发：你为支付卡牌效果的费用而献祭此伙伴后，你的人物回复1点生命。",
+    "quote": "不是不报,时候未到",
+    "source": "暗",
+    "art_ref": "1621008",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN007.jpg"
+  },
+  {
+    "number": "BDCN008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "灵魂祭司",
+    "category": "暗",
+    "subtype": "巫师",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "attack": 1,
+    "life": 3,
+    "cooldown": 0,
+    "description": "主动回合技1：支付1法力并横置此伙伴，献祭1个其他友方伙伴，抽2张牌。",
+    "quote": "\"人人都在卖命,至少我这的价格是公平的\"",
+    "source": "暗",
+    "art_ref": "1621012",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN008.jpg"
+  },
+  {
+    "number": "BDCN009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "恐惧魔",
+    "category": "暗",
+    "subtype": "恶魔",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "暗": 3
+    },
+    "attack": 3,
+    "life": 5,
+    "cooldown": 0,
+    "description": "召唤此伙伴的额外费用：支付2点人物生命。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "1621003",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN009.jpg"
+  },
+  {
+    "number": "BDCN010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "巫术祭司",
+    "category": "暗",
+    "subtype": "巫师",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "elements_gain": {
+      "暗": 1
+    },
+    "attack": 1,
+    "life": 4,
+    "cooldown": 0,
+    "description": "主动绝技：支付1法力并横置此伙伴，献祭1个其他友方伙伴，使你的人物回复4点生命。",
+    "quote": "\"又到了献祭的时刻......\"",
+    "source": "暗",
+    "art_ref": "1621004",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN010.jpg"
+  },
+  {
+    "number": "BDCN011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "诅咒魔像",
+    "category": "暗",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "暗": 4
+    },
+    "attack": 3,
+    "life": 6,
+    "cooldown": 0,
+    "description": "入场：选择1张敌方已学习的法术技能，直到你的下个回合开始，其攻击力-1，最低为0。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "1621005",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN011.jpg"
+  },
+  {
+    "number": "BDCN012",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "梦魇",
+    "category": "暗",
+    "subtype": "恶魔",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "暗": 4
+    },
+    "attack": 3,
+    "life": 5,
+    "cooldown": 0,
+    "description": "诱发回合技1：另1个友方伙伴死亡后，此伙伴在本次在场期间生命上限+1，并回复1点生命。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "1621006",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN012.jpg"
+  },
+  {
+    "number": "BDCN013",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "唤魔邪术士",
+    "category": "暗",
+    "subtype": "巫师",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "elements_gain": {
+      "暗": 1
+    },
+    "attack": 1,
+    "life": 3,
+    "cooldown": 0,
+    "description": "诱发回合技1：你献祭另1个友方伙伴后，可以检索1张入场法力费用至少为3的暗属性伙伴牌。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "1621009",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN013.jpg"
+  },
+  {
+    "number": "BDCN014",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "白骨骑士",
+    "category": "暗",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "暗": 4
+    },
+    "attack": 3,
+    "life": 6,
+    "cooldown": 0,
+    "description": "遗言：若此伙伴不是因献祭死亡，将此牌返回你的手牌。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "1621011",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN014.jpg"
+  },
+  {
+    "number": "BDCN015",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "人面枭",
+    "category": "暗",
+    "subtype": "异兽",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "暗": 3
+    },
+    "attack": 2,
+    "life": 3,
+    "cooldown": 0,
+    "description": "远程。",
+    "quote": "不要去问枭鸟为谁鸣",
+    "source": "暗",
+    "art_ref": "1621015",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN015.jpg"
+  },
+  {
+    "number": "BDCN016",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "复仇死者",
+    "category": "暗",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "attack": 2,
+    "life": 3,
+    "cooldown": 0,
+    "description": "遗言：对敌方人物造成1点暗属性效果伤害。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "1621016",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN016.jpg"
+  },
+  {
+    "number": "BDCN017",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "血契侍僧",
+    "category": "暗",
+    "subtype": "巫师",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "elements_gain": {
+      "暗": 2
+    },
+    "attack": 0,
+    "life": 3,
+    "cooldown": 0,
+    "description": "召唤此伙伴的额外费用：支付2点人物生命。",
+    "quote": "",
+    "source": "暗",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN017.jpg"
+  },
+  {
+    "number": "BDCN018",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "恶魔尊主",
+    "category": "暗",
+    "subtype": "恶魔",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "暗": 6
+    },
+    "elements_gain": {
+      "暗": 1
+    },
+    "attack": 5,
+    "life": 10,
+    "cooldown": 0,
+    "description": "入场：你可以献祭1个其他友方暗属性伙伴；若如此做，此伙伴在本次在场期间攻击力+1、生命上限+2，并回复2点生命。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "1621010",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN018.jpg"
+  },
+  {
+    "number": "BDCN019",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "冥河巨像",
+    "category": "暗",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "暗": 7
+    },
+    "attack": 7,
+    "life": 12,
+    "cooldown": 0,
+    "description": "召唤此伙伴的额外费用：支付3点人物生命。",
+    "quote": "",
+    "source": "暗",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN019.jpg"
+  },
+  {
+    "number": "BDCN020",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "缚魂守卫",
+    "category": "暗",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "elements_gain": {
+      "暗": 1
+    },
+    "attack": 1,
+    "life": 4,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "暗",
+    "output_path": "new_output/基础包/伙伴/暗/BDCN020.jpg"
+  },
+  {
+    "number": "BDH001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "暗影学者 爱莉斯",
+    "category": "暗",
+    "subtype": "",
+    "elements_gain": {
+      "暗": 2
+    },
+    "attack": 0,
+    "life": 15,
+    "skill_slots": 3,
+    "description": "诱发回合技1：己方回合，1个友方伙伴死亡后，使1个你已学习的暗属性法术本回合攻击力+1。",
+    "quote": "\"这本叫'群屿编年史'的,真是我见过最富想象力的东西\"——\"观察者\" 欧柯茹",
+    "source": "人物",
+    "art_ref": "4611001",
+    "output_path": "new_output/基础包/人物/暗/BDH001.jpg"
+  },
+  {
+    "number": "BDH002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "芙雅夫人",
+    "category": "暗",
+    "subtype": "",
+    "activation_mana": 1,
+    "elements_gain": {
+      "暗": 2
+    },
+    "attack": 0,
+    "life": 15,
+    "skill_slots": 3,
+    "description": "主动绝技：支付1法力，选择1个友方暗属性伙伴。直到你的下个回合结束，其攻击力+2且额外提供2点暗负载；在那个回合结束时献祭它。",
+    "quote": "\"你是想现在就为我服务,还是死后再为我服务?\"",
+    "source": "人物",
+    "art_ref": "4611002",
+    "output_path": "new_output/基础包/人物/暗/BDH002.jpg"
+  },
+  {
+    "number": "BDH003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "咒言师 结影",
+    "category": "暗",
+    "subtype": "",
+    "activation_mana": 1,
+    "elements_gain": {
+      "暗": 2
+    },
+    "attack": 0,
+    "life": 15,
+    "skill_slots": 3,
+    "description": "主动回合技1：支付1法力和1点人物生命并横置此人物，查看牌库顶2张牌，将其中1张加入手牌，另一张置于牌库底。",
+    "quote": "\"书是人的养料,人也可以是书的养料\"",
+    "source": "人物",
+    "art_ref": "4611003",
+    "output_path": "new_output/基础包/人物/暗/BDH003.jpg"
+  },
+  {
+    "number": "BDH004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "墓园统领 伊舍",
+    "category": "暗",
+    "subtype": "",
+    "elements_gain": {
+      "暗": 2
+    },
+    "attack": 0,
+    "life": 20,
+    "skill_slots": 2,
+    "description": "诱发回合技1：己方回合，你献祭1个伙伴后，使1个友方伙伴本回合攻击力+2。",
+    "quote": "",
+    "source": "人物",
+    "output_path": "new_output/基础包/人物/暗/BDH004.jpg"
+  },
+  {
+    "number": "BDH005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "血契领主 赛德",
+    "category": "暗",
+    "subtype": "",
+    "activation_mana": 0,
+    "elements_gain": {
+      "暗": 2
+    },
+    "attack": 0,
+    "life": 20,
+    "skill_slots": 2,
+    "description": "主动回合技1：支付2点人物生命，直到你的下个回合开始，此人物额外提供1点暗负载。",
+    "quote": "",
+    "source": "人物",
+    "output_path": "new_output/基础包/人物/暗/BDH005.jpg"
+  },
+  {
+    "number": "BDIL001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "死灵魔石 虚无",
+    "category": "暗",
+    "subtype": "装备-神器",
+    "rarity": "传奇",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "elements_gain": {
+      "暗": 1
+    },
+    "description": "诱发回合技1：你献祭1个伙伴后，此装备永久额外提供1点暗负载；此效果最多累计提供2点暗负载。",
+    "quote": "比起被永远囚禁在这,魂飞魄散显得那么安详",
+    "source": "暗",
+    "art_ref": "2611001",
+    "output_path": "new_output/基础包/道具/暗/BDIL001.jpg"
+  },
+  {
+    "number": "BDIN002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "黑曜石坠",
+    "category": "暗",
+    "subtype": "装备",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "elements_gain": {
+      "暗": 1
+    },
+    "description": "",
+    "quote": "",
+    "source": "暗",
+    "output_path": "new_output/基础包/道具/暗/BDIN002.jpg"
+  },
+  {
+    "number": "BDIN003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "亡魂项链",
+    "category": "暗",
+    "subtype": "装备-饰物",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "elements_gain": {
+      "暗": 1
+    },
+    "description": "诱发回合技1：己方回合，你献祭1个伙伴后，你的人物本回合额外提供1点暗负载。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "2621006",
+    "output_path": "new_output/基础包/道具/暗/BDIN003.jpg"
+  },
+  {
+    "number": "BDIN004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "安迪斯之镰",
+    "category": "暗",
+    "subtype": "装备-武器",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "elements_gain": {
+      "暗": 1
+    },
+    "description": "诱发回合技1：己方回合，你献祭1个伙伴后，使1个友方伙伴本回合攻击力+2。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "2621007",
+    "output_path": "new_output/基础包/道具/暗/BDIN004.jpg"
+  },
+  {
+    "number": "BDIN005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "暗影披风",
+    "category": "暗",
+    "subtype": "装备-防具",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "elements_gain": {
+      "暗": 1
+    },
+    "description": "诱发绝技：敌方法术将要造成伤害时，你可以献祭此装备，使该法术本次使用的攻击力减少3，最低为0。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "2621012",
+    "output_path": "new_output/基础包/道具/暗/BDIN005.jpg"
+  },
+  {
+    "number": "BDIN006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "血契祭坛",
+    "category": "暗",
+    "subtype": "装备",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "elements_gain": {
+      "暗": 1
+    },
+    "description": "入场：你可以支付2点人物生命；若如此做，抽1张牌。",
+    "quote": "",
+    "source": "暗",
+    "output_path": "new_output/基础包/道具/暗/BDIN006.jpg"
+  },
+  {
+    "number": "BDIN007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "埋葬者",
+    "category": "暗",
+    "subtype": "装备-武器",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "elements_gain": {
+      "暗": 1
+    },
+    "cooldown": 0,
+    "description": "主动绝技：支付2点人物生命并横置此装备，将你牌库顶2张牌置于弃牌堆，然后此装备永久额外提供1点暗负载。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "2621014",
+    "output_path": "new_output/基础包/道具/暗/BDIN007.jpg"
+  },
+  {
+    "number": "BDIN008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "暗渊容器",
+    "category": "暗",
+    "subtype": "装备",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "elements_gain": {
+      "暗": 2
+    },
+    "description": "入场：你可以献祭1个友方伙伴；若如此做，抽2张牌。",
+    "quote": "",
+    "source": "暗",
+    "output_path": "new_output/基础包/道具/暗/BDIN008.jpg"
+  },
+  {
+    "number": "BDIN009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "献血卷轴",
+    "category": "暗",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "description": "额外费用：支付2点人物生命。抽2张牌。",
+    "quote": "",
+    "source": "暗",
+    "output_path": "new_output/基础包/道具/暗/BDIN009.jpg"
+  },
+  {
+    "number": "BDIN010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "暗冥弹卷轴",
+    "category": "暗",
+    "subtype": "消耗品-法术卷轴-聚能",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "暗": 3
+    },
+    "attack": 3,
+    "description": "",
+    "quote": "别人写好的就是比自己学的好用",
+    "source": "暗",
+    "art_ref": "2621009",
+    "output_path": "new_output/基础包/道具/暗/BDIN010.jpg"
+  },
+  {
+    "number": "BDIN011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "魂噬卷轴",
+    "category": "暗",
+    "subtype": "消耗品-法术卷轴-灵媒",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "暗": 3
+    },
+    "attack": 1,
+    "description": "命中：选择1张敌方已学习的法术技能，直到其操控者的下个回合结束，其攻击力-2，最低为0。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "2621008",
+    "output_path": "new_output/基础包/道具/暗/BDIN011.jpg"
+  },
+  {
+    "number": "BDIN012",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "哀歌卷轴",
+    "category": "暗",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "暗": 1
+    },
+    "description": "从你的弃牌堆选择1张暗属性伙伴牌加入手牌。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "2621109",
+    "output_path": "new_output/基础包/道具/暗/BDIN012.jpg"
+  },
+  {
+    "number": "BDIN013",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "安迪斯的赠与",
+    "category": "暗",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "description": "选择1个友方伙伴。本回合它额外提供2点暗负载；在本回合结束时献祭它。同名效果在同一伙伴上不叠加。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "2621110",
+    "output_path": "new_output/基础包/道具/暗/BDIN013.jpg"
+  },
+  {
+    "number": "BDIN014",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "血祭契约卷轴",
+    "category": "暗",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "暗": 4
+    },
+    "description": "额外费用：献祭1个友方伙伴。消灭1个法力范围内当前生命不超过5的敌方伙伴。",
+    "quote": "",
+    "source": "暗",
+    "output_path": "new_output/基础包/道具/暗/BDIN014.jpg"
+  },
+  {
+    "number": "BDIN015",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "杀戮本能",
+    "category": "暗",
+    "subtype": "消耗品-反制",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "cooldown": 0,
+    "description": "反制：敌方伙伴入场后，对其造成2点暗属性效果伤害。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "2621003",
+    "output_path": "new_output/基础包/道具/暗/BDIN015.jpg"
+  },
+  {
+    "number": "BDIN016",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "献祭符文",
+    "category": "暗",
+    "subtype": "消耗品-反制-符文",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "cooldown": 0,
+    "description": "反制：1个友方伙伴死亡后，抽2张牌。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "2621005",
+    "output_path": "new_output/基础包/道具/暗/BDIN016.jpg"
+  },
+  {
+    "number": "BDSN001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "暗影冲击",
+    "category": "暗",
+    "subtype": "法术-聚能",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "attack": 1,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "3621001",
+    "output_path": "new_output/基础包/技能/暗/BDSN001.jpg"
+  },
+  {
+    "number": "BDSN002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "噬血",
+    "category": "暗",
+    "subtype": "法术-代赎",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "暗": 3
+    },
+    "attack": 2,
+    "cooldown": 0,
+    "description": "命中：你的人物回复1点生命。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "3621002",
+    "output_path": "new_output/基础包/技能/暗/BDSN002.jpg"
+  },
+  {
+    "number": "BDSN003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "死亡收割",
+    "category": "暗",
+    "subtype": "法术-驱动",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "暗": 5
+    },
+    "attack": 3,
+    "cooldown": 1,
+    "description": "范围：敌方实际前排。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "3621003",
+    "output_path": "new_output/基础包/技能/暗/BDSN003.jpg"
+  },
+  {
+    "number": "BDSN004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "暗影箭",
+    "category": "暗",
+    "subtype": "法术-创造",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "暗": 3
+    },
+    "attack": 1,
+    "cooldown": 0,
+    "description": "穿透。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "3621004",
+    "output_path": "new_output/基础包/技能/暗/BDSN004.jpg"
+  },
+  {
+    "number": "BDSN005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "暗冥弹",
+    "category": "暗",
+    "subtype": "法术-创造",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "暗": 6
+    },
+    "attack": 4,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "3621005",
+    "output_path": "new_output/基础包/技能/暗/BDSN005.jpg"
+  },
+  {
+    "number": "BDSN006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "血契研习",
+    "category": "暗",
+    "subtype": "咒术-代赎",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "cooldown": 1,
+    "description": "额外费用：支付2点人物生命。抽1张牌。",
+    "quote": "",
+    "source": "暗",
+    "output_path": "new_output/基础包/技能/暗/BDSN006.jpg"
+  },
+  {
+    "number": "BDSN007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "血魔爆",
+    "category": "暗",
+    "subtype": "法术-代赎",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "暗": 4
+    },
+    "attack": 0,
+    "cooldown": 1,
+    "description": "额外费用：献祭1个友方伙伴。此法术本次攻击力等于该伙伴被献祭前的当前生命值，最多为6。仅能以法力范围内的敌方伙伴为目标。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "3621010",
+    "output_path": "new_output/基础包/技能/暗/BDSN007.jpg"
+  },
+  {
+    "number": "BDSN008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "回魂术",
+    "category": "暗",
+    "subtype": "咒术-幻变",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "cooldown": 1,
+    "description": "从你的弃牌堆选择1张入场法力费用不超过2的暗属性伙伴牌加入手牌。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "3621012",
+    "output_path": "new_output/基础包/技能/暗/BDSN008.jpg"
+  },
+  {
+    "number": "BDSN009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "鲜血滋养",
+    "category": "暗",
+    "subtype": "咒术-代赎",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "暗": 2
+    },
+    "cooldown": 2,
+    "description": "额外费用：支付2点人物生命，并将1张暗属性伙伴牌从你的弃牌堆移出游戏。直到你的下个回合结束，你的人物额外提供2点暗负载；同名效果不叠加。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "3621110",
+    "output_path": "new_output/基础包/技能/暗/BDSN009.jpg"
+  },
+  {
+    "number": "BDSN010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "亡者之怒",
+    "category": "暗",
+    "subtype": "法术-聚能",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "暗": 5
+    },
+    "attack": 3,
+    "cooldown": 0,
+    "description": "若本回合你献祭过伙伴，此法术本次攻击力+2。",
+    "quote": "",
+    "source": "暗",
+    "art_ref": "3621008",
+    "output_path": "new_output/基础包/技能/暗/BDSN010.jpg"
+  },
+  {
+    "number": "BDSN011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "深渊终结",
+    "category": "暗",
+    "subtype": "法术-神秘",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 2,
+    "tech_requirement": {
+      "暗": 7
+    },
+    "attack": 6,
+    "cooldown": 2,
+    "description": "范围：敌方全场。额外费用：支付3点人物生命。",
+    "quote": "投入深渊......走向一切的终结",
+    "source": "暗",
+    "art_ref": "3621201",
+    "output_path": "new_output/基础包/技能/暗/BDSN011.jpg"
+  },
+  {
+    "number": "BECL001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "\"知识古树\" 深耕",
+    "category": "地",
+    "subtype": "植物",
+    "rarity": "传奇",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "地": 5
+    },
+    "elements_gain": {
+      "地": 2
+    },
+    "attack": 3,
+    "life": 9,
+    "cooldown": 0,
+    "description": "入场：检索1张地属性技能牌。",
+    "quote": "\"我亲爱的孩子,只要问我,我便会答复,有关生命,平衡,以及大地\"",
+    "source": "地",
+    "art_ref": "1411002",
+    "output_path": "new_output/基础包/伙伴/地/BECL001.jpg"
+  },
+  {
+    "number": "BECL002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "百兽之王 莱恩克塞斯",
+    "category": "地",
+    "subtype": "野兽",
+    "rarity": "传奇",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "地": 8
+    },
+    "attack": 7,
+    "life": 13,
+    "cooldown": 0,
+    "description": "入场：你可以从手牌召唤1个入场法力费用不超过3的地属性伙伴，无需支付其入场法力，仍须满足其负载条件。",
+    "quote": "\"该死的杂种...不好,怎么还有这么多\"",
+    "source": "地",
+    "art_ref": "1411103",
+    "output_path": "new_output/基础包/伙伴/地/BECL002.jpg"
+  },
+  {
+    "number": "BECN003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "磐石元素",
+    "category": "地",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "elements_gain": {
+      "地": 1
+    },
+    "attack": 0,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "地",
+    "art_ref": "1421005",
+    "output_path": "new_output/基础包/伙伴/地/BECN003.jpg"
+  },
+  {
+    "number": "BECN004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "林地变形者",
+    "category": "地",
+    "subtype": "精灵",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "地": 2
+    },
+    "attack": 1,
+    "life": 3,
+    "cooldown": 0,
+    "description": "",
+    "quote": "了解自然,亲近自然,融入自然",
+    "source": "地",
+    "art_ref": "1421006",
+    "output_path": "new_output/基础包/伙伴/地/BECN004.jpg"
+  },
+  {
+    "number": "BECN005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "成长的树人",
+    "category": "地",
+    "subtype": "植物",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "地": 2
+    },
+    "elements_gain": {
+      "地": 1
+    },
+    "attack": 0,
+    "life": 4,
+    "cooldown": 0,
+    "description": "主动绝技：支付1法力并横置此伙伴，使其在本次在场期间额外提供地1。",
+    "quote": "每一棵小树,都是未来树林的支柱",
+    "source": "地",
+    "art_ref": "1421003",
+    "output_path": "new_output/基础包/伙伴/地/BECN005.jpg"
+  },
+  {
+    "number": "BECN006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "森林守卫",
+    "category": "地",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "地": 2
+    },
+    "elements_gain": {
+      "地": 1
+    },
+    "attack": 1,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "地",
+    "art_ref": "1421004",
+    "output_path": "new_output/基础包/伙伴/地/BECN006.jpg"
+  },
+  {
+    "number": "BECN007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "苗圃守卫",
+    "category": "地",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "attack": 1,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "地",
+    "output_path": "new_output/基础包/伙伴/地/BECN007.jpg"
+  },
+  {
+    "number": "BECN008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "流沙法师",
+    "category": "地",
+    "subtype": "巫师",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "地": 2
+    },
+    "attack": 1,
+    "life": 4,
+    "cooldown": 0,
+    "description": "入场：将法力范围内1个敌方伙伴横置。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "1421001",
+    "output_path": "new_output/基础包/伙伴/地/BECN008.jpg"
+  },
+  {
+    "number": "BECN009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "被祝福的少女",
+    "category": "地",
+    "subtype": "精灵",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "地": 2
+    },
+    "elements_gain": {
+      "地": 1
+    },
+    "attack": 0,
+    "life": 3,
+    "cooldown": 0,
+    "description": "主动绝技：支付1法力并横置此伙伴，使1个其他友方地属性伙伴在本次在场期间额外提供地1。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "1421009",
+    "output_path": "new_output/基础包/伙伴/地/BECN009.jpg"
+  },
+  {
+    "number": "BECN010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "地卜行者",
+    "category": "地",
+    "subtype": "巫师",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "地": 2
+    },
+    "attack": 1,
+    "life": 3,
+    "cooldown": 0,
+    "description": "入场：抽1张牌。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "1421115",
+    "output_path": "new_output/基础包/伙伴/地/BECN010.jpg"
+  },
+  {
+    "number": "BECN011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "种植园丁",
+    "category": "地",
+    "subtype": "精灵",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "地": 2
+    },
+    "elements_gain": {
+      "地": 1
+    },
+    "attack": 1,
+    "life": 3,
+    "cooldown": 0,
+    "description": "诱发回合技1：你的其他卡牌获得额外地负载后，此伙伴永久增加1点生命上限并回复1点生命。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "1421010",
+    "output_path": "new_output/基础包/伙伴/地/BECN011.jpg"
+  },
+  {
+    "number": "BECN012",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "岩壁刺球",
+    "category": "地",
+    "subtype": "异兽",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "地": 2
+    },
+    "attack": 1,
+    "life": 6,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "地",
+    "art_ref": "1421101",
+    "output_path": "new_output/基础包/伙伴/地/BECN012.jpg"
+  },
+  {
+    "number": "BECN013",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "岩山翼龙",
+    "category": "地",
+    "subtype": "野兽",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "地": 3
+    },
+    "attack": 3,
+    "life": 7,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "地",
+    "art_ref": "1421008",
+    "output_path": "new_output/基础包/伙伴/地/BECN013.jpg"
+  },
+  {
+    "number": "BECN014",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "森林铁卫",
+    "category": "地",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "地": 2
+    },
+    "elements_gain": {
+      "地": 1
+    },
+    "attack": 2,
+    "life": 6,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "地",
+    "output_path": "new_output/基础包/伙伴/地/BECN014.jpg"
+  },
+  {
+    "number": "BECN015",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "地脉凝结体",
+    "category": "地",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "地": 2
+    },
+    "elements_gain": {
+      "地": 2
+    },
+    "attack": 0,
+    "life": 4,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "地",
+    "art_ref": "1421207",
+    "output_path": "new_output/基础包/伙伴/地/BECN015.jpg"
+  },
+  {
+    "number": "BECN016",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "拜利兰森林熊",
+    "category": "地",
+    "subtype": "野兽",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "地": 4
+    },
+    "attack": 3,
+    "life": 6,
+    "cooldown": 0,
+    "description": "入场：你获得2点护盾。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "1421104",
+    "output_path": "new_output/基础包/伙伴/地/BECN016.jpg"
+  },
+  {
+    "number": "BECN017",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "岩山恐兽",
+    "category": "地",
+    "subtype": "野兽",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "地": 5
+    },
+    "attack": 5,
+    "life": 10,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "地",
+    "art_ref": "1421013",
+    "output_path": "new_output/基础包/伙伴/地/BECN017.jpg"
+  },
+  {
+    "number": "BECN018",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "岩壁巨像",
+    "category": "地",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "地": 6
+    },
+    "elements_gain": {
+      "地": 1
+    },
+    "attack": 4,
+    "life": 12,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "地",
+    "art_ref": "1421110",
+    "output_path": "new_output/基础包/伙伴/地/BECN018.jpg"
+  },
+  {
+    "number": "BECN019",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "苍绿之龙",
+    "category": "地",
+    "subtype": "龙",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "地": 7
+    },
+    "elements_gain": {
+      "地": 1
+    },
+    "attack": 6,
+    "life": 13,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "地",
+    "art_ref": "1421015",
+    "output_path": "new_output/基础包/伙伴/地/BECN019.jpg"
+  },
+  {
+    "number": "BECN020",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "食腐者",
+    "category": "地",
+    "subtype": "野兽",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "地": 4
+    },
+    "elements_gain": {
+      "地": 1
+    },
+    "attack": 2,
+    "life": 7,
+    "cooldown": 0,
+    "description": "遗言：使1个其他友方地属性伙伴在本次在场期间额外提供地1。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "1421016",
+    "output_path": "new_output/基础包/伙伴/地/BECN020.jpg"
+  },
+  {
+    "number": "BEH001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "森林隐士 白须",
+    "category": "地",
+    "subtype": "",
+    "elements_gain": {
+      "地": 2
+    },
+    "attack": 0,
+    "life": 15,
+    "skill_slots": 3,
+    "description": "诱发绝技：你的首个回合的抽牌阶段，你可以改为检索1张入场法力费用不超过2的地属性伙伴牌，不进行该阶段的通常抽牌。",
+    "quote": "人们相信,白须能听懂动物说的话.这可能也就是为什么他在海边洗脚时会戴上耳塞",
+    "source": "人物",
+    "art_ref": "4411001",
+    "output_path": "new_output/基础包/人物/地/BEH001.jpg"
+  },
+  {
+    "number": "BEH002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "大法师 安德鲁",
+    "category": "地",
+    "subtype": "",
+    "activation_mana": 1,
+    "elements_gain": {
+      "地": 2
+    },
+    "attack": 0,
+    "life": 15,
+    "skill_slots": 3,
+    "description": "主动绝技：支付1法力，使1个友方地属性伙伴在本次在场期间额外提供地1，并永久增加2点生命上限及回复2点生命。",
+    "quote": "走过千山万水,遍历浮生世事,友谊、爱情,越是珍视越是脆弱,倒不如重返自然落得个风轻云淡",
+    "source": "人物",
+    "art_ref": "4411002",
+    "output_path": "new_output/基础包/人物/地/BEH002.jpg"
+  },
+  {
+    "number": "BEH003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "麦吉教授",
+    "category": "地",
+    "subtype": "",
+    "elements_gain": {
+      "地": 2
+    },
+    "attack": 0,
+    "life": 15,
+    "skill_slots": 3,
+    "description": "诱发回合技1：己方回合，你学习1张负载条件至少为地5的技能后，抽1张牌。",
+    "quote": "《地理学入门》成功将没人听得懂的东西,弄成了没人愿意听的东西",
+    "source": "人物",
+    "art_ref": "4411003",
+    "output_path": "new_output/基础包/人物/地/BEH003.jpg"
+  },
+  {
+    "number": "BEH004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "翡翠男爵 杰德 拜利兰",
+    "category": "地",
+    "subtype": "",
+    "elements_gain": {
+      "地": 2
+    },
+    "attack": 0,
+    "life": 20,
+    "skill_slots": 2,
+    "description": "诱发回合技1：己方回合，你装备本回合第一张地属性装备后，你获得1点护盾。",
+    "quote": "拜利兰家族可能多少对永生有着独特的渴望,杰德也一样,不过他选择了大家都能接受的方式",
+    "source": "人物",
+    "art_ref": "4411101",
+    "output_path": "new_output/基础包/人物/地/BEH004.jpg"
+  },
+  {
+    "number": "BEH005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "自然学家 多萝西",
+    "category": "地",
+    "subtype": "",
+    "elements_gain": {
+      "地": 2
+    },
+    "attack": 0,
+    "life": 20,
+    "skill_slots": 2,
+    "description": "诱发：本局游戏中，你首次召唤野兽、植物、精灵伙伴后，各抽1张牌。",
+    "quote": "\"我还想了解更多!\"",
+    "source": "人物",
+    "art_ref": "4411202",
+    "output_path": "new_output/基础包/人物/地/BEH005.jpg"
+  },
+  {
+    "number": "BEIL001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "古树之心",
+    "category": "地",
+    "subtype": "装备-神器",
+    "rarity": "传奇",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "地": 2
+    },
+    "elements_gain": {
+      "地": 1
+    },
+    "cooldown": 0,
+    "description": "诱发回合技1：你的回合开始、补充基础法力后，若你满足地5的负载条件，将你的当前法力值设为5。同名效果不叠加。",
+    "quote": "在这参天的身躯之下潜藏的意志究竟是什么或许只是知识本身",
+    "source": "地",
+    "art_ref": "2411001",
+    "output_path": "new_output/基础包/道具/地/BEIL001.jpg"
+  },
+  {
+    "number": "BEIN002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "地脉晶簇",
+    "category": "地",
+    "subtype": "装备",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "elements_gain": {
+      "地": 1
+    },
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "地",
+    "output_path": "new_output/基础包/道具/地/BEIN002.jpg"
+  },
+  {
+    "number": "BEIN003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "地脉灵石",
+    "category": "地",
+    "subtype": "装备-神器",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "地": 2
+    },
+    "elements_gain": {
+      "地": 1
+    },
+    "cooldown": 0,
+    "description": "入场：使1个友方地属性伙伴永久增加1点生命上限并回复1点生命。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "2421012",
+    "output_path": "new_output/基础包/道具/地/BEIN003.jpg"
+  },
+  {
+    "number": "BEIN004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "磐藤胸甲",
+    "category": "地",
+    "subtype": "装备-防具",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "地": 2
+    },
+    "elements_gain": {
+      "地": 1
+    },
+    "cooldown": 0,
+    "description": "入场：你的人物永久增加1点生命上限并回复1点生命。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "2421006",
+    "output_path": "new_output/基础包/道具/地/BEIN004.jpg"
+  },
+  {
+    "number": "BEIN005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "知识古树的关怀",
+    "category": "地",
+    "subtype": "装备-武器",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "地": 2
+    },
+    "elements_gain": {
+      "地": 1
+    },
+    "cooldown": 0,
+    "description": "入场：使1个友方地属性伙伴永久增加1点攻击力。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "2421001",
+    "output_path": "new_output/基础包/道具/地/BEIN005.jpg"
+  },
+  {
+    "number": "BEIN006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "《地理学入门》",
+    "category": "地",
+    "subtype": "装备",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "地": 2
+    },
+    "elements_gain": {
+      "地": 1
+    },
+    "cooldown": 0,
+    "description": "入场：检索1张负载条件至少为地5的地属性伙伴或技能牌。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "2421013",
+    "output_path": "new_output/基础包/道具/地/BEIN006.jpg"
+  },
+  {
+    "number": "BEIN007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "森之贮藏",
+    "category": "地",
+    "subtype": "装备",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "地": 2
+    },
+    "elements_gain": {
+      "地": 2
+    },
+    "cooldown": 0,
+    "description": "入场：使1个友方地属性伙伴永久增加1点生命上限并回复1点生命。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "2421014",
+    "output_path": "new_output/基础包/道具/地/BEIN007.jpg"
+  },
+  {
+    "number": "BEIN008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "秋暮耳环",
+    "category": "地",
+    "subtype": "装备-饰物",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "地": 2
+    },
+    "elements_gain": {
+      "地": 1
+    },
+    "cooldown": 0,
+    "description": "入场：你获得1点护盾。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "2421101",
+    "output_path": "new_output/基础包/道具/地/BEIN008.jpg"
+  },
+  {
+    "number": "BEIN009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "森林之矢卷轴",
+    "category": "地",
+    "subtype": "消耗品-法术卷轴-驱动",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "地": 1
+    },
+    "attack": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "地",
+    "art_ref": "2421009",
+    "output_path": "new_output/基础包/道具/地/BEIN009.jpg"
+  },
+  {
+    "number": "BEIN010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "巨石阵卷轴",
+    "category": "地",
+    "subtype": "消耗品-法术卷轴-创造",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "地": 4
+    },
+    "attack": 2,
+    "cooldown": 0,
+    "description": "范围：方阵。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "2421008",
+    "output_path": "new_output/基础包/道具/地/BEIN010.jpg"
+  },
+  {
+    "number": "BEIN011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "石化卷轴",
+    "category": "地",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "地": 3
+    },
+    "cooldown": 0,
+    "description": "使法力范围内1个敌方伙伴获得石化2。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "2421005",
+    "output_path": "new_output/基础包/道具/地/BEIN011.jpg"
+  },
+  {
+    "number": "BEIN012",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "坚固卷轴",
+    "category": "地",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "地": 2
+    },
+    "cooldown": 0,
+    "description": "使1个友方地属性伙伴永久增加2点生命上限并回复2点生命。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "2421003",
+    "output_path": "new_output/基础包/道具/地/BEIN012.jpg"
+  },
+  {
+    "number": "BEIN013",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "德鲁伊水平测试",
+    "category": "地",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "地": 2
+    },
+    "cooldown": 0,
+    "description": "选择1个印刷地负载至少为1的友方伙伴，使其在本次在场期间额外提供地1，并永久增加1点生命上限及回复1点生命。",
+    "quote": "\"我重申一遍,考试期间禁止向那棵老树提问!\"——大德鲁伊烟尘",
+    "source": "地",
+    "art_ref": "2421004",
+    "output_path": "new_output/基础包/道具/地/BEIN013.jpg"
+  },
+  {
+    "number": "BEIN014",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "开山卷轴",
+    "category": "地",
+    "subtype": "消耗品-法术卷轴-聚能",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "地": 5
+    },
+    "attack": 4,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "地",
+    "output_path": "new_output/基础包/道具/地/BEIN014.jpg"
+  },
+  {
+    "number": "BEIN015",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "磐石符文",
+    "category": "地",
+    "subtype": "消耗品-反制-符文",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "地": 2
+    },
+    "cooldown": 0,
+    "description": "反制：1个友方单位将受到敌方伤害时，使该次伤害减少2，最低为0。",
+    "quote": "",
+    "source": "地",
+    "output_path": "new_output/基础包/道具/地/BEIN015.jpg"
+  },
+  {
+    "number": "BEIN016",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "自然封印卷轴",
+    "category": "地",
+    "subtype": "消耗品-反制",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "地": 5
+    },
+    "cooldown": 0,
+    "description": "反制：敌方声明使用法术时，使该法术本次攻击力减少4，最低为0。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "2421010",
+    "output_path": "new_output/基础包/道具/地/BEIN016.jpg"
+  },
+  {
+    "number": "BESN001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "天崩地裂",
+    "category": "地",
+    "subtype": "法术-驱动",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 2,
+    "tech_requirement": {
+      "地": 7
+    },
+    "attack": 6,
+    "cooldown": 2,
+    "description": "范围：敌方实际前排。命中后：目标若为伙伴，使其获得眩晕1。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "3421006",
+    "output_path": "new_output/基础包/技能/地/BESN001.jpg"
+  },
+  {
+    "number": "BESN002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "裂地重击",
+    "category": "地",
+    "subtype": "法术-聚能",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "地": 2
+    },
+    "attack": 1,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "地",
+    "art_ref": "3421003",
+    "output_path": "new_output/基础包/技能/地/BESN002.jpg"
+  },
+  {
+    "number": "BESN003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "石化缠绕",
+    "category": "地",
+    "subtype": "法术-幻变",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "地": 2
+    },
+    "attack": 1,
+    "cooldown": 1,
+    "description": "命中后：目标获得石化1。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "3421002",
+    "output_path": "new_output/基础包/技能/地/BESN003.jpg"
+  },
+  {
+    "number": "BESN004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "岩石壁垒",
+    "category": "地",
+    "subtype": "咒术-创造",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "地": 2
+    },
+    "cooldown": 1,
+    "description": "你获得2点护盾。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "3421005",
+    "output_path": "new_output/基础包/技能/地/BESN004.jpg"
+  },
+  {
+    "number": "BESN005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "自然生长",
+    "category": "地",
+    "subtype": "咒术-幻变",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "地": 2
+    },
+    "cooldown": 1,
+    "description": "选择1个印刷地负载为1的友方伙伴，使其在本次在场期间额外提供地1。每个伙伴最多通过自然生长获得1点额外负载。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "3421011",
+    "output_path": "new_output/基础包/技能/地/BESN005.jpg"
+  },
+  {
+    "number": "BESN006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "再生之力",
+    "category": "地",
+    "subtype": "咒术-幻变",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "地": 4
+    },
+    "cooldown": 1,
+    "description": "重置1个本回合已经进行过普通攻击的友方地属性伙伴。每个伙伴每回合最多被再生之力重置1次。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "3421004",
+    "output_path": "new_output/基础包/技能/地/BESN006.jpg"
+  },
+  {
+    "number": "BESN007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "大地穿刺",
+    "category": "地",
+    "subtype": "法术-驱动",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "地": 4
+    },
+    "attack": 3,
+    "cooldown": 1,
+    "description": "穿透。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "3421010",
+    "output_path": "new_output/基础包/技能/地/BESN007.jpg"
+  },
+  {
+    "number": "BESN008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "大地震",
+    "category": "地",
+    "subtype": "法术-驱动",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "地": 6
+    },
+    "attack": 3,
+    "cooldown": 1,
+    "description": "范围：方阵。命中后：目标获得眩晕1。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "3421007",
+    "output_path": "new_output/基础包/技能/地/BESN008.jpg"
+  },
+  {
+    "number": "BESN009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "巨岩投掷",
+    "category": "地",
+    "subtype": "法术-驱动",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "地": 5
+    },
+    "attack": 4,
+    "cooldown": 1,
+    "description": "",
+    "quote": "",
+    "source": "地",
+    "output_path": "new_output/基础包/技能/地/BESN009.jpg"
+  },
+  {
+    "number": "BESN010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "森林的庇护",
+    "category": "地",
+    "subtype": "咒术-创造",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "地": 3
+    },
+    "cooldown": 1,
+    "description": "移除1个友方地属性伙伴的全部负面状态，并使其回复2点生命。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "3421001",
+    "output_path": "new_output/基础包/技能/地/BESN010.jpg"
+  },
+  {
+    "number": "BESN011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "联合施法",
+    "category": "地",
+    "subtype": "咒术-灵媒",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "地": 5
+    },
+    "cooldown": 1,
+    "description": "你本回合下一次施放的地属性法术攻击力+2。同名效果不叠加。",
+    "quote": "",
+    "source": "地",
+    "art_ref": "3421008",
+    "output_path": "new_output/基础包/技能/地/BESN011.jpg"
+  },
+  {
+    "number": "BFCL001",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -595,14 +2862,14 @@
     "attack": 5,
     "life": 10,
     "cooldown": 0,
-    "description": "入场：对敌方前排所有单位造成2点火焰伤害。绑定技能：火焰吐息",
+    "description": "入场：对敌方实际前排所有单位造成2点火焰效果伤害。绑定技能：火焰吐息。",
     "quote": "不可一世的巨龙，为了残存的火焰元素，向巫师们尽忠",
     "source": "火",
     "art_ref": "1111001",
-    "output_path": "new_output/基础包/伙伴/火/BFC001.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCL001.jpg"
   },
   {
-    "number": "BFC002",
+    "number": "BFCL002",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -623,11 +2890,11 @@
     "description": "光环：敌方单位受到的点燃伤害+1",
     "quote": "始于灰烬,终于灰烬",
     "source": "火",
-    "art_ref": "1111002",
-    "output_path": "new_output/基础包/伙伴/火/BFC002.jpg"
+    "art_ref": "1111003",
+    "output_path": "new_output/基础包/伙伴/火/BFCL002.jpg"
   },
   {
-    "number": "BFC003",
+    "number": "BFCN003",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -646,10 +2913,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "1121001",
-    "output_path": "new_output/基础包/伙伴/火/BFC003.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN003.jpg"
   },
   {
-    "number": "BFC004",
+    "number": "BFCN004",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -667,10 +2934,10 @@
     "description": "",
     "quote": "",
     "source": "火",
-    "output_path": "new_output/基础包/伙伴/火/BFC004.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN004.jpg"
   },
   {
-    "number": "BFC005",
+    "number": "BFCN005",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -692,10 +2959,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "1121002",
-    "output_path": "new_output/基础包/伙伴/火/BFC005.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN005.jpg"
   },
   {
-    "number": "BFC006",
+    "number": "BFCN006",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -714,10 +2981,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "1121112",
-    "output_path": "new_output/基础包/伙伴/火/BFC006.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN006.jpg"
   },
   {
-    "number": "BFC007",
+    "number": "BFCN007",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -739,10 +3006,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "1121005",
-    "output_path": "new_output/基础包/伙伴/火/BFC007.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN007.jpg"
   },
   {
-    "number": "BFC008",
+    "number": "BFCN008",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -761,10 +3028,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "1121006",
-    "output_path": "new_output/基础包/伙伴/火/BFC008.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN008.jpg"
   },
   {
-    "number": "BFC009",
+    "number": "BFCN009",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -783,10 +3050,10 @@
     "quote": "穿过如火荆棘，方见白洁花簇",
     "source": "火",
     "art_ref": "1121014",
-    "output_path": "new_output/基础包/伙伴/火/BFC009.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN009.jpg"
   },
   {
-    "number": "BFC010",
+    "number": "BFCN010",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -805,10 +3072,10 @@
     "quote": "每只赤鹰都想成为凤凰，前提是它们身上的羽毛还没有被猎人拔光",
     "source": "火",
     "art_ref": "1121009",
-    "output_path": "new_output/基础包/伙伴/火/BFC010.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN010.jpg"
   },
   {
-    "number": "BFC011",
+    "number": "BFCN011",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -831,10 +3098,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "1121003",
-    "output_path": "new_output/基础包/伙伴/火/BFC011.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN011.jpg"
   },
   {
-    "number": "BFC012",
+    "number": "BFCN012",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -853,10 +3120,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "1121016",
-    "output_path": "new_output/基础包/伙伴/火/BFC012.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN012.jpg"
   },
   {
-    "number": "BFC013",
+    "number": "BFCN013",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -875,10 +3142,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "1121004",
-    "output_path": "new_output/基础包/伙伴/火/BFC013.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN013.jpg"
   },
   {
-    "number": "BFC014",
+    "number": "BFCN014",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -897,10 +3164,10 @@
     "quote": "谁能拒绝将一切燃烧殆尽的快乐呢",
     "source": "火",
     "art_ref": "1121013",
-    "output_path": "new_output/基础包/伙伴/火/BFC014.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN014.jpg"
   },
   {
-    "number": "BFC015",
+    "number": "BFCN015",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -922,10 +3189,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "1121007",
-    "output_path": "new_output/基础包/伙伴/火/BFC015.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN015.jpg"
   },
   {
-    "number": "BFC016",
+    "number": "BFCN016",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -944,10 +3211,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "1121104",
-    "output_path": "new_output/基础包/伙伴/火/BFC016.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN016.jpg"
   },
   {
-    "number": "BFC017",
+    "number": "BFCN017",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -969,10 +3236,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "1121105",
-    "output_path": "new_output/基础包/伙伴/火/BFC017.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN017.jpg"
   },
   {
-    "number": "BFC018",
+    "number": "BFCN018",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -991,10 +3258,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "1121109",
-    "output_path": "new_output/基础包/伙伴/火/BFC018.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN018.jpg"
   },
   {
-    "number": "BFC019",
+    "number": "BFCN019",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -1016,10 +3283,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "1121011",
-    "output_path": "new_output/基础包/伙伴/火/BFC019.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN019.jpg"
   },
   {
-    "number": "BFC020",
+    "number": "BFCN020",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -1041,7 +3308,7 @@
     "quote": "",
     "source": "火",
     "art_ref": "1121008",
-    "output_path": "new_output/基础包/伙伴/火/BFC020.jpg"
+    "output_path": "new_output/基础包/伙伴/火/BFCN020.jpg"
   },
   {
     "number": "BFH001",
@@ -1057,7 +3324,7 @@
     "attack": 0,
     "life": 15,
     "skill_slots": 3,
-    "description": "入场：将1张衍生法术万火合一加入你的手牌",
+    "description": "入场：将1张衍生技能“万火合一术”加入你的手牌。",
     "quote": "“我最强大的弟子，我们本可一起称霸...很遗憾你选择与我为敌”",
     "source": "人物",
     "art_ref": "4111001",
@@ -1147,7 +3414,7 @@
     "output_path": "new_output/基础包/人物/火/BFH005.jpg"
   },
   {
-    "number": "BFI001",
+    "number": "BFIL001",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -1164,14 +3431,14 @@
       "火": 2
     },
     "cooldown": 0,
-    "description": "主动回合技1：献祭你场上一张包含火焰负载的卡牌，本回合你的所有火焰伤害+1",
+    "description": "主动回合技1：献祭1张提供火焰负载的友方伙伴或装备，本回合你造成的火焰伤害+1。",
     "quote": "辉煌死后，索拓尔使用它的心脏炼制了这件神器。只是没人看见火龙是怎么死的",
     "source": "火",
     "art_ref": "2111001",
-    "output_path": "new_output/基础包/道具/火/BFI001.jpg"
+    "output_path": "new_output/基础包/道具/火/BFIL001.jpg"
   },
   {
-    "number": "BFI002",
+    "number": "BFIN002",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -1191,10 +3458,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "2121006",
-    "output_path": "new_output/基础包/道具/火/BFI002.jpg"
+    "output_path": "new_output/基础包/道具/火/BFIN002.jpg"
   },
   {
-    "number": "BFI003",
+    "number": "BFIN003",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -1211,10 +3478,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "2121014",
-    "output_path": "new_output/基础包/道具/火/BFI003.jpg"
+    "output_path": "new_output/基础包/道具/火/BFIN003.jpg"
   },
   {
-    "number": "BFI004",
+    "number": "BFIN004",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -1235,10 +3502,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "2121001",
-    "output_path": "new_output/基础包/道具/火/BFI004.jpg"
+    "output_path": "new_output/基础包/道具/火/BFIN004.jpg"
   },
   {
-    "number": "BFI005",
+    "number": "BFIN005",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -1254,14 +3521,14 @@
       "火": 1
     },
     "cooldown": 0,
-    "description": "入场：使一个友方火焰单位获得+1\\攻",
+    "description": "入场：使1个友方火焰单位在本次在场期间攻击力+1。",
     "quote": "想不到你还好这口",
     "source": "火",
     "art_ref": "2121010",
-    "output_path": "new_output/基础包/道具/火/BFI005.jpg"
+    "output_path": "new_output/基础包/道具/火/BFIN005.jpg"
   },
   {
-    "number": "BFI006",
+    "number": "BFIN006",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -1282,10 +3549,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "2121007",
-    "output_path": "new_output/基础包/道具/火/BFI006.jpg"
+    "output_path": "new_output/基础包/道具/火/BFIN006.jpg"
   },
   {
-    "number": "BFI007",
+    "number": "BFIN007",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -1305,10 +3572,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "2121013",
-    "output_path": "new_output/基础包/道具/火/BFI007.jpg"
+    "output_path": "new_output/基础包/道具/火/BFIN007.jpg"
   },
   {
-    "number": "BFI008",
+    "number": "BFIN008",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -1328,10 +3595,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "2121107",
-    "output_path": "new_output/基础包/道具/火/BFI008.jpg"
+    "output_path": "new_output/基础包/道具/火/BFIN008.jpg"
   },
   {
-    "number": "BFI009",
+    "number": "BFIN009",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -1349,10 +3616,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "2121003",
-    "output_path": "new_output/基础包/道具/火/BFI009.jpg"
+    "output_path": "new_output/基础包/道具/火/BFIN009.jpg"
   },
   {
-    "number": "BFI010",
+    "number": "BFIN010",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -1370,10 +3637,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "2121011",
-    "output_path": "new_output/基础包/道具/火/BFI010.jpg"
+    "output_path": "new_output/基础包/道具/火/BFIN010.jpg"
   },
   {
-    "number": "BFI011",
+    "number": "BFIN011",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -1391,10 +3658,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "2121008",
-    "output_path": "new_output/基础包/道具/火/BFI011.jpg"
+    "output_path": "new_output/基础包/道具/火/BFIN011.jpg"
   },
   {
-    "number": "BFI012",
+    "number": "BFIN012",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -1412,10 +3679,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "2121112",
-    "output_path": "new_output/基础包/道具/火/BFI012.jpg"
+    "output_path": "new_output/基础包/道具/火/BFIN012.jpg"
   },
   {
-    "number": "BFI013",
+    "number": "BFIN013",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -1431,10 +3698,10 @@
     "description": "使所有友方火焰单位本回合攻击力+1。",
     "quote": "",
     "source": "火",
-    "output_path": "new_output/基础包/道具/火/BFI013.jpg"
+    "output_path": "new_output/基础包/道具/火/BFIN013.jpg"
   },
   {
-    "number": "BFI014",
+    "number": "BFIN014",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -1451,10 +3718,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "2121009",
-    "output_path": "new_output/基础包/道具/火/BFI014.jpg"
+    "output_path": "new_output/基础包/道具/火/BFIN014.jpg"
   },
   {
-    "number": "BFI015",
+    "number": "BFIN015",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -1472,10 +3739,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "2121002",
-    "output_path": "new_output/基础包/道具/火/BFI015.jpg"
+    "output_path": "new_output/基础包/道具/火/BFIN015.jpg"
   },
   {
-    "number": "BFI016",
+    "number": "BFIN016",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -1493,10 +3760,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "2121012",
-    "output_path": "new_output/基础包/道具/火/BFI016.jpg"
+    "output_path": "new_output/基础包/道具/火/BFIN016.jpg"
   },
   {
-    "number": "BFS001",
+    "number": "BFSN001",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -1514,11 +3781,11 @@
     "description": "范围：敌方全场。使目标获得点燃2",
     "quote": "“努尔已经被战争和毁灭蒙蔽双眼，而洛普修斯将引领我们向往更辉煌的终点！”",
     "source": "火",
-    "art_ref": "3111102",
-    "output_path": "new_output/基础包/技能/火/BFS001.jpg"
+    "art_ref": "3111101",
+    "output_path": "new_output/基础包/技能/火/BFSN001.jpg"
   },
   {
-    "number": "BFS002",
+    "number": "BFSN002",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -1537,10 +3804,10 @@
     "quote": "巫师学院里有一个传说，你可以看到五颜六色的火焰，蓝色的、绿色的、黑色的，唯独没有红色的",
     "source": "火",
     "art_ref": "3121001",
-    "output_path": "new_output/基础包/技能/火/BFS002.jpg"
+    "output_path": "new_output/基础包/技能/火/BFSN002.jpg"
   },
   {
-    "number": "BFS003",
+    "number": "BFSN003",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -1559,10 +3826,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "3121003",
-    "output_path": "new_output/基础包/技能/火/BFS003.jpg"
+    "output_path": "new_output/基础包/技能/火/BFSN003.jpg"
   },
   {
-    "number": "BFS004",
+    "number": "BFSN004",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -1581,10 +3848,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "3121002",
-    "output_path": "new_output/基础包/技能/火/BFS004.jpg"
+    "output_path": "new_output/基础包/技能/火/BFSN004.jpg"
   },
   {
-    "number": "BFS005",
+    "number": "BFSN005",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -1602,10 +3869,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "3121011",
-    "output_path": "new_output/基础包/技能/火/BFS005.jpg"
+    "output_path": "new_output/基础包/技能/火/BFSN005.jpg"
   },
   {
-    "number": "BFS006",
+    "number": "BFSN006",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -1624,10 +3891,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "3121009",
-    "output_path": "new_output/基础包/技能/火/BFS006.jpg"
+    "output_path": "new_output/基础包/技能/火/BFSN006.jpg"
   },
   {
-    "number": "BFS007",
+    "number": "BFSN007",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -1646,10 +3913,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "3121004",
-    "output_path": "new_output/基础包/技能/火/BFS007.jpg"
+    "output_path": "new_output/基础包/技能/火/BFSN007.jpg"
   },
   {
-    "number": "BFS008",
+    "number": "BFSN008",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -1658,7 +3925,7 @@
     "subtype": "法术-创造",
     "rarity": "普通",
     "mana_cost": 3,
-    "activation_mana": 2,
+    "activation_mana": 1,
     "tech_requirement": {
       "火": 5
     },
@@ -1668,10 +3935,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "3121005",
-    "output_path": "new_output/基础包/技能/火/BFS008.jpg"
+    "output_path": "new_output/基础包/技能/火/BFSN008.jpg"
   },
   {
-    "number": "BFS009",
+    "number": "BFSN009",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -1680,7 +3947,7 @@
     "subtype": "法术-创造",
     "rarity": "普通",
     "mana_cost": 3,
-    "activation_mana": 2,
+    "activation_mana": 1,
     "tech_requirement": {
       "火": 5
     },
@@ -1690,10 +3957,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "3121104",
-    "output_path": "new_output/基础包/技能/火/BFS009.jpg"
+    "output_path": "new_output/基础包/技能/火/BFSN009.jpg"
   },
   {
-    "number": "BFS010",
+    "number": "BFSN010",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -1712,10 +3979,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "3121006",
-    "output_path": "new_output/基础包/技能/火/BFS010.jpg"
+    "output_path": "new_output/基础包/技能/火/BFSN010.jpg"
   },
   {
-    "number": "BFS011",
+    "number": "BFSN011",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -1733,10 +4000,10 @@
     "quote": "",
     "source": "火",
     "art_ref": "3121007",
-    "output_path": "new_output/基础包/技能/火/BFS011.jpg"
+    "output_path": "new_output/基础包/技能/火/BFSN011.jpg"
   },
   {
-    "number": "BFS012",
+    "number": "BFSN012",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -1751,29 +4018,2311 @@
     },
     "attack": 0,
     "cooldown": 1,
-    "description": "此卡\\攻等同于本回合你使用的所有火焰法术\\攻的总和",
+    "description": "本次基础攻击力等于本回合你此前已成功结算、且不名为“万火合一术”的火焰法术各次结算时攻击力之和；范围法术每次仅计1次。",
     "quote": "",
-    "source": "火",
+    "source": "衍生",
     "art_ref": "3101002",
-    "output_path": "new_output/基础包/技能/火/BFS012.jpg"
+    "output_path": "new_output/基础包/技能/火/BFSN012.jpg"
   },
   {
-    "number": "BFS013",
+    "number": "BFSN013",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
     "name": "火焰吐息",
     "category": "火",
-    "subtype": "衍生-法术-聚能",
+    "subtype": "衍生-绑定-法术-聚能",
     "rarity": "普通",
+    "activation_mana": 1,
+    "tech_requirement": {
+      "火": 5
+    },
     "attack": 3,
+    "cooldown": 1,
     "description": "",
     "quote": "",
-    "source": "火",
-    "output_path": "new_output/基础包/技能/火/BFS013.jpg"
+    "source": "衍生",
+    "art_ref": "3101001",
+    "output_path": "new_output/基础包/技能/火/BFSN013.jpg"
   },
   {
-    "number": "BWC001",
+    "number": "BGCL001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "大鹏",
+    "category": "气",
+    "subtype": "野兽",
+    "rarity": "传奇",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "气": 7
+    },
+    "attack": 6,
+    "life": 12,
+    "cooldown": 0,
+    "description": "入场：将1个前排敌方伙伴返回其拥有者手牌，然后抽2张牌。",
+    "quote": "跨四境,御九霄",
+    "source": "气",
+    "art_ref": "1311001",
+    "output_path": "new_output/基础包/伙伴/气/BGCL001.jpg"
+  },
+  {
+    "number": "BGCL002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "\"风刃\" 卡琳娜",
+    "category": "气",
+    "subtype": "人类",
+    "rarity": "传奇",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "气": 5
+    },
+    "elements_gain": {
+      "气": 1
+    },
+    "attack": 2,
+    "life": 6,
+    "cooldown": 0,
+    "description": "远程。诱发：此卡攻击后，如果击杀敌方单位则抽1张牌，否则此卡仍会受到目标攻击力的伤害",
+    "quote": "匕首的价值,取决于它架在谁的脖子上",
+    "source": "气",
+    "art_ref": "1311003",
+    "output_path": "new_output/基础包/伙伴/气/BGCL002.jpg"
+  },
+  {
+    "number": "BGCN003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "雷精灵",
+    "category": "气",
+    "subtype": "精灵",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "elements_gain": {
+      "气": 1
+    },
+    "attack": 0,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "气",
+    "art_ref": "1321011",
+    "output_path": "new_output/基础包/伙伴/气/BGCN003.jpg"
+  },
+  {
+    "number": "BGCN004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "工蜂骑士",
+    "category": "气",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "气": 2
+    },
+    "attack": 2,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "工蜂可能是一次性的,但是骑士不是",
+    "source": "气",
+    "art_ref": "1321007",
+    "output_path": "new_output/基础包/伙伴/气/BGCN004.jpg"
+  },
+  {
+    "number": "BGCN005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "渡鸦信使",
+    "category": "气",
+    "subtype": "野兽",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "气": 2
+    },
+    "elements_gain": {
+      "气": 1
+    },
+    "attack": 0,
+    "life": 2,
+    "cooldown": 0,
+    "description": "主动回合技1：支付1法力并横置此伙伴，抽1张牌。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "1321001",
+    "output_path": "new_output/基础包/伙伴/气/BGCN005.jpg"
+  },
+  {
+    "number": "BGCN006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "随风旅行者",
+    "category": "气",
+    "subtype": "精灵",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "气": 2
+    },
+    "elements_gain": {
+      "气": 1
+    },
+    "attack": 1,
+    "life": 3,
+    "cooldown": 0,
+    "description": "遗言：抽1张牌。",
+    "quote": "记得避开艾拉雅",
+    "source": "气",
+    "art_ref": "1321002",
+    "output_path": "new_output/基础包/伙伴/气/BGCN006.jpg"
+  },
+  {
+    "number": "BGCN007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "魔法蒲公英",
+    "category": "气",
+    "subtype": "植物",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "attack": 1,
+    "life": 1,
+    "cooldown": 0,
+    "description": "入场：若此牌是你本回合抽到的牌，抽1张牌。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "1321003",
+    "output_path": "new_output/基础包/伙伴/气/BGCN007.jpg"
+  },
+  {
+    "number": "BGCN008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "大气凝结体",
+    "category": "气",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "气": 2
+    },
+    "elements_gain": {
+      "气": 1
+    },
+    "attack": 1,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "气",
+    "art_ref": "1321209",
+    "output_path": "new_output/基础包/伙伴/气/BGCN008.jpg"
+  },
+  {
+    "number": "BGCN009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "雷电元素",
+    "category": "气",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "气": 3
+    },
+    "attack": 2,
+    "life": 3,
+    "cooldown": 0,
+    "description": "入场：使法力范围内1个敌方伙伴获得眩晕1。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "1321004",
+    "output_path": "new_output/基础包/伙伴/气/BGCN009.jpg"
+  },
+  {
+    "number": "BGCN010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "驭风师",
+    "category": "气",
+    "subtype": "巫师",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "气": 2
+    },
+    "elements_gain": {
+      "气": 1
+    },
+    "attack": 1,
+    "life": 3,
+    "cooldown": 0,
+    "description": "入场：抽1张牌，然后弃1张手牌。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "1321005",
+    "output_path": "new_output/基础包/伙伴/气/BGCN010.jpg"
+  },
+  {
+    "number": "BGCN011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "翡翠蜂鸟",
+    "category": "气",
+    "subtype": "野兽",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "气": 3
+    },
+    "attack": 1,
+    "life": 3,
+    "cooldown": 0,
+    "description": "入场：若你的手牌不超过2张，抽2张牌。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "1321108",
+    "output_path": "new_output/基础包/伙伴/气/BGCN011.jpg"
+  },
+  {
+    "number": "BGCN012",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "传送法师",
+    "category": "气",
+    "subtype": "巫师",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "气": 2
+    },
+    "elements_gain": {
+      "气": 1
+    },
+    "attack": 1,
+    "life": 4,
+    "cooldown": 0,
+    "description": "主动回合技1：支付1法力并横置此伙伴，将1个其他友方伙伴移动至己方单位区1个空位。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "1321013",
+    "output_path": "new_output/基础包/伙伴/气/BGCN012.jpg"
+  },
+  {
+    "number": "BGCN013",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "银叶游侠",
+    "category": "气",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "气": 3
+    },
+    "attack": 2,
+    "life": 3,
+    "cooldown": 0,
+    "description": "远程。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "1321106",
+    "output_path": "new_output/基础包/伙伴/气/BGCN013.jpg"
+  },
+  {
+    "number": "BGCN014",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "风息奔马",
+    "category": "气",
+    "subtype": "野兽",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "气": 2
+    },
+    "attack": 2,
+    "life": 4,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "气",
+    "art_ref": "1321008",
+    "output_path": "new_output/基础包/伙伴/气/BGCN014.jpg"
+  },
+  {
+    "number": "BGCN015",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "雷傀儡",
+    "category": "气",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "气": 4
+    },
+    "attack": 3,
+    "life": 5,
+    "cooldown": 0,
+    "description": "遗言：对手弃1张手牌。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "1321016",
+    "output_path": "new_output/基础包/伙伴/气/BGCN015.jpg"
+  },
+  {
+    "number": "BGCN016",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "风息谷雷鸟",
+    "category": "气",
+    "subtype": "异兽",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "气": 5
+    },
+    "attack": 4,
+    "life": 6,
+    "cooldown": 0,
+    "description": "远程。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "1321014",
+    "output_path": "new_output/基础包/伙伴/气/BGCN016.jpg"
+  },
+  {
+    "number": "BGCN017",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "风灵媒师",
+    "category": "气",
+    "subtype": "巫师",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "气": 4
+    },
+    "elements_gain": {
+      "气": 1
+    },
+    "attack": 2,
+    "life": 5,
+    "cooldown": 0,
+    "description": "诱发回合技1：己方回合，你首次施放气属性技能结算后，抽1张牌。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "1321012",
+    "output_path": "new_output/基础包/伙伴/气/BGCN017.jpg"
+  },
+  {
+    "number": "BGCN018",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "风魔",
+    "category": "气",
+    "subtype": "恶魔",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "气": 5
+    },
+    "attack": 4,
+    "life": 8,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "气",
+    "art_ref": "1321009",
+    "output_path": "new_output/基础包/伙伴/气/BGCN018.jpg"
+  },
+  {
+    "number": "BGCN019",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "雷霆兽",
+    "category": "气",
+    "subtype": "异兽",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "气": 6
+    },
+    "elements_gain": {
+      "气": 1
+    },
+    "attack": 3,
+    "life": 8,
+    "cooldown": 0,
+    "description": "诱发回合技1：己方回合，你本回合第一次施放气属性法术时，该法术本次攻击力+1。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "1321006",
+    "output_path": "new_output/基础包/伙伴/气/BGCN019.jpg"
+  },
+  {
+    "number": "BGCN020",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "风暴奇美拉",
+    "category": "气",
+    "subtype": "异兽",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "气": 6
+    },
+    "attack": 5,
+    "life": 10,
+    "cooldown": 0,
+    "description": "入场：抽1张牌。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "1321010",
+    "output_path": "new_output/基础包/伙伴/气/BGCN020.jpg"
+  },
+  {
+    "number": "BGH001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "雷术士 肃",
+    "category": "气",
+    "subtype": "",
+    "activation_mana": 1,
+    "elements_gain": {
+      "气": 2
+    },
+    "attack": 0,
+    "life": 15,
+    "skill_slots": 3,
+    "description": "主动绝技：支付1法力并弃置1张气属性手牌，对法力范围内1个敌方伙伴造成3点气属性效果伤害。",
+    "quote": "真正的法术是与生俱来的,可惜这点天分与神的力量相比还是太渺小了",
+    "source": "人物",
+    "art_ref": "4311001",
+    "output_path": "new_output/基础包/人物/气/BGH001.jpg"
+  },
+  {
+    "number": "BGH002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "\"渡鸦\" 睿文",
+    "category": "气",
+    "subtype": "",
+    "elements_gain": {
+      "气": 2
+    },
+    "attack": 0,
+    "life": 20,
+    "skill_slots": 2,
+    "description": "诱发回合技1：己方回合，你在本回合从手牌正面打出的第2张气属性牌结算后，抽1张牌。",
+    "quote": "凌晨,他们冲入囚室,但是房间内空无一人,地上只有一根黑色的羽毛",
+    "source": "人物",
+    "art_ref": "4311002",
+    "output_path": "new_output/基础包/人物/气/BGH002.jpg"
+  },
+  {
+    "number": "BGH003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "掌门 穆伶",
+    "category": "气",
+    "subtype": "",
+    "activation_mana": 1,
+    "elements_gain": {
+      "气": 2
+    },
+    "attack": 0,
+    "life": 15,
+    "skill_slots": 3,
+    "description": "主动绝技：支付1法力，将1个友方伙伴和法力范围内1个入场法力费用不超过3的敌方伙伴分别返回其拥有者手牌。",
+    "quote": "\"时过境迁,世上不再会有我们的立足之地\"",
+    "source": "人物",
+    "art_ref": "4311003",
+    "output_path": "new_output/基础包/人物/气/BGH003.jpg"
+  },
+  {
+    "number": "BGH004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "星术士 莉莉安",
+    "category": "气",
+    "subtype": "",
+    "elements_gain": {
+      "气": 2
+    },
+    "attack": 0,
+    "life": 15,
+    "skill_slots": 3,
+    "description": "诱发回合技1：己方回合，你本回合第一次施放具有穿透的气属性法术时，该法术本次攻击力+1。",
+    "quote": "穹宇?更像是牢笼",
+    "source": "人物",
+    "art_ref": "4311201",
+    "output_path": "new_output/基础包/人物/气/BGH004.jpg"
+  },
+  {
+    "number": "BGH005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "舞女 特拉奇",
+    "category": "气",
+    "subtype": "",
+    "activation_mana": 1,
+    "elements_gain": {
+      "气": 2
+    },
+    "attack": 0,
+    "life": 20,
+    "skill_slots": 2,
+    "description": "主动绝技：支付1法力，抽2张牌。",
+    "quote": "",
+    "source": "人物",
+    "art_ref": "4311202",
+    "output_path": "new_output/基础包/人物/气/BGH005.jpg"
+  },
+  {
+    "number": "BGIL001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "雷之源",
+    "category": "气",
+    "subtype": "装备-神器",
+    "rarity": "传奇",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "气": 4
+    },
+    "elements_gain": {
+      "气": 1
+    },
+    "cooldown": 0,
+    "description": "诱发回合技1：己方回合，你声明从手牌正面打出气属性牌时，可以使该牌的法力费用减少1，最低为0。",
+    "quote": "四境雷动,不过弹指之间",
+    "source": "气",
+    "art_ref": "2311001",
+    "output_path": "new_output/基础包/道具/气/BGIL001.jpg"
+  },
+  {
+    "number": "BGIN002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "风息罗盘",
+    "category": "气",
+    "subtype": "装备",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "气": 2
+    },
+    "elements_gain": {
+      "气": 1
+    },
+    "cooldown": 0,
+    "description": "入场：查看牌库顶2张牌，可以将其中1张置于牌库底，其余按任意顺序放回牌库顶。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "2321001",
+    "output_path": "new_output/基础包/道具/气/BGIN002.jpg"
+  },
+  {
+    "number": "BGIN003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "风息晶瓶",
+    "category": "气",
+    "subtype": "装备",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "elements_gain": {
+      "气": 1
+    },
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "气",
+    "output_path": "new_output/基础包/道具/气/BGIN003.jpg"
+  },
+  {
+    "number": "BGIN004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "风语之戒",
+    "category": "气",
+    "subtype": "装备-饰物",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "气": 2
+    },
+    "elements_gain": {
+      "气": 1
+    },
+    "cooldown": 0,
+    "description": "入场：抽1张牌。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "2321007",
+    "output_path": "new_output/基础包/道具/气/BGIN004.jpg"
+  },
+  {
+    "number": "BGIN005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "随风斗篷",
+    "category": "气",
+    "subtype": "装备-防具",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "气": 2
+    },
+    "elements_gain": {
+      "气": 1
+    },
+    "cooldown": 0,
+    "description": "主动绝技：横置此装备，将1个友方单位移动至己方单位区1个空位。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "2321012",
+    "output_path": "new_output/基础包/道具/气/BGIN005.jpg"
+  },
+  {
+    "number": "BGIN006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "雷霆魔杖",
+    "category": "气",
+    "subtype": "装备-武器",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "气": 2
+    },
+    "elements_gain": {
+      "气": 1
+    },
+    "cooldown": 0,
+    "description": "主动回合技1：横置此装备，使1个友方气属性伙伴本回合攻击力+1。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "2321004",
+    "output_path": "new_output/基础包/道具/气/BGIN006.jpg"
+  },
+  {
+    "number": "BGIN007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "聆风羽毛笔",
+    "category": "气",
+    "subtype": "装备",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "气": 2
+    },
+    "elements_gain": {
+      "气": 1
+    },
+    "cooldown": 0,
+    "description": "入场：放置2个墨水标记。主动回合技1：横置此装备并移除1个墨水标记，抽1张牌。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "2321014",
+    "output_path": "new_output/基础包/道具/气/BGIN007.jpg"
+  },
+  {
+    "number": "BGIN008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "风暴蓄能器",
+    "category": "气",
+    "subtype": "装备",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "气": 2
+    },
+    "elements_gain": {
+      "气": 2
+    },
+    "cooldown": 0,
+    "description": "入场：抽1张牌，然后弃1张手牌。",
+    "quote": "",
+    "source": "气",
+    "output_path": "new_output/基础包/道具/气/BGIN008.jpg"
+  },
+  {
+    "number": "BGIN009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "连锁闪电卷轴",
+    "category": "气",
+    "subtype": "消耗品-法术卷轴-创造",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "气": 2
+    },
+    "attack": 1,
+    "cooldown": 0,
+    "description": "结算后：抽1张牌。",
+    "quote": "当局已经控制了利普兹学院体育馆400人触电事件的肇事学生霍尔顿·弗雷,警方认为证据确凿:他是唯一一个上体育课换上橡胶手套和雨靴的学生.",
+    "source": "气",
+    "art_ref": "2321009",
+    "output_path": "new_output/基础包/道具/气/BGIN009.jpg"
+  },
+  {
+    "number": "BGIN010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "唤风卷轴",
+    "category": "气",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "气": 2
+    },
+    "cooldown": 0,
+    "description": "抽2张牌。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "2321005",
+    "output_path": "new_output/基础包/道具/气/BGIN010.jpg"
+  },
+  {
+    "number": "BGIN011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "雷暴卷轴",
+    "category": "气",
+    "subtype": "消耗品-法术卷轴-聚能",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "气": 5
+    },
+    "attack": 2,
+    "cooldown": 0,
+    "description": "范围：方阵。命中后：目标获得眩晕1。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "2321003",
+    "output_path": "new_output/基础包/道具/气/BGIN011.jpg"
+  },
+  {
+    "number": "BGIN012",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "旋风卷轴",
+    "category": "气",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "气": 3
+    },
+    "cooldown": 0,
+    "description": "弃置1张入场法力费用不超过2的敌方装备。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "2321008",
+    "output_path": "new_output/基础包/道具/气/BGIN012.jpg"
+  },
+  {
+    "number": "BGIN013",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "天动万象卷轴",
+    "category": "气",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "气": 2
+    },
+    "cooldown": 0,
+    "description": "将至多2个友方单位分别移动至己方单位区不同的空位。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "2321202",
+    "output_path": "new_output/基础包/道具/气/BGIN013.jpg"
+  },
+  {
+    "number": "BGIN014",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "雷闪卷轴",
+    "category": "气",
+    "subtype": "消耗品-法术卷轴-驱动",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "气": 4
+    },
+    "attack": 3,
+    "cooldown": 0,
+    "description": "穿透。",
+    "quote": "",
+    "source": "气",
+    "output_path": "new_output/基础包/道具/气/BGIN014.jpg"
+  },
+  {
+    "number": "BGIN015",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "闪电符文",
+    "category": "气",
+    "subtype": "消耗品-反制-符文",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "气": 2
+    },
+    "cooldown": 0,
+    "description": "反制：敌方伙伴宣告普通攻击时，使该伙伴获得眩晕2；抽1张牌。本次攻击照常结算。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "2321002",
+    "output_path": "new_output/基础包/道具/气/BGIN015.jpg"
+  },
+  {
+    "number": "BGIN016",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "幻术卷轴",
+    "category": "气",
+    "subtype": "消耗品-反制",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "气": 4
+    },
+    "cooldown": 0,
+    "description": "反制：敌方对1个友方伙伴宣告非范围法术时，将该伙伴返回你的手牌；该法术不再对该目标结算。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "2321010",
+    "output_path": "new_output/基础包/道具/气/BGIN016.jpg"
+  },
+  {
+    "number": "BGSN001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "宇宙飓风",
+    "category": "气",
+    "subtype": "法术-驱动",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 2,
+    "tech_requirement": {
+      "气": 7
+    },
+    "attack": 6,
+    "cooldown": 2,
+    "description": "范围：纵列。穿透。结算后：抽2张牌。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "3321009",
+    "output_path": "new_output/基础包/技能/气/BGSN001.jpg"
+  },
+  {
+    "number": "BGSN002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "雷击",
+    "category": "气",
+    "subtype": "法术-驱动",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "气": 2
+    },
+    "attack": 1,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "气",
+    "art_ref": "3321002",
+    "output_path": "new_output/基础包/技能/气/BGSN002.jpg"
+  },
+  {
+    "number": "BGSN003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "气旋波",
+    "category": "气",
+    "subtype": "法术-创造",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "气": 3
+    },
+    "attack": 2,
+    "cooldown": 0,
+    "description": "额外使用费用：弃1张手牌。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "3321005",
+    "output_path": "new_output/基础包/技能/气/BGSN003.jpg"
+  },
+  {
+    "number": "BGSN004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "静电脉冲",
+    "category": "气",
+    "subtype": "法术-聚能",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "气": 2
+    },
+    "attack": 1,
+    "cooldown": 1,
+    "description": "命中后：目标获得眩晕1。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "3321003",
+    "output_path": "new_output/基础包/技能/气/BGSN004.jpg"
+  },
+  {
+    "number": "BGSN005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "雷闪",
+    "category": "气",
+    "subtype": "法术-驱动",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "气": 4
+    },
+    "attack": 2,
+    "cooldown": 0,
+    "description": "穿透。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "3321004",
+    "output_path": "new_output/基础包/技能/气/BGSN005.jpg"
+  },
+  {
+    "number": "BGSN006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "闪电链",
+    "category": "气",
+    "subtype": "法术-创造",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "气": 5
+    },
+    "attack": 3,
+    "cooldown": 1,
+    "description": "你可以额外选择1个法力范围内的其他敌方单位。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "3321001",
+    "output_path": "new_output/基础包/技能/气/BGSN006.jpg"
+  },
+  {
+    "number": "BGSN007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "源力之风",
+    "category": "气",
+    "subtype": "咒术-灵媒",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "气": 2
+    },
+    "cooldown": 1,
+    "description": "抽2张牌。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "3321007",
+    "output_path": "new_output/基础包/技能/气/BGSN007.jpg"
+  },
+  {
+    "number": "BGSN008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "涡旋屏障",
+    "category": "气",
+    "subtype": "咒术-创造",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "气": 2
+    },
+    "cooldown": 1,
+    "description": "你获得2点护盾。抽1张牌，然后弃1张手牌。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "3321010",
+    "output_path": "new_output/基础包/技能/气/BGSN008.jpg"
+  },
+  {
+    "number": "BGSN009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "撕裂长空",
+    "category": "气",
+    "subtype": "法术-聚能",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "气": 6
+    },
+    "attack": 4,
+    "cooldown": 1,
+    "description": "范围：纵列。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "3321011",
+    "output_path": "new_output/基础包/技能/气/BGSN009.jpg"
+  },
+  {
+    "number": "BGSN010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "霹雳惊雷",
+    "category": "气",
+    "subtype": "法术-驱动",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "气": 6
+    },
+    "attack": 4,
+    "cooldown": 1,
+    "description": "穿透。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "3321013",
+    "output_path": "new_output/基础包/技能/气/BGSN010.jpg"
+  },
+  {
+    "number": "BGSN011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "空天感应",
+    "category": "气",
+    "subtype": "咒术-灵媒",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "气": 3
+    },
+    "cooldown": 1,
+    "description": "查看牌库顶3张牌，将其中1张加入手牌，其余按任意顺序置于牌库底。",
+    "quote": "",
+    "source": "气",
+    "art_ref": "3321012",
+    "output_path": "new_output/基础包/技能/气/BGSN011.jpg"
+  },
+  {
+    "number": "BLCL001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "白袍大贤者 掌号使",
+    "category": "光",
+    "subtype": "巫师",
+    "rarity": "传奇",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "光": 5
+    },
+    "elements_gain": {
+      "光": 1
+    },
+    "attack": 2,
+    "life": 6,
+    "cooldown": 0,
+    "description": "入场：可以检索1张光属性反制牌。诱发回合技1：你的反制牌结算后，使1个友方伙伴回复2点生命。",
+    "quote": "既为巫师,承天命,领人事,广布恩泽,守一方之序,岂有为祸纷乱之理",
+    "source": "光",
+    "art_ref": "1511001",
+    "output_path": "new_output/基础包/伙伴/光/BLCL001.jpg"
+  },
+  {
+    "number": "BLCL002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "天枢圣兽 珀伽索斯",
+    "category": "光",
+    "subtype": "异兽",
+    "rarity": "传奇",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "光": 8
+    },
+    "elements_gain": {
+      "光": 1
+    },
+    "attack": 6,
+    "life": 12,
+    "cooldown": 0,
+    "description": "入场：所有友方单位各回复4点生命。光环：其他友方伙伴受到敌方法术攻击力造成的伤害减少2，最低为0。",
+    "quote": "希望之名,慈悲之怀",
+    "source": "光",
+    "art_ref": "1511003",
+    "output_path": "new_output/基础包/伙伴/光/BLCL002.jpg"
+  },
+  {
+    "number": "BLCN003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "七神侍从",
+    "category": "光",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "elements_gain": {
+      "光": 1
+    },
+    "attack": 0,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "具体待遇还得看你侍奉哪个神",
+    "source": "光",
+    "art_ref": "1521003",
+    "output_path": "new_output/基础包/伙伴/光/BLCN003.jpg"
+  },
+  {
+    "number": "BLCN004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "誓约之泉的守卫",
+    "category": "光",
+    "subtype": "造物",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "光": 2
+    },
+    "attack": 1,
+    "life": 3,
+    "cooldown": 0,
+    "description": "",
+    "quote": "被巫师学徒们戏称为\"澡堂门卫\"",
+    "source": "光",
+    "art_ref": "1521004",
+    "output_path": "new_output/基础包/伙伴/光/BLCN004.jpg"
+  },
+  {
+    "number": "BLCN005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "生命之花",
+    "category": "光",
+    "subtype": "植物",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "光": 2
+    },
+    "elements_gain": {
+      "光": 1
+    },
+    "attack": 0,
+    "life": 3,
+    "cooldown": 0,
+    "description": "入场：使1个其他友方单位回复2点生命。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "1521006",
+    "output_path": "new_output/基础包/伙伴/光/BLCN005.jpg"
+  },
+  {
+    "number": "BLCN006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "治疗术士",
+    "category": "光",
+    "subtype": "巫师",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "光": 2
+    },
+    "attack": 1,
+    "life": 3,
+    "cooldown": 0,
+    "description": "主动回合技1：支付1法力并横置此伙伴，使1个友方单位回复2点生命。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "1521001",
+    "output_path": "new_output/基础包/伙伴/光/BLCN006.jpg"
+  },
+  {
+    "number": "BLCN007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "虹之天使",
+    "category": "光",
+    "subtype": "精灵",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "光": 2
+    },
+    "elements_gain": {
+      "光": 1
+    },
+    "attack": 1,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "光",
+    "art_ref": "1521007",
+    "output_path": "new_output/基础包/伙伴/光/BLCN007.jpg"
+  },
+  {
+    "number": "BLCN008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "神护者",
+    "category": "光",
+    "subtype": "巫师",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "光": 2
+    },
+    "attack": 1,
+    "life": 5,
+    "cooldown": 0,
+    "description": "此伙伴不会获得负面状态。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "1521010",
+    "output_path": "new_output/基础包/伙伴/光/BLCN008.jpg"
+  },
+  {
+    "number": "BLCN009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "御座的圣翼",
+    "category": "光",
+    "subtype": "精灵",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "光": 5
+    },
+    "elements_gain": {
+      "光": 1
+    },
+    "attack": 3,
+    "life": 8,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "光",
+    "art_ref": "1521008",
+    "output_path": "new_output/基础包/伙伴/光/BLCN009.jpg"
+  },
+  {
+    "number": "BLCN010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "天马骑士",
+    "category": "光",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "光": 2
+    },
+    "attack": 2,
+    "life": 3,
+    "cooldown": 0,
+    "description": "入场：可以检索1张独角天马。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "1521009",
+    "output_path": "new_output/基础包/伙伴/光/BLCN010.jpg"
+  },
+  {
+    "number": "BLCN011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "独角天马",
+    "category": "光",
+    "subtype": "异兽",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "光": 4
+    },
+    "attack": 3,
+    "life": 6,
+    "cooldown": 0,
+    "description": "入场：使1个友方单位回复2点生命。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "1521012",
+    "output_path": "new_output/基础包/伙伴/光/BLCN011.jpg"
+  },
+  {
+    "number": "BLCN012",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "日轮法师",
+    "category": "光",
+    "subtype": "巫师",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "光": 4
+    },
+    "elements_gain": {
+      "光": 1
+    },
+    "attack": 2,
+    "life": 5,
+    "cooldown": 0,
+    "description": "主动绝技：支付1法力并横置此伙伴，移除1张你已学习的光属性技能的全部负面状态。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "1521011",
+    "output_path": "new_output/基础包/伙伴/光/BLCN012.jpg"
+  },
+  {
+    "number": "BLCN013",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "神火兽",
+    "category": "光",
+    "subtype": "异兽",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "光": 5
+    },
+    "attack": 4,
+    "life": 6,
+    "cooldown": 0,
+    "description": "诱发回合技1：己方回合，你的光属性法术造成伤害后，使1个友方单位回复2点生命。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "1521013",
+    "output_path": "new_output/基础包/伙伴/光/BLCN013.jpg"
+  },
+  {
+    "number": "BLCN014",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "索洛城的坚守者",
+    "category": "光",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "光": 3
+    },
+    "attack": 2,
+    "life": 5,
+    "cooldown": 0,
+    "description": "诱发回合技1：此伙伴实际回复生命后，本回合攻击力+1。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "1521016",
+    "output_path": "new_output/基础包/伙伴/光/BLCN014.jpg"
+  },
+  {
+    "number": "BLCN015",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "圣殿见习骑士",
+    "category": "光",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "attack": 1,
+    "life": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "光",
+    "output_path": "new_output/基础包/伙伴/光/BLCN015.jpg"
+  },
+  {
+    "number": "BLCN016",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "曙光护卫",
+    "category": "光",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "光": 2
+    },
+    "elements_gain": {
+      "光": 1
+    },
+    "attack": 1,
+    "life": 4,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "光",
+    "output_path": "new_output/基础包/伙伴/光/BLCN016.jpg"
+  },
+  {
+    "number": "BLCN017",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "光辉巡礼者",
+    "category": "光",
+    "subtype": "巫师",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "光": 2
+    },
+    "elements_gain": {
+      "光": 2
+    },
+    "attack": 0,
+    "life": 4,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "光",
+    "output_path": "new_output/基础包/伙伴/光/BLCN017.jpg"
+  },
+  {
+    "number": "BLCN018",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "审判骑士",
+    "category": "光",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "光": 6
+    },
+    "attack": 5,
+    "life": 10,
+    "cooldown": 0,
+    "description": "入场：使1个其他友方伙伴回复3点生命。",
+    "quote": "",
+    "source": "光",
+    "output_path": "new_output/基础包/伙伴/光/BLCN018.jpg"
+  },
+  {
+    "number": "BLCN019",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "光铸泰坦",
+    "category": "光",
+    "subtype": "精灵",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "光": 7
+    },
+    "attack": 5,
+    "life": 12,
+    "cooldown": 0,
+    "description": "入场：抽2张牌。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "1521002",
+    "output_path": "new_output/基础包/伙伴/光/BLCN019.jpg"
+  },
+  {
+    "number": "BLCN020",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "伙伴",
+    "name": "圣坛守望者",
+    "category": "光",
+    "subtype": "人类",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "光": 2
+    },
+    "attack": 1,
+    "life": 4,
+    "cooldown": 0,
+    "description": "入场：可以检索1张光属性反制牌。",
+    "quote": "",
+    "source": "光",
+    "output_path": "new_output/基础包/伙伴/光/BLCN020.jpg"
+  },
+  {
+    "number": "BLH001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "圣使 玛丽斯 南森埃尔",
+    "category": "光",
+    "subtype": "",
+    "elements_gain": {
+      "光": 2
+    },
+    "attack": 0,
+    "life": 15,
+    "skill_slots": 3,
+    "description": "诱发回合技1：你的反制牌结算后，使1个友方单位回复2点生命。",
+    "quote": "\"我从未迷茫,因为唯一的道路早已被照亮\"",
+    "source": "人物",
+    "art_ref": "4511001",
+    "output_path": "new_output/基础包/人物/光/BLH001.jpg"
+  },
+  {
+    "number": "BLH002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "神之眷子 爱里默",
+    "category": "光",
+    "subtype": "",
+    "activation_mana": 1,
+    "elements_gain": {
+      "光": 2
+    },
+    "attack": 0,
+    "life": 15,
+    "skill_slots": 3,
+    "description": "主动绝技：支付1法力，将法力范围内1个敌方伙伴横置，并使其获得眩晕2。",
+    "quote": "桎梏下的鸟儿,是否终能有飞翔的一天?",
+    "source": "人物",
+    "art_ref": "4511002",
+    "output_path": "new_output/基础包/人物/光/BLH002.jpg"
+  },
+  {
+    "number": "BLH003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "骑士团长 蕾曦娅",
+    "category": "光",
+    "subtype": "",
+    "elements_gain": {
+      "光": 2
+    },
+    "attack": 0,
+    "life": 20,
+    "skill_slots": 2,
+    "description": "诱发回合技1：己方回合，1个友方伙伴实际回复生命后，使该伙伴本回合攻击力+1。",
+    "quote": "\"选择与被选择,都是一种奢侈\"",
+    "source": "人物",
+    "art_ref": "4511003",
+    "output_path": "new_output/基础包/人物/光/BLH003.jpg"
+  },
+  {
+    "number": "BLH004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "庇护者 西瓦尔",
+    "category": "光",
+    "subtype": "",
+    "elements_gain": {
+      "光": 2
+    },
+    "attack": 0,
+    "life": 20,
+    "skill_slots": 2,
+    "description": "诱发绝技：你的人物将受到敌方伤害时，使该次伤害减少5，最低为0。",
+    "quote": "\"我不关心你们间的恩怨,但是在这里,没有人可以开战\"",
+    "source": "人物",
+    "art_ref": "4511101",
+    "output_path": "new_output/基础包/人物/光/BLH004.jpg"
+  },
+  {
+    "number": "BLH005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "人物",
+    "name": "救赎者 伊芙 秋枫",
+    "category": "光",
+    "subtype": "",
+    "elements_gain": {
+      "光": 2
+    },
+    "attack": 0,
+    "life": 15,
+    "skill_slots": 3,
+    "description": "诱发回合技1：己方回合，1个友方伙伴因你的光属性技能实际回复生命后，抽1张牌。",
+    "quote": "只要你探寻,必得指引;只要你祈求,必得救赎",
+    "source": "人物",
+    "art_ref": "4511102",
+    "output_path": "new_output/基础包/人物/光/BLH005.jpg"
+  },
+  {
+    "number": "BLIL001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "辉之盾 闪耀",
+    "category": "光",
+    "subtype": "装备-防具",
+    "rarity": "传奇",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "光": 4
+    },
+    "elements_gain": {
+      "光": 1
+    },
+    "description": "诱发回合技1：敌方法术将要造成伤害时，使该法术本次使用的攻击力减少2，最低为0。",
+    "quote": "真正的天才会在盾里嵌上一面镜子",
+    "source": "光",
+    "art_ref": "2511002",
+    "output_path": "new_output/基础包/道具/光/BLIL001.jpg"
+  },
+  {
+    "number": "BLIN002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "蓝晶灯盏",
+    "category": "光",
+    "subtype": "装备",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "elements_gain": {
+      "光": 1
+    },
+    "description": "",
+    "quote": "",
+    "source": "光",
+    "art_ref": "2521007",
+    "output_path": "new_output/基础包/道具/光/BLIN002.jpg"
+  },
+  {
+    "number": "BLIN003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "孤星守护者",
+    "category": "光",
+    "subtype": "装备-防具",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "光": 2
+    },
+    "elements_gain": {
+      "光": 1
+    },
+    "description": "入场：你获得1点护盾。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "2521105",
+    "output_path": "new_output/基础包/道具/光/BLIN003.jpg"
+  },
+  {
+    "number": "BLIN004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "绿玉权杖",
+    "category": "光",
+    "subtype": "装备-武器",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "光": 2
+    },
+    "elements_gain": {
+      "光": 1
+    },
+    "description": "入场：使1个友方伙伴在本次在场期间生命上限+2，并回复2点生命。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "2521006",
+    "output_path": "new_output/基础包/道具/光/BLIN004.jpg"
+  },
+  {
+    "number": "BLIN005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "祝福之杖",
+    "category": "光",
+    "subtype": "装备-武器",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "光": 2
+    },
+    "elements_gain": {
+      "光": 1
+    },
+    "cooldown": 0,
+    "description": "主动回合技1：支付1法力并横置此装备，使1个友方单位回复2点生命。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "2521014",
+    "output_path": "new_output/基础包/道具/光/BLIN005.jpg"
+  },
+  {
+    "number": "BLIN006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "曙光圣坛",
+    "category": "光",
+    "subtype": "装备",
+    "rarity": "普通",
+    "mana_cost": 4,
+    "tech_requirement": {
+      "光": 2
+    },
+    "elements_gain": {
+      "光": 2
+    },
+    "description": "入场：你的人物回复2点生命。",
+    "quote": "",
+    "source": "光",
+    "output_path": "new_output/基础包/道具/光/BLIN006.jpg"
+  },
+  {
+    "number": "BLIN007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "守誓圣徽",
+    "category": "光",
+    "subtype": "装备-饰物",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "光": 2
+    },
+    "elements_gain": {
+      "光": 1
+    },
+    "description": "诱发回合技1：你的反制牌结算后，你的人物回复1点生命。",
+    "quote": "",
+    "source": "光",
+    "output_path": "new_output/基础包/道具/光/BLIN007.jpg"
+  },
+  {
+    "number": "BLIN008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "戒律经卷",
+    "category": "光",
+    "subtype": "装备",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "光": 2
+    },
+    "elements_gain": {
+      "光": 1
+    },
+    "description": "入场：查看牌库顶1张牌，可以将其置于牌库底。",
+    "quote": "",
+    "source": "光",
+    "output_path": "new_output/基础包/道具/光/BLIN008.jpg"
+  },
+  {
+    "number": "BLIN009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "沐光卷轴",
+    "category": "光",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "光": 2
+    },
+    "description": "使所有友方单位各回复3点生命。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "2521106",
+    "output_path": "new_output/基础包/道具/光/BLIN009.jpg"
+  },
+  {
+    "number": "BLIN010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "净化卷轴",
+    "category": "光",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "光": 2
+    },
+    "description": "移除1张友方卡牌的全部负面状态；若目标是单位，使其回复2点生命。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "2521003",
+    "output_path": "new_output/基础包/道具/光/BLIN010.jpg"
+  },
+  {
+    "number": "BLIN011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "惩戒之箭卷轴",
+    "category": "光",
+    "subtype": "消耗品-法术卷轴-创造",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "光": 3
+    },
+    "attack": 2,
+    "description": "穿透。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "2521008",
+    "output_path": "new_output/基础包/道具/光/BLIN011.jpg"
+  },
+  {
+    "number": "BLIN012",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "光之刃卷轴",
+    "category": "光",
+    "subtype": "消耗品-法术卷轴-创造",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "tech_requirement": {
+      "光": 4
+    },
+    "attack": 2,
+    "description": "范围：敌方实际前排。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "2521009",
+    "output_path": "new_output/基础包/道具/光/BLIN012.jpg"
+  },
+  {
+    "number": "BLIN013",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "生命赐福卷轴",
+    "category": "光",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "tech_requirement": {
+      "光": 1
+    },
+    "description": "使1个友方单位回复4点生命。",
+    "quote": "",
+    "source": "光",
+    "output_path": "new_output/基础包/道具/光/BLIN013.jpg"
+  },
+  {
+    "number": "BLIN014",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "新生卷轴",
+    "category": "光",
+    "subtype": "消耗品-咒术卷轴",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "tech_requirement": {
+      "光": 5
+    },
+    "description": "从你的弃牌堆选择1张入场法力费用不超过2的光属性伙伴牌，将其横置召唤至己方空位，无需支付其入场法力，仍需满足其负载条件。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "2521005",
+    "output_path": "new_output/基础包/道具/光/BLIN014.jpg"
+  },
+  {
+    "number": "BLIN015",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "庇护符文",
+    "category": "光",
+    "subtype": "消耗品-反制-符文",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "光": 2
+    },
+    "cooldown": 0,
+    "description": "反制：敌方宣告使用本次攻击力不大于3的法术技能或法术卷轴时，使该次法术无效。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "2521002",
+    "output_path": "new_output/基础包/道具/光/BLIN015.jpg"
+  },
+  {
+    "number": "BLIN016",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "道具",
+    "name": "神圣制裁卷轴",
+    "category": "光",
+    "subtype": "消耗品-反制",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "光": 4
+    },
+    "cooldown": 0,
+    "description": "反制：敌方宣告使用咒术技能或咒术卷轴时，使该次咒术无效。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "2521004",
+    "output_path": "new_output/基础包/道具/光/BLIN016.jpg"
+  },
+  {
+    "number": "BLSN001",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "治疗术",
+    "category": "光",
+    "subtype": "咒术-聚能",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "光": 2
+    },
+    "cooldown": 0,
+    "description": "使1个友方单位回复3点生命。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "3521001",
+    "output_path": "new_output/基础包/技能/光/BLSN001.jpg"
+  },
+  {
+    "number": "BLSN002",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "神圣之火",
+    "category": "光",
+    "subtype": "法术-创造",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "光": 2
+    },
+    "attack": 1,
+    "cooldown": 0,
+    "description": "也可以选择1个友方单位为目标；若如此做，不造成伤害，改为移除其全部负面状态。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "3521002",
+    "output_path": "new_output/基础包/技能/光/BLSN002.jpg"
+  },
+  {
+    "number": "BLSN003",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "神圣防护罩",
+    "category": "光",
+    "subtype": "咒术-创造",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "光": 2
+    },
+    "cooldown": 1,
+    "description": "你获得2点护盾，然后使1个友方单位回复1点生命。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "3521003",
+    "output_path": "new_output/基础包/技能/光/BLSN003.jpg"
+  },
+  {
+    "number": "BLSN004",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "闪光魔术",
+    "category": "光",
+    "subtype": "法术-幻变",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "光": 3
+    },
+    "attack": 2,
+    "cooldown": 1,
+    "description": "命中：目标获得眩晕1。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "3521004",
+    "output_path": "new_output/基础包/技能/光/BLSN004.jpg"
+  },
+  {
+    "number": "BLSN005",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "光辉斩裂",
+    "category": "光",
+    "subtype": "法术-聚能",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 0,
+    "tech_requirement": {
+      "光": 4
+    },
+    "attack": 2,
+    "cooldown": 0,
+    "description": "",
+    "quote": "",
+    "source": "光",
+    "art_ref": "3521006",
+    "output_path": "new_output/基础包/技能/光/BLSN005.jpg"
+  },
+  {
+    "number": "BLSN006",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "希望呼唤",
+    "category": "光",
+    "subtype": "咒术-神秘",
+    "rarity": "普通",
+    "mana_cost": 1,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "光": 2
+    },
+    "cooldown": 1,
+    "description": "翻取1张光属性伙伴牌。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "3521007",
+    "output_path": "new_output/基础包/技能/光/BLSN006.jpg"
+  },
+  {
+    "number": "BLSN007",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "光辉波动",
+    "category": "光",
+    "subtype": "法术-聚能",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "光": 5
+    },
+    "attack": 3,
+    "cooldown": 1,
+    "description": "范围：敌方实际前排。命中：目标获得眩晕1。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "3521008",
+    "output_path": "new_output/基础包/技能/光/BLSN007.jpg"
+  },
+  {
+    "number": "BLSN008",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "长虹贯日",
+    "category": "光",
+    "subtype": "法术-驱动",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "光": 6
+    },
+    "attack": 4,
+    "cooldown": 1,
+    "description": "范围：纵列。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "3521012",
+    "output_path": "new_output/基础包/技能/光/BLSN008.jpg"
+  },
+  {
+    "number": "BLSN009",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "恩典",
+    "category": "光",
+    "subtype": "咒术-神秘",
+    "rarity": "普通",
+    "mana_cost": 2,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "光": 3
+    },
+    "cooldown": 1,
+    "description": "选择1个受伤的友方伙伴，使其回复4点生命；若其因此恢复至生命上限，其本回合攻击力+1。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "3521108",
+    "output_path": "new_output/基础包/技能/光/BLSN009.jpg"
+  },
+  {
+    "number": "BLSN010",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "寂灭之光",
+    "category": "光",
+    "subtype": "法术-聚能",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 1,
+    "tech_requirement": {
+      "光": 6
+    },
+    "attack": 5,
+    "cooldown": 0,
+    "description": "仅能以伙伴为目标。",
+    "quote": "",
+    "source": "光",
+    "art_ref": "3521015",
+    "output_path": "new_output/基础包/技能/光/BLSN010.jpg"
+  },
+  {
+    "number": "BLSN011",
+    "set_code": "B",
+    "set_name": "基础包",
+    "type": "技能",
+    "name": "晨星裁决",
+    "category": "光",
+    "subtype": "法术-神秘",
+    "rarity": "普通",
+    "mana_cost": 3,
+    "activation_mana": 2,
+    "tech_requirement": {
+      "光": 7
+    },
+    "attack": 4,
+    "cooldown": 2,
+    "description": "范围：敌方全场。结算后，使所有友方单位各回复3点生命。",
+    "quote": "",
+    "source": "光",
+    "output_path": "new_output/基础包/技能/光/BLSN011.jpg"
+  },
+  {
+    "number": "BWCL001",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -1795,10 +6344,10 @@
     "quote": "合上眼睛，她回忆起曾经的海浪，礁石...以及她信任的那位王子",
     "source": "水",
     "art_ref": "1211001",
-    "output_path": "new_output/基础包/伙伴/水/BWC001.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCL001.jpg"
   },
   {
-    "number": "BWC002",
+    "number": "BWCL002",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -1810,17 +6359,17 @@
     "tech_requirement": {
       "水": 8
     },
-    "attack": 6,
-    "life": 11,
+    "attack": 7,
+    "life": 14,
     "cooldown": 0,
     "description": "入场：你可以消灭1个前排敌方伙伴。",
     "quote": "\"只有一人能从巨口中存活，他便是那怪物命中注定的斩杀者\"",
     "source": "水",
     "art_ref": "1211002",
-    "output_path": "new_output/基础包/伙伴/水/BWC002.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCL002.jpg"
   },
   {
-    "number": "BWC003",
+    "number": "BWCN003",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -1838,10 +6387,10 @@
     "description": "",
     "quote": "",
     "source": "水",
-    "output_path": "new_output/基础包/伙伴/水/BWC003.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN003.jpg"
   },
   {
-    "number": "BWC004",
+    "number": "BWCN004",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -1856,10 +6405,10 @@
     "description": "",
     "quote": "",
     "source": "水",
-    "output_path": "new_output/基础包/伙伴/水/BWC004.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN004.jpg"
   },
   {
-    "number": "BWC005",
+    "number": "BWCN005",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -1877,10 +6426,10 @@
     "description": "",
     "quote": "",
     "source": "水",
-    "output_path": "new_output/基础包/伙伴/水/BWC005.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN005.jpg"
   },
   {
-    "number": "BWC006",
+    "number": "BWCN006",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -1902,10 +6451,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "1221014",
-    "output_path": "new_output/基础包/伙伴/水/BWC006.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN006.jpg"
   },
   {
-    "number": "BWC007",
+    "number": "BWCN007",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -1924,10 +6473,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "1221001",
-    "output_path": "new_output/基础包/伙伴/水/BWC007.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN007.jpg"
   },
   {
-    "number": "BWC008",
+    "number": "BWCN008",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -1946,10 +6495,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "1221007",
-    "output_path": "new_output/基础包/伙伴/水/BWC008.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN008.jpg"
   },
   {
-    "number": "BWC009",
+    "number": "BWCN009",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -1968,10 +6517,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "1221004",
-    "output_path": "new_output/基础包/伙伴/水/BWC009.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN009.jpg"
   },
   {
-    "number": "BWC010",
+    "number": "BWCN010",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -1990,10 +6539,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "1221006",
-    "output_path": "new_output/基础包/伙伴/水/BWC010.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN010.jpg"
   },
   {
-    "number": "BWC011",
+    "number": "BWCN011",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -2012,10 +6561,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "1221103",
-    "output_path": "new_output/基础包/伙伴/水/BWC011.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN011.jpg"
   },
   {
-    "number": "BWC012",
+    "number": "BWCN012",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -2036,10 +6585,10 @@
     "description": "",
     "quote": "",
     "source": "水",
-    "output_path": "new_output/基础包/伙伴/水/BWC012.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN012.jpg"
   },
   {
-    "number": "BWC013",
+    "number": "BWCN013",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -2061,10 +6610,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "1221002",
-    "output_path": "new_output/基础包/伙伴/水/BWC013.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN013.jpg"
   },
   {
-    "number": "BWC014",
+    "number": "BWCN014",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -2086,10 +6635,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "1221107",
-    "output_path": "new_output/基础包/伙伴/水/BWC014.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN014.jpg"
   },
   {
-    "number": "BWC015",
+    "number": "BWCN015",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -2104,14 +6653,14 @@
     "attack": 1,
     "life": 6,
     "cooldown": 0,
-    "description": "诱发回合技1：此伙伴将受到来自其他单位的攻击伤害时，使其冻结1。",
+    "description": "诱发回合技1：此伙伴将受到其他单位的普通攻击伤害时，使该伤害来源获得冻结1。",
     "quote": "",
     "source": "水",
     "art_ref": "1221016",
-    "output_path": "new_output/基础包/伙伴/水/BWC015.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN015.jpg"
   },
   {
-    "number": "BWC016",
+    "number": "BWCN016",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -2133,10 +6682,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "1221013",
-    "output_path": "new_output/基础包/伙伴/水/BWC016.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN016.jpg"
   },
   {
-    "number": "BWC017",
+    "number": "BWCN017",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -2145,20 +6694,21 @@
     "subtype": "机械",
     "rarity": "普通",
     "mana_cost": 2,
+    "activation_mana": 1,
     "tech_requirement": {
       "水": 4
     },
     "attack": 2,
     "life": 5,
     "cooldown": 0,
-    "description": "主动回合技：支付1\\法，从卡组顶3张卡牌中选择1张加入手牌，然后洗切卡组",
+    "description": "主动回合技1：支付1点法力，查看你的牌库顶3张牌，将其中1张加入手牌，其余放回牌库，然后洗切牌库。",
     "quote": "群屿大陆绝不会停止的两件事：战争和贸易",
     "source": "水",
     "art_ref": "1221015",
-    "output_path": "new_output/基础包/伙伴/水/BWC017.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN017.jpg"
   },
   {
-    "number": "BWC018",
+    "number": "BWCN018",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -2180,10 +6730,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "1221104",
-    "output_path": "new_output/基础包/伙伴/水/BWC018.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN018.jpg"
   },
   {
-    "number": "BWC019",
+    "number": "BWCN019",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -2202,10 +6752,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "1221113",
-    "output_path": "new_output/基础包/伙伴/水/BWC019.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN019.jpg"
   },
   {
-    "number": "BWC020",
+    "number": "BWCN020",
     "set_code": "B",
     "set_name": "基础包",
     "type": "伙伴",
@@ -2217,14 +6767,14 @@
     "tech_requirement": {
       "水": 7
     },
-    "attack": 5,
-    "life": 11,
+    "attack": 6,
+    "life": 13,
     "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "水",
     "art_ref": "1221009",
-    "output_path": "new_output/基础包/伙伴/水/BWC020.jpg"
+    "output_path": "new_output/基础包/伙伴/水/BWCN020.jpg"
   },
   {
     "number": "BWH001",
@@ -2260,7 +6810,7 @@
     "attack": 0,
     "life": 15,
     "skill_slots": 3,
-    "description": "入场：将1张衍生法术百川归海加入你的手牌",
+    "description": "入场：将1张衍生技能“百川归海”加入你的手牌。",
     "quote": "“反对我？你不是第一个，但确实是现在唯一的一个”",
     "source": "人物",
     "art_ref": "4211002",
@@ -2280,7 +6830,7 @@
     "attack": 0,
     "life": 20,
     "skill_slots": 2,
-    "description": "诱发回合技1：敌方回合，敌方单位或装备对你的水纹伙伴发起的第一次普通攻击，其伤害减少1，最低为0。此次数由所有伙伴共享。",
+    "description": "诱发回合技1：敌方回合，敌方单位对你的水纹伙伴发起的第一次普通攻击，其伤害减少1，最低为0。此次数由所有伙伴共享。",
     "quote": "“卡姆陛下，我想凛冬城下的无数冰雕已经足够说明了，这里不需要一个国王”",
     "source": "人物",
     "art_ref": "4211003",
@@ -2329,7 +6879,7 @@
     "output_path": "new_output/基础包/人物/水/BWH005.jpg"
   },
   {
-    "number": "BWI001",
+    "number": "BWIL001",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -2338,6 +6888,7 @@
     "subtype": "装备-神器",
     "rarity": "传奇",
     "mana_cost": 2,
+    "activation_mana": 2,
     "tech_requirement": {
       "水": 2
     },
@@ -2349,10 +6900,10 @@
     "quote": "巴特尔从沙滩上惊醒，身旁的泡沫顷刻间被浪花融化",
     "source": "水",
     "art_ref": "2211001",
-    "output_path": "new_output/基础包/道具/水/BWI001.jpg"
+    "output_path": "new_output/基础包/道具/水/BWIL001.jpg"
   },
   {
-    "number": "BWI002",
+    "number": "BWIN002",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -2372,10 +6923,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "2221007",
-    "output_path": "new_output/基础包/道具/水/BWI002.jpg"
+    "output_path": "new_output/基础包/道具/水/BWIN002.jpg"
   },
   {
-    "number": "BWI003",
+    "number": "BWIN003",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -2391,10 +6942,10 @@
     "description": "",
     "quote": "",
     "source": "水",
-    "output_path": "new_output/基础包/道具/水/BWI003.jpg"
+    "output_path": "new_output/基础包/道具/水/BWIN003.jpg"
   },
   {
-    "number": "BWI004",
+    "number": "BWIN004",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -2414,10 +6965,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "2221006",
-    "output_path": "new_output/基础包/道具/水/BWI004.jpg"
+    "output_path": "new_output/基础包/道具/水/BWIN004.jpg"
   },
   {
-    "number": "BWI005",
+    "number": "BWIN005",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -2437,10 +6988,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "2221001",
-    "output_path": "new_output/基础包/道具/水/BWI005.jpg"
+    "output_path": "new_output/基础包/道具/水/BWIN005.jpg"
   },
   {
-    "number": "BWI006",
+    "number": "BWIN006",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -2449,6 +7000,7 @@
     "subtype": "装备-防具",
     "rarity": "普通",
     "mana_cost": 2,
+    "activation_mana": 1,
     "tech_requirement": {
       "水": 2
     },
@@ -2460,10 +7012,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "2221012",
-    "output_path": "new_output/基础包/道具/水/BWI006.jpg"
+    "output_path": "new_output/基础包/道具/水/BWIN006.jpg"
   },
   {
-    "number": "BWI007",
+    "number": "BWIN007",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -2472,6 +7024,7 @@
     "subtype": "装备-武器",
     "rarity": "普通",
     "mana_cost": 2,
+    "activation_mana": 0,
     "tech_requirement": {
       "水": 3
     },
@@ -2479,14 +7032,14 @@
       "水": 1
     },
     "cooldown": 0,
-    "description": "主动回合技1：选择1个水纹法术，使其本回合+1\\攻。",
+    "description": "主动回合技1：选择1个你已学习的水纹法术，使其本回合攻击力+1。",
     "quote": "",
     "source": "水",
     "art_ref": "2221004",
-    "output_path": "new_output/基础包/道具/水/BWI007.jpg"
+    "output_path": "new_output/基础包/道具/水/BWIN007.jpg"
   },
   {
-    "number": "BWI008",
+    "number": "BWIN008",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -2499,14 +7052,14 @@
       "水": 6
     },
     "cooldown": 0,
-    "description": "你的人物获得+2\\攻和远程效果，其攻击还会使目标冻结1",
+    "description": "光环：你的人物攻击力+2并具有远程。诱发：你的人物普通攻击结算后，使该次攻击的目标获得冻结1。",
     "quote": "一箭霜降，两箭严寒",
     "source": "水",
     "art_ref": "2211002",
-    "output_path": "new_output/基础包/道具/水/BWI008.jpg"
+    "output_path": "new_output/基础包/道具/水/BWIN008.jpg"
   },
   {
-    "number": "BWI009",
+    "number": "BWIN009",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -2524,10 +7077,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "2221008",
-    "output_path": "new_output/基础包/道具/水/BWI009.jpg"
+    "output_path": "new_output/基础包/道具/水/BWIN009.jpg"
   },
   {
-    "number": "BWI010",
+    "number": "BWIN010",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -2545,10 +7098,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "2221009",
-    "output_path": "new_output/基础包/道具/水/BWI010.jpg"
+    "output_path": "new_output/基础包/道具/水/BWIN010.jpg"
   },
   {
-    "number": "BWI011",
+    "number": "BWIN011",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -2565,10 +7118,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "2221011",
-    "output_path": "new_output/基础包/道具/水/BWI011.jpg"
+    "output_path": "new_output/基础包/道具/水/BWIN011.jpg"
   },
   {
-    "number": "BWI012",
+    "number": "BWIN012",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -2585,10 +7138,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "2221102",
-    "output_path": "new_output/基础包/道具/水/BWI012.jpg"
+    "output_path": "new_output/基础包/道具/水/BWIN012.jpg"
   },
   {
-    "number": "BWI013",
+    "number": "BWIN013",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -2605,10 +7158,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "2221003",
-    "output_path": "new_output/基础包/道具/水/BWI013.jpg"
+    "output_path": "new_output/基础包/道具/水/BWIN013.jpg"
   },
   {
-    "number": "BWI014",
+    "number": "BWIN014",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -2624,10 +7177,10 @@
     "description": "将法力范围内1个敌方伙伴返回其拥有者手牌。",
     "quote": "",
     "source": "水",
-    "output_path": "new_output/基础包/道具/水/BWI014.jpg"
+    "output_path": "new_output/基础包/道具/水/BWIN014.jpg"
   },
   {
-    "number": "BWI015",
+    "number": "BWIN015",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -2641,14 +7194,14 @@
       "水": 2
     },
     "cooldown": 0,
-    "description": "反制：敌方单位攻击时，使其冻结2。",
+    "description": "反制：敌方单位宣告普通攻击时，使该攻击者获得冻结2。",
     "quote": "",
     "source": "水",
     "art_ref": "2221103",
-    "output_path": "new_output/基础包/道具/水/BWI015.jpg"
+    "output_path": "new_output/基础包/道具/水/BWIN015.jpg"
   },
   {
-    "number": "BWI016",
+    "number": "BWIN016",
     "set_code": "B",
     "set_name": "基础包",
     "type": "道具",
@@ -2666,10 +7219,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "2221112",
-    "output_path": "new_output/基础包/道具/水/BWI016.jpg"
+    "output_path": "new_output/基础包/道具/水/BWIN016.jpg"
   },
   {
-    "number": "BWS001",
+    "number": "BWSN001",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -2678,7 +7231,7 @@
     "subtype": "法术-驱动",
     "rarity": "普通",
     "mana_cost": 3,
-    "activation_mana": 3,
+    "activation_mana": 2,
     "tech_requirement": {
       "水": 7
     },
@@ -2688,10 +7241,10 @@
     "quote": "参天的浪潮裹挟着天空，随后便是利齿，以及无尽的黑暗",
     "source": "水",
     "art_ref": "3221006",
-    "output_path": "new_output/基础包/技能/水/BWS001.jpg"
+    "output_path": "new_output/基础包/技能/水/BWSN001.jpg"
   },
   {
-    "number": "BWS002",
+    "number": "BWSN002",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -2710,10 +7263,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "3221002",
-    "output_path": "new_output/基础包/技能/水/BWS002.jpg"
+    "output_path": "new_output/基础包/技能/水/BWSN002.jpg"
   },
   {
-    "number": "BWS003",
+    "number": "BWSN003",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -2732,10 +7285,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "3221003",
-    "output_path": "new_output/基础包/技能/水/BWS003.jpg"
+    "output_path": "new_output/基础包/技能/水/BWSN003.jpg"
   },
   {
-    "number": "BWS004",
+    "number": "BWSN004",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -2754,10 +7307,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "3221009",
-    "output_path": "new_output/基础包/技能/水/BWS004.jpg"
+    "output_path": "new_output/基础包/技能/水/BWSN004.jpg"
   },
   {
-    "number": "BWS005",
+    "number": "BWSN005",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -2775,10 +7328,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "3221004",
-    "output_path": "new_output/基础包/技能/水/BWS005.jpg"
+    "output_path": "new_output/基础包/技能/水/BWSN005.jpg"
   },
   {
-    "number": "BWS006",
+    "number": "BWSN006",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -2796,10 +7349,10 @@
     "quote": "“可能你不相信命运，但是命运似乎很相信你”",
     "source": "水",
     "art_ref": "3221007",
-    "output_path": "new_output/基础包/技能/水/BWS006.jpg"
+    "output_path": "new_output/基础包/技能/水/BWSN006.jpg"
   },
   {
-    "number": "BWS007",
+    "number": "BWSN007",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -2816,10 +7369,10 @@
     "description": "使1个友方单位回复2点生命。",
     "quote": "",
     "source": "水",
-    "output_path": "new_output/基础包/技能/水/BWS007.jpg"
+    "output_path": "new_output/基础包/技能/水/BWSN007.jpg"
   },
   {
-    "number": "BWS008",
+    "number": "BWSN008",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -2838,10 +7391,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "3221001",
-    "output_path": "new_output/基础包/技能/水/BWS008.jpg"
+    "output_path": "new_output/基础包/技能/水/BWSN008.jpg"
   },
   {
-    "number": "BWS009",
+    "number": "BWSN009",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -2860,10 +7413,10 @@
     "quote": "",
     "source": "水",
     "art_ref": "3221107",
-    "output_path": "new_output/基础包/技能/水/BWS009.jpg"
+    "output_path": "new_output/基础包/技能/水/BWSN009.jpg"
   },
   {
-    "number": "BWS010",
+    "number": "BWSN010",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -2882,10 +7435,10 @@
     "quote": "归来的勇士跃向无底的巨口，鳞甲深处是它跳动的心脏",
     "source": "水",
     "art_ref": "3221013",
-    "output_path": "new_output/基础包/技能/水/BWS010.jpg"
+    "output_path": "new_output/基础包/技能/水/BWSN010.jpg"
   },
   {
-    "number": "BWS011",
+    "number": "BWSN011",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
@@ -2904,16 +7457,16 @@
     "quote": "",
     "source": "水",
     "art_ref": "3221011",
-    "output_path": "new_output/基础包/技能/水/BWS011.jpg"
+    "output_path": "new_output/基础包/技能/水/BWSN011.jpg"
   },
   {
-    "number": "BWS012",
+    "number": "BWSN012",
     "set_code": "B",
     "set_name": "基础包",
     "type": "技能",
     "name": "百川归海",
     "category": "水",
-    "subtype": "咒术-聚能",
+    "subtype": "衍生-咒术-聚能",
     "rarity": "普通",
     "mana_cost": 2,
     "activation_mana": 2,
@@ -2921,10 +7474,10 @@
       "水": 2
     },
     "cooldown": 1,
-    "description": "你每有2点\\水负载，抽1张牌",
+    "description": "每有2点水纹负载，抽1张牌（不足2点的余数不计）。",
     "quote": "",
-    "source": "水",
+    "source": "衍生",
     "art_ref": "3201001",
-    "output_path": "new_output/基础包/技能/水/BWS012.jpg"
+    "output_path": "new_output/基础包/技能/水/BWSN012.jpg"
   }
 ]
