@@ -18,7 +18,6 @@
     },
     "attack": 4,
     "life": 12,
-    "cooldown": 0,
     "description": "免疫法术攻击伤害。绑定技能:破灭魔光",
     "quote": "吾即是始源,吾即是终焉,不生不灭,万法归一",
     "source": "奥术",
@@ -61,7 +60,6 @@
     "mana_cost": 1,
     "attack": 1,
     "life": 2,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "奥术",
@@ -82,7 +80,6 @@
     },
     "attack": 0,
     "life": 1,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "奥术",
@@ -101,7 +98,6 @@
     "mana_cost": 2,
     "attack": 0,
     "life": 6,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "奥术",
@@ -123,7 +119,6 @@
     },
     "attack": 3,
     "life": 6,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "奥术",
@@ -145,7 +140,6 @@
     },
     "attack": 1,
     "life": 2,
-    "cooldown": 0,
     "description": "入场：弃1张手牌，检索1张卷轴或符文道具。",
     "quote": "",
     "source": "奥术",
@@ -170,7 +164,6 @@
     },
     "attack": 0,
     "life": 2,
-    "cooldown": 0,
     "description": "入场：丢弃1张手牌，检索1张装备道具",
     "quote": "“不不不，您这套行头出去可不像样啊”",
     "source": "奥术",
@@ -192,7 +185,6 @@
     },
     "attack": 4,
     "life": 8,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "奥术",
@@ -295,7 +287,6 @@
     "elements_gain": {
       "奥术": 1
     },
-    "cooldown": 0,
     "description": "光环：你的普通技能槽+1；你的技能发动法力费用-1，最低为0。",
     "quote": "等你成为了大法师，你的法杖就是大法师之杖",
     "source": "奥术",
@@ -340,7 +331,6 @@
     "elements_gain": {
       "奥术": 1
     },
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "奥术",
@@ -360,7 +350,6 @@
     "elements_gain": {
       "奥术": 1
     },
-    "cooldown": 0,
     "description": "绝技：支付1\\法，检索1张技能牌。",
     "quote": "",
     "source": "奥术",
@@ -380,7 +369,6 @@
     "tech_requirement": {
       "奥术": 5
     },
-    "cooldown": 0,
     "description": "光环：你的技能槽数量+1。",
     "quote": "",
     "source": "奥术",
@@ -400,7 +388,6 @@
     "tech_requirement": {
       "奥术": 3
     },
-    "cooldown": 0,
     "description": "光环：友方单位和法术攻击未超过敌方护盾值时，它们对护盾造成的伤害+1",
     "quote": "",
     "source": "奥术",
@@ -420,7 +407,6 @@
     "elements_gain": {
       "奥术": 2
     },
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "奥术",
@@ -440,7 +426,6 @@
     "tech_requirement": {
       "奥术": 5
     },
-    "cooldown": 0,
     "description": "弃置1张敌方装备。",
     "quote": "除你武器！",
     "source": "奥术",
@@ -457,7 +442,6 @@
     "subtype": "消耗品-咒术卷轴",
     "rarity": "普通",
     "mana_cost": 1,
-    "cooldown": 0,
     "description": "将1个友方单位移动至己方单位区1个空位。",
     "quote": "",
     "source": "奥术",
@@ -477,7 +461,6 @@
     "tech_requirement": {
       "奥术": 3
     },
-    "cooldown": 0,
     "description": "选择1个友方卡牌，移除其全部负面状态。",
     "quote": "",
     "source": "奥术",
@@ -497,7 +480,6 @@
     "tech_requirement": {
       "奥术": 3
     },
-    "cooldown": 0,
     "description": "抽2张牌，弃1张牌。",
     "quote": "",
     "source": "奥术",
@@ -514,8 +496,6 @@
     "subtype": "消耗品-反制",
     "rarity": "普通",
     "mana_cost": 1,
-    "activation_mana": 0,
-    "cooldown": 0,
     "description": "反制：敌方将要使用法术或攻击时，你获得护盾2。",
     "quote": "",
     "source": "奥术",
@@ -532,11 +512,9 @@
     "subtype": "消耗品-反制",
     "rarity": "普通",
     "mana_cost": 1,
-    "activation_mana": 0,
     "tech_requirement": {
       "奥术": 4
     },
-    "cooldown": 0,
     "description": "反制：1个友方单位将受到敌方造成的致命伤害时，使该次伤害变为0。",
     "quote": "",
     "source": "奥术",
@@ -619,7 +597,6 @@
     },
     "attack": 3,
     "life": 4,
-    "cooldown": 0,
     "description": "入场：查看卡组顶5张牌，你可以将其抽取或以任意顺序放回卡组顶部、底部，每抽取1张，对你的人物造成2点伤害",
     "quote": "\"接受真相,比真相本身更加残酷...\"",
     "source": "暗",
@@ -641,7 +618,6 @@
     },
     "attack": 5,
     "life": 9,
-    "cooldown": 0,
     "description": "诱发绝技：在你献祭或吞噬1个友方伙伴后，消灭法力范围内1个敌方伙伴",
     "quote": "\"你厌恶的事实,不过是万物轮回的流程\"",
     "source": "暗",
@@ -663,7 +639,6 @@
     },
     "attack": 1,
     "life": 2,
-    "cooldown": 0,
     "description": "遗言：抽1张牌。",
     "quote": "",
     "source": "暗",
@@ -685,7 +660,6 @@
     },
     "attack": 0,
     "life": 2,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "暗",
@@ -709,7 +683,6 @@
     },
     "attack": 1,
     "life": 2,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "暗",
@@ -728,7 +701,6 @@
     "mana_cost": 1,
     "attack": 1,
     "life": 2,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "暗",
@@ -750,7 +722,6 @@
     },
     "attack": 1,
     "life": 3,
-    "cooldown": 0,
     "description": "诱发：你为支付卡牌效果的费用而献祭此伙伴后，你的人物回复1点生命。",
     "quote": "不是不报,时候未到",
     "source": "暗",
@@ -772,7 +743,6 @@
     },
     "attack": 1,
     "life": 3,
-    "cooldown": 0,
     "description": "主动回合技1：支付1法力并横置此伙伴，献祭1个其他友方伙伴，抽2张牌。",
     "quote": "\"人人都在卖命,至少我这的价格是公平的\"",
     "source": "暗",
@@ -797,7 +767,6 @@
     },
     "attack": 3,
     "life": 6,
-    "cooldown": 0,
     "description": "吞噬：1个友方伙伴",
     "quote": "",
     "source": "暗",
@@ -822,7 +791,6 @@
     },
     "attack": 2,
     "life": 4,
-    "cooldown": 0,
     "description": "主动绝技：支付1法力并横置此伙伴，献祭1个其他友方伙伴，使你的人物回复4点生命。",
     "quote": "\"又到了献祭的时刻......\"",
     "source": "暗",
@@ -844,7 +812,6 @@
     },
     "attack": 3,
     "life": 6,
-    "cooldown": 0,
     "description": "入场：选择1张敌方已学习的法术技能，直到你的下个回合开始，其攻击力-1，最低为0。",
     "quote": "",
     "source": "暗",
@@ -866,7 +833,6 @@
     },
     "attack": 5,
     "life": 3,
-    "cooldown": 0,
     "description": "诱发：每当1个友方伙伴死亡后，此伙伴获得+1\\血。",
     "quote": "",
     "source": "暗",
@@ -891,7 +857,6 @@
     },
     "attack": 1,
     "life": 3,
-    "cooldown": 0,
     "description": "诱发回合技1：你献祭另1个友方伙伴后，可以检索1张入场法力费用不超过3的造物或恶魔牌。",
     "quote": "",
     "source": "暗",
@@ -913,7 +878,6 @@
     },
     "attack": 1,
     "life": 2,
-    "cooldown": 0,
     "description": "遗言：重新召唤此卡，无需支付\\法，然后失去此遗言。",
     "quote": "",
     "source": "暗",
@@ -935,7 +899,6 @@
     },
     "attack": 2,
     "life": 3,
-    "cooldown": 0,
     "description": "远程。",
     "quote": "不要去问枭鸟为谁鸣",
     "source": "暗",
@@ -957,7 +920,6 @@
     },
     "attack": 2,
     "life": 3,
-    "cooldown": 0,
     "description": "遗言：对敌方人物造成1点暗属性效果伤害。",
     "quote": "",
     "source": "暗",
@@ -982,7 +944,6 @@
     },
     "attack": 0,
     "life": 3,
-    "cooldown": 0,
     "description": "召唤此伙伴的额外费用：支付2点人物生命。",
     "quote": "",
     "source": "暗",
@@ -1006,7 +967,6 @@
     },
     "attack": 5,
     "life": 11,
-    "cooldown": 0,
     "description": "免疫法术攻击伤害。吞噬：包含3\\暗负载的卡牌",
     "quote": "",
     "source": "暗",
@@ -1028,7 +988,6 @@
     },
     "attack": 7,
     "life": 12,
-    "cooldown": 0,
     "description": "召唤此伙伴的额外费用：支付3点人物生命。",
     "quote": "",
     "source": "暗",
@@ -1052,7 +1011,6 @@
     },
     "attack": 1,
     "life": 4,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "暗",
@@ -1086,7 +1044,6 @@
     "name": "咒言师 结影",
     "category": "暗",
     "subtype": "",
-    "activation_mana": 1,
     "elements_gain": {
       "暗": 2
     },
@@ -1126,7 +1083,6 @@
     "name": "血契领主 赛德",
     "category": "暗",
     "subtype": "",
-    "activation_mana": 0,
     "elements_gain": {
       "暗": 2
     },
@@ -1426,11 +1382,9 @@
     "subtype": "消耗品-反制",
     "rarity": "普通",
     "mana_cost": 1,
-    "activation_mana": 0,
     "tech_requirement": {
       "暗": 2
     },
-    "cooldown": 0,
     "description": "反制：敌方伙伴入场后，对其造成2点暗属性效果伤害。",
     "quote": "",
     "source": "暗",
@@ -1447,11 +1401,9 @@
     "subtype": "消耗品-反制-符文",
     "rarity": "普通",
     "mana_cost": 1,
-    "activation_mana": 0,
     "tech_requirement": {
       "暗": 2
     },
-    "cooldown": 0,
     "description": "反制：1个友方伙伴死亡后，抽2张牌。",
     "quote": "",
     "source": "暗",
@@ -1735,7 +1687,6 @@
     },
     "attack": 3,
     "life": 9,
-    "cooldown": 0,
     "description": "入场：检索1张地属性技能牌。",
     "quote": "\"我亲爱的孩子,只要问我,我便会答复,有关生命,平衡,以及大地\"",
     "source": "地",
@@ -1757,7 +1708,6 @@
     },
     "attack": 7,
     "life": 13,
-    "cooldown": 0,
     "description": "入场：你可以从手牌召唤1个入场法力费用不超过3的地属性伙伴，无需支付其入场法力，仍须满足其负载条件。",
     "quote": "\"该死的杂种...不好,怎么还有这么多\"",
     "source": "地",
@@ -1782,7 +1732,6 @@
     },
     "attack": 1,
     "life": 4,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "地",
@@ -1804,7 +1753,6 @@
     },
     "attack": 3,
     "life": 4,
-    "cooldown": 0,
     "description": "",
     "quote": "了解自然,亲近自然,融入自然",
     "source": "地",
@@ -1829,7 +1777,6 @@
     },
     "attack": 0,
     "life": 2,
-    "cooldown": 0,
     "description": "精通4：获得+2\\血。精通6：获得+2\\攻。精通8：获得+1\\地负载。",
     "quote": "每一棵小树,都是未来树林的支柱",
     "source": "地",
@@ -1851,7 +1798,6 @@
     },
     "attack": 1,
     "life": 4,
-    "cooldown": 0,
     "description": "精通4,6：获得+1\\血+1\\攻",
     "quote": "",
     "source": "地",
@@ -1876,7 +1822,6 @@
     },
     "attack": 1,
     "life": 4,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "地",
@@ -1898,7 +1843,6 @@
     },
     "attack": 1,
     "life": 4,
-    "cooldown": 0,
     "description": "入场：使1个无视范围的敌方伙伴获得石化2",
     "quote": "",
     "source": "地",
@@ -1923,7 +1867,6 @@
     },
     "attack": 0,
     "life": 1,
-    "cooldown": 0,
     "description": "主动绝技：支付1\\法并横置此伙伴，使1个其他友方地属性伙伴获得1\\地负载。",
     "quote": "",
     "source": "地",
@@ -1945,7 +1888,6 @@
     },
     "attack": 2,
     "life": 4,
-    "cooldown": 0,
     "description": "入场：抽2张牌。",
     "quote": "",
     "source": "地",
@@ -1970,7 +1912,6 @@
     },
     "attack": 1,
     "life": 3,
-    "cooldown": 0,
     "description": "精通5：抽1张牌",
     "quote": "",
     "source": "地",
@@ -1992,7 +1933,6 @@
     },
     "attack": 1,
     "life": 6,
-    "cooldown": 0,
     "description": "此卡受到攻击时，此卡造成的伤害+2",
     "quote": "",
     "source": "地",
@@ -2014,7 +1954,6 @@
     },
     "attack": 3,
     "life": 7,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "地",
@@ -2039,7 +1978,6 @@
     },
     "attack": 2,
     "life": 5,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "地",
@@ -2064,7 +2002,6 @@
     },
     "attack": 10,
     "life": 16,
-    "cooldown": 0,
     "description": "光环：受到的所有伤害减少1点。此卡攻击会对相邻单位也造成伤害",
     "quote": "",
     "source": "地",
@@ -2086,7 +2023,6 @@
     },
     "attack": 3,
     "life": 6,
-    "cooldown": 0,
     "description": "入场：你获得2点护盾。",
     "quote": "",
     "source": "地",
@@ -2108,7 +2044,6 @@
     },
     "attack": 5,
     "life": 9,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "地",
@@ -2133,7 +2068,6 @@
     },
     "attack": 4,
     "life": 10,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "地",
@@ -2158,7 +2092,6 @@
     },
     "attack": 5,
     "life": 13,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "地",
@@ -2180,7 +2113,6 @@
     },
     "attack": 3,
     "life": 6,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "地",
@@ -2195,7 +2127,6 @@
     "name": "大法师 安德鲁",
     "category": "地",
     "subtype": "",
-    "activation_mana": 1,
     "elements_gain": {
       "地": 2
     },
@@ -2284,7 +2215,6 @@
     "elements_gain": {
       "地": 1
     },
-    "cooldown": 0,
     "description": "光环：如果你有至少5点\\地负载，将你的法力上限提升1",
     "quote": "在这参天的身躯之下潜藏的意志究竟是什么或许只是知识本身",
     "source": "地",
@@ -2304,7 +2234,6 @@
     "tech_requirement": {
       "地": 2
     },
-    "cooldown": 0,
     "description": "使1个地脉伙伴获得1\\地负载和+1\\血",
     "quote": "",
     "source": "地",
@@ -2327,7 +2256,6 @@
     "elements_gain": {
       "地": 1
     },
-    "cooldown": 0,
     "description": "入场：使1个友方地属性单位获得+1\\血",
     "quote": "",
     "source": "地",
@@ -2350,7 +2278,6 @@
     "elements_gain": {
       "地": 1
     },
-    "cooldown": 0,
     "description": "入场：你的人物获得+2\\血",
     "quote": "",
     "source": "地",
@@ -2373,7 +2300,6 @@
     "elements_gain": {
       "地": 1
     },
-    "cooldown": 0,
     "description": "入场：抽1张牌",
     "quote": "",
     "source": "地",
@@ -2396,7 +2322,6 @@
     "elements_gain": {
       "地": 1
     },
-    "cooldown": 0,
     "description": "光环：你的负载条件大于5的地脉卡牌入场法力值消耗-1",
     "quote": "",
     "source": "地",
@@ -2419,7 +2344,6 @@
     "elements_gain": {
       "地": 2
     },
-    "cooldown": 0,
     "description": "诱发：你召唤地脉属性伙伴时，使其+1\\血",
     "quote": "",
     "source": "地",
@@ -2439,7 +2363,6 @@
     "elements_gain": {
       "地": 1
     },
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "地",
@@ -2460,7 +2383,6 @@
       "地": 1
     },
     "attack": 2,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "地",
@@ -2481,7 +2403,6 @@
       "地": 4
     },
     "attack": 2,
-    "cooldown": 0,
     "description": "范围：方阵。",
     "quote": "",
     "source": "地",
@@ -2501,7 +2422,6 @@
     "tech_requirement": {
       "地": 1
     },
-    "cooldown": 0,
     "description": "使1个无视范围的敌方伙伴获得石化2。",
     "quote": "",
     "source": "地",
@@ -2521,7 +2441,6 @@
     "tech_requirement": {
       "地": 1
     },
-    "cooldown": 0,
     "description": "使1个友方地属性伙伴永久增加2点生命上限并回复2点生命。",
     "quote": "",
     "source": "地",
@@ -2541,7 +2460,6 @@
     "tech_requirement": {
       "地": 2
     },
-    "cooldown": 0,
     "description": "选择1个印刷地负载至少为1的友方伙伴，使其在本次在场期间额外提供地1，并永久增加1点生命上限及回复1点生命。",
     "quote": "\"我重申一遍,考试期间禁止向那棵老树提问!\"——大德鲁伊烟尘",
     "source": "地",
@@ -2562,7 +2480,6 @@
       "地": 5
     },
     "attack": 4,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "地",
@@ -2578,11 +2495,9 @@
     "subtype": "消耗品-反制-符文",
     "rarity": "普通",
     "mana_cost": 1,
-    "activation_mana": 0,
     "tech_requirement": {
       "地": 2
     },
-    "cooldown": 0,
     "description": "反制：1个友方单位将受到敌方伤害时，使该次伤害减少2，最低为0。",
     "quote": "",
     "source": "地",
@@ -2598,11 +2513,9 @@
     "subtype": "消耗品-咒术卷轴-幻变",
     "rarity": "普通",
     "mana_cost": 2,
-    "activation_mana": 0,
     "tech_requirement": {
       "地": 5
     },
-    "cooldown": 0,
     "description": "敌方下个回合不能使用负载条件5及以下的法术",
     "quote": "",
     "source": "地",
@@ -2861,7 +2774,6 @@
     },
     "attack": 5,
     "life": 10,
-    "cooldown": 0,
     "description": "吞噬：包含3点\\火负载的卡牌。绑定技能：火焰吐息。",
     "quote": "不可一世的巨龙，为了残存的火焰元素，向巫师们尽忠",
     "source": "火",
@@ -2883,7 +2795,6 @@
     },
     "attack": 3,
     "life": 4,
-    "cooldown": 0,
     "description": "光环：敌方单位受到的点燃伤害+1",
     "quote": "始于灰烬,终于灰烬",
     "source": "火",
@@ -2905,7 +2816,6 @@
     },
     "attack": 0,
     "life": 2,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "火",
@@ -2927,7 +2837,6 @@
     },
     "attack": 2,
     "life": 2,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "火",
@@ -2951,7 +2860,6 @@
     },
     "attack": 0,
     "life": 2,
-    "cooldown": 0,
     "description": "入场：抽1张牌。",
     "quote": "",
     "source": "火",
@@ -2973,7 +2881,6 @@
     },
     "attack": 1,
     "life": 2,
-    "cooldown": 0,
     "description": "速攻。",
     "quote": "",
     "source": "火",
@@ -2998,7 +2905,6 @@
     },
     "attack": 1,
     "life": 2,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "火",
@@ -3020,7 +2926,6 @@
     },
     "attack": 3,
     "life": 4,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "火",
@@ -3042,7 +2947,6 @@
     },
     "attack": 1,
     "life": 2,
-    "cooldown": 0,
     "description": "遗言：使法力范围内1个敌方单位获得点燃2。",
     "quote": "穿过如火荆棘，方见白洁花簇",
     "source": "火",
@@ -3067,7 +2971,6 @@
     },
     "attack": 2,
     "life": 3,
-    "cooldown": 0,
     "description": "入场：检索1张入场法力费用为4的火焰伙伴牌。",
     "quote": "每只赤鹰都想成为凤凰，前提是它们身上的羽毛还没有被猎人拔光",
     "source": "火",
@@ -3084,7 +2987,6 @@
     "subtype": "人类",
     "rarity": "普通",
     "mana_cost": 2,
-    "activation_mana": 0,
     "tech_requirement": {
       "火": 2
     },
@@ -3093,7 +2995,6 @@
     },
     "attack": 0,
     "life": 2,
-    "cooldown": 0,
     "description": "主动回合技1：使1个其他友方火焰单位本回合攻击力+1。",
     "quote": "",
     "source": "火",
@@ -3115,7 +3016,6 @@
     },
     "attack": 2,
     "life": 4,
-    "cooldown": 0,
     "description": "入场：你可以移除1个友方火焰单位的全部负面状态",
     "quote": "",
     "source": "火",
@@ -3137,7 +3037,6 @@
     },
     "attack": 4,
     "life": 6,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "火",
@@ -3159,7 +3058,6 @@
     },
     "attack": 2,
     "life": 2,
-    "cooldown": 0,
     "description": "远程。",
     "quote": "谁能拒绝将一切燃烧殆尽的快乐呢",
     "source": "火",
@@ -3184,7 +3082,6 @@
     },
     "attack": 0,
     "life": 3,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "火",
@@ -3206,7 +3103,6 @@
     },
     "attack": 2,
     "life": 7,
-    "cooldown": 0,
     "description": "诱发：此卡攻击造成伤害后，使目标单位获得点燃2。",
     "quote": "",
     "source": "火",
@@ -3231,7 +3127,6 @@
     },
     "attack": 1,
     "life": 4,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "火",
@@ -3253,7 +3148,6 @@
     },
     "attack": 3,
     "life": 4,
-    "cooldown": 0,
     "description": "速攻。",
     "quote": "",
     "source": "火",
@@ -3278,7 +3172,6 @@
     },
     "attack": 4,
     "life": 7,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "火",
@@ -3303,7 +3196,6 @@
     },
     "attack": 5,
     "life": 9,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "火",
@@ -3338,7 +3230,6 @@
     "name": "大祭司 梵天",
     "category": "火",
     "subtype": "",
-    "activation_mana": 1,
     "elements_gain": {
       "火": 2
     },
@@ -3359,7 +3250,6 @@
     "name": "首席顾问 费林",
     "category": "火",
     "subtype": "",
-    "activation_mana": 1,
     "elements_gain": {
       "火": 2
     },
@@ -3402,14 +3292,12 @@
     "subtype": "装备-神器",
     "rarity": "传奇",
     "mana_cost": 3,
-    "activation_mana": 0,
     "tech_requirement": {
       "火": 4
     },
     "elements_gain": {
       "火": 1
     },
-    "cooldown": 0,
     "description": "主动回合技1：献祭1张提供火焰负载的友方伙伴或装备，本回合友方卡牌造成的火焰伤害+1。",
     "quote": "辉煌死后，索拓尔使用它的心脏炼制了这件神器。只是没人看见火龙是怎么死的",
     "source": "火",
@@ -3432,7 +3320,6 @@
     "elements_gain": {
       "火": 1
     },
-    "cooldown": 0,
     "description": "入场：你获得1点护盾。",
     "quote": "",
     "source": "火",
@@ -3452,7 +3339,6 @@
     "elements_gain": {
       "火": 1
     },
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "火",
@@ -3475,7 +3361,6 @@
     "elements_gain": {
       "火": 1
     },
-    "cooldown": 0,
     "description": "主动绝技：支付1\\法，翻取1张火焰法术。",
     "quote": "",
     "source": "火",
@@ -3498,7 +3383,6 @@
     "elements_gain": {
       "火": 1
     },
-    "cooldown": 0,
     "description": "入场：使1个友方火焰单位在本次在场期间攻击力+1。",
     "quote": "想不到你还好这口",
     "source": "火",
@@ -3521,7 +3405,6 @@
     "elements_gain": {
       "火": 1
     },
-    "cooldown": 0,
     "description": "主动绝技：横置此装备，移除1个友方火焰单位的全部负面状态。",
     "quote": "",
     "source": "火",
@@ -3544,7 +3427,6 @@
     "elements_gain": {
       "火": 2
     },
-    "cooldown": 0,
     "description": "入场：你每有1点\\火负载，获得1点护盾",
     "quote": "",
     "source": "火",
@@ -3567,7 +3449,6 @@
     "elements_gain": {
       "火": 1
     },
-    "cooldown": 0,
     "description": "入场：抽2张牌。",
     "quote": "",
     "source": "火",
@@ -3588,7 +3469,6 @@
       "火": 1
     },
     "attack": 2,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "火",
@@ -3609,7 +3489,6 @@
       "火": 3
     },
     "attack": 2,
-    "cooldown": 0,
     "description": "穿透。",
     "quote": "",
     "source": "火",
@@ -3630,7 +3509,6 @@
       "火": 4
     },
     "attack": 2,
-    "cooldown": 0,
     "description": "范围：方阵。",
     "quote": "",
     "source": "火",
@@ -3651,7 +3529,6 @@
       "火": 4
     },
     "attack": 3,
-    "cooldown": 0,
     "description": "范围：纵列。",
     "quote": "",
     "source": "火",
@@ -3671,7 +3548,6 @@
     "tech_requirement": {
       "火": 4
     },
-    "cooldown": 0,
     "description": "使所有友方火焰单位本回合攻击力+1。",
     "quote": "",
     "source": "火",
@@ -3691,7 +3567,6 @@
     "tech_requirement": {
       "火": 1
     },
-    "cooldown": 0,
     "description": "你获得3点护盾。",
     "quote": "",
     "source": "火",
@@ -3708,11 +3583,9 @@
     "subtype": "消耗品-符文",
     "rarity": "普通",
     "mana_cost": 1,
-    "activation_mana": 0,
     "tech_requirement": {
       "火": 2
     },
-    "cooldown": 0,
     "description": "反制：敌方单位宣告普通攻击时，对该攻击者造成2点火焰效果伤害。",
     "quote": "",
     "source": "火",
@@ -3729,11 +3602,9 @@
     "subtype": "消耗品-符文",
     "rarity": "普通",
     "mana_cost": 1,
-    "activation_mana": 0,
     "tech_requirement": {
       "火": 4
     },
-    "cooldown": 0,
     "description": "反制：敌方伙伴入场后，使该伙伴获得点燃2和眩晕2。",
     "quote": "",
     "source": "火",
@@ -4034,7 +3905,6 @@
     },
     "attack": 6,
     "life": 12,
-    "cooldown": 0,
     "description": "入场：将1个前排敌方伙伴返回其拥有者手牌，然后抽2张牌。",
     "quote": "跨四境,御九霄",
     "source": "气",
@@ -4056,7 +3926,6 @@
     },
     "attack": 2,
     "life": 3,
-    "cooldown": 0,
     "description": "远程。诱发：此卡攻击后，如果击杀敌方单位则抽1张牌，否则此卡仍会受到目标攻击力的伤害",
     "quote": "匕首的价值,取决于它架在谁的脖子上",
     "source": "气",
@@ -4078,7 +3947,6 @@
     },
     "attack": 0,
     "life": 2,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "气",
@@ -4100,7 +3968,6 @@
     },
     "attack": 2,
     "life": 2,
-    "cooldown": 0,
     "description": "",
     "quote": "工蜂可能是一次性的,但是骑士不是",
     "source": "气",
@@ -4125,7 +3992,6 @@
     },
     "attack": 0,
     "life": 2,
-    "cooldown": 0,
     "description": "主动回合技1：支付1法力并横置此伙伴，抽1张牌。",
     "quote": "",
     "source": "气",
@@ -4147,7 +4013,6 @@
     },
     "attack": 1,
     "life": 1,
-    "cooldown": 0,
     "description": "遗言：抽1张牌。",
     "quote": "记得避开艾拉雅",
     "source": "气",
@@ -4169,7 +4034,6 @@
     },
     "attack": 1,
     "life": 2,
-    "cooldown": 0,
     "description": "入场：若此牌是你本回合抽到的牌，抽1张牌。",
     "quote": "",
     "source": "气",
@@ -4194,7 +4058,6 @@
     },
     "attack": 1,
     "life": 2,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "气",
@@ -4216,7 +4079,6 @@
     },
     "attack": 2,
     "life": 4,
-    "cooldown": 0,
     "description": "入场：使法力范围内1个敌方伙伴获得眩晕1。",
     "quote": "",
     "source": "气",
@@ -4241,7 +4103,6 @@
     },
     "attack": 1,
     "life": 3,
-    "cooldown": 0,
     "description": "入场：抽1张牌，然后弃1张手牌。",
     "quote": "",
     "source": "气",
@@ -4263,7 +4124,6 @@
     },
     "attack": 1,
     "life": 3,
-    "cooldown": 0,
     "description": "入场：若你的手牌不超过2张，抽2张牌。",
     "quote": "",
     "source": "气",
@@ -4280,7 +4140,6 @@
     "subtype": "巫师",
     "rarity": "普通",
     "mana_cost": 2,
-    "activation_mana": 1,
     "tech_requirement": {
       "气": 2
     },
@@ -4289,7 +4148,6 @@
     },
     "attack": 1,
     "life": 4,
-    "cooldown": 0,
     "description": "主动回合技1：支付1法力并横置此伙伴，将1个其他友方伙伴移动至己方单位区1个空位。",
     "quote": "",
     "source": "气",
@@ -4311,7 +4169,6 @@
     },
     "attack": 2,
     "life": 3,
-    "cooldown": 0,
     "description": "远程。",
     "quote": "",
     "source": "气",
@@ -4333,7 +4190,6 @@
     },
     "attack": 2,
     "life": 4,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "气",
@@ -4355,7 +4211,6 @@
     },
     "attack": 3,
     "life": 5,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "气",
@@ -4377,7 +4232,6 @@
     },
     "attack": 4,
     "life": 6,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "气",
@@ -4402,7 +4256,6 @@
     },
     "attack": 2,
     "life": 5,
-    "cooldown": 0,
     "description": "诱发回合技1：己方回合，你首次施放气属性技能结算后，抽1张牌。",
     "quote": "",
     "source": "气",
@@ -4424,7 +4277,6 @@
     },
     "attack": 4,
     "life": 8,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "气",
@@ -4449,7 +4301,6 @@
     },
     "attack": 3,
     "life": 8,
-    "cooldown": 0,
     "description": "诱发回合技1：己方回合，你本回合第一次施放气属性法术时，该法术本次攻击力+1。",
     "quote": "",
     "source": "气",
@@ -4471,7 +4322,6 @@
     },
     "attack": 5,
     "life": 10,
-    "cooldown": 0,
     "description": "入场：抽1张牌。",
     "quote": "",
     "source": "气",
@@ -4526,7 +4376,6 @@
     "name": "掌门 穆伶",
     "category": "气",
     "subtype": "",
-    "activation_mana": 1,
     "elements_gain": {
       "气": 2
     },
@@ -4547,7 +4396,6 @@
     "name": "舞女 特拉奇",
     "category": "气",
     "subtype": "",
-    "activation_mana": 1,
     "elements_gain": {
       "气": 2
     },
@@ -4576,7 +4424,6 @@
     "elements_gain": {
       "气": 1
     },
-    "cooldown": 0,
     "description": "光环：你的大气卡牌入场法力费用减少1\\法，最低为0。",
     "quote": "四境雷动,不过弹指之间",
     "source": "气",
@@ -4599,7 +4446,6 @@
     "elements_gain": {
       "气": 1
     },
-    "cooldown": 0,
     "description": "光环：在你抽牌超过2张的回合，此卡获得负载+1\\气",
     "quote": "",
     "source": "气",
@@ -4619,7 +4465,6 @@
     "elements_gain": {
       "气": 1
     },
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "气",
@@ -4642,7 +4487,6 @@
     "elements_gain": {
       "气": 1
     },
-    "cooldown": 0,
     "description": "入场：抽1张牌。",
     "quote": "",
     "source": "气",
@@ -4659,14 +4503,12 @@
     "subtype": "装备-防具",
     "rarity": "普通",
     "mana_cost": 2,
-    "activation_mana": 0,
     "tech_requirement": {
       "气": 2
     },
     "elements_gain": {
       "气": 1
     },
-    "cooldown": 0,
     "description": "主动绝技：横置此装备，将1个友方单位移动至己方单位区1个空位。",
     "quote": "",
     "source": "气",
@@ -4683,14 +4525,12 @@
     "subtype": "装备-武器",
     "rarity": "普通",
     "mana_cost": 2,
-    "activation_mana": 0,
     "tech_requirement": {
       "气": 2
     },
     "elements_gain": {
       "气": 1
     },
-    "cooldown": 0,
     "description": "主动回合技1：横置此装备，使1个友方气属性伙伴本回合攻击力+1。",
     "quote": "",
     "source": "气",
@@ -4707,14 +4547,12 @@
     "subtype": "装备",
     "rarity": "普通",
     "mana_cost": 3,
-    "activation_mana": 0,
     "tech_requirement": {
       "气": 2
     },
     "elements_gain": {
       "气": 1
     },
-    "cooldown": 0,
     "description": "入场：放置2个墨水标记。主动回合技1：横置此装备并移除1个墨水标记，抽1张牌。",
     "quote": "",
     "source": "气",
@@ -4737,7 +4575,6 @@
     "elements_gain": {
       "气": 2
     },
-    "cooldown": 0,
     "description": "入场：抽1张牌，然后弃1张手牌。",
     "quote": "",
     "source": "气",
@@ -4757,7 +4594,6 @@
       "气": 3
     },
     "attack": 1,
-    "cooldown": 0,
     "description": "抽1张牌。",
     "quote": "当局已经控制了利普兹学院体育馆400人触电事件的肇事学生霍尔顿·弗雷,警方认为证据确凿:他是唯一一个上体育课换上橡胶手套和雨靴的学生.",
     "source": "气",
@@ -4777,7 +4613,6 @@
     "tech_requirement": {
       "气": 2
     },
-    "cooldown": 0,
     "description": "抽2张牌。",
     "quote": "",
     "source": "气",
@@ -4798,7 +4633,6 @@
       "气": 5
     },
     "attack": 2,
-    "cooldown": 0,
     "description": "范围：方阵。命中后：目标获得眩晕1。",
     "quote": "",
     "source": "气",
@@ -4818,7 +4652,6 @@
     "tech_requirement": {
       "气": 3
     },
-    "cooldown": 0,
     "description": "弃置1张入场法力费用不超过2的敌方装备。",
     "quote": "",
     "source": "气",
@@ -4838,7 +4671,6 @@
     "tech_requirement": {
       "气": 4
     },
-    "cooldown": 0,
     "description": "重新排列你场上的单位",
     "quote": "",
     "source": "气",
@@ -4859,7 +4691,6 @@
       "气": 4
     },
     "attack": 3,
-    "cooldown": 0,
     "description": "穿透。",
     "quote": "",
     "source": "气",
@@ -4876,11 +4707,9 @@
     "subtype": "消耗品-反制-符文",
     "rarity": "普通",
     "mana_cost": 1,
-    "activation_mana": 0,
     "tech_requirement": {
       "气": 2
     },
-    "cooldown": 0,
     "description": "反制：敌方伙伴宣告普通攻击时，使该伙伴获得眩晕2；抽1张牌。本次攻击照常结算。",
     "quote": "",
     "source": "气",
@@ -4897,11 +4726,9 @@
     "subtype": "消耗品-反制",
     "rarity": "普通",
     "mana_cost": 1,
-    "activation_mana": 0,
     "tech_requirement": {
       "气": 4
     },
-    "cooldown": 0,
     "description": "反制：敌方对1个友方伙伴宣告非范围法术时，将该伙伴返回你的手牌；该法术不再对该目标结算。",
     "quote": "",
     "source": "气",
@@ -5165,7 +4992,6 @@
     },
     "attack": 2,
     "life": 6,
-    "cooldown": 0,
     "description": "入场：可以检索1张光属性反制牌。诱发回合技1：你的反制牌结算后，使1个友方伙伴回复2点生命。",
     "quote": "既为巫师,承天命,领人事,广布恩泽,守一方之序,岂有为祸纷乱之理",
     "source": "光",
@@ -5190,7 +5016,6 @@
     },
     "attack": 6,
     "life": 12,
-    "cooldown": 0,
     "description": "入场：所有友方单位各回复4点生命。光环：其他友方伙伴受到敌方法术攻击力造成的伤害减少2，最低为0。",
     "quote": "希望之名,慈悲之怀",
     "source": "光",
@@ -5212,7 +5037,6 @@
     },
     "attack": 0,
     "life": 2,
-    "cooldown": 0,
     "description": "",
     "quote": "具体待遇还得看你侍奉哪个神",
     "source": "光",
@@ -5234,7 +5058,6 @@
     },
     "attack": 1,
     "life": 3,
-    "cooldown": 0,
     "description": "",
     "quote": "被巫师学徒们戏称为\"澡堂门卫\"",
     "source": "光",
@@ -5259,7 +5082,6 @@
     },
     "attack": 0,
     "life": 3,
-    "cooldown": 0,
     "description": "入场：使1个其他友方单位回复2点生命。",
     "quote": "",
     "source": "光",
@@ -5276,13 +5098,11 @@
     "subtype": "巫师",
     "rarity": "普通",
     "mana_cost": 2,
-    "activation_mana": 1,
     "tech_requirement": {
       "光": 2
     },
     "attack": 1,
     "life": 3,
-    "cooldown": 0,
     "description": "主动回合技1：支付1法力并横置此伙伴，使1个友方单位回复2点生命。",
     "quote": "",
     "source": "光",
@@ -5307,7 +5127,6 @@
     },
     "attack": 1,
     "life": 2,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "光",
@@ -5329,7 +5148,6 @@
     },
     "attack": 1,
     "life": 5,
-    "cooldown": 0,
     "description": "此伙伴不会获得负面状态。",
     "quote": "",
     "source": "光",
@@ -5354,7 +5172,6 @@
     },
     "attack": 3,
     "life": 8,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "光",
@@ -5376,7 +5193,6 @@
     },
     "attack": 2,
     "life": 3,
-    "cooldown": 0,
     "description": "入场：可以检索1张独角天马。",
     "quote": "",
     "source": "光",
@@ -5398,7 +5214,6 @@
     },
     "attack": 3,
     "life": 6,
-    "cooldown": 0,
     "description": "入场：使1个友方单位回复2点生命。",
     "quote": "",
     "source": "光",
@@ -5415,7 +5230,6 @@
     "subtype": "巫师",
     "rarity": "普通",
     "mana_cost": 3,
-    "activation_mana": 1,
     "tech_requirement": {
       "光": 4
     },
@@ -5424,7 +5238,6 @@
     },
     "attack": 2,
     "life": 5,
-    "cooldown": 0,
     "description": "主动绝技：支付1法力并横置此伙伴，移除1张你已学习的光属性技能的全部负面状态。",
     "quote": "",
     "source": "光",
@@ -5446,7 +5259,6 @@
     },
     "attack": 4,
     "life": 6,
-    "cooldown": 0,
     "description": "诱发回合技1：己方回合，你的光属性法术造成伤害后，使1个友方单位回复2点生命。",
     "quote": "",
     "source": "光",
@@ -5468,7 +5280,6 @@
     },
     "attack": 2,
     "life": 5,
-    "cooldown": 0,
     "description": "诱发回合技1：此伙伴实际回复生命后，本回合攻击力+1。",
     "quote": "",
     "source": "光",
@@ -5487,7 +5298,6 @@
     "mana_cost": 1,
     "attack": 1,
     "life": 2,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "光",
@@ -5511,7 +5321,6 @@
     },
     "attack": 1,
     "life": 4,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "光",
@@ -5535,7 +5344,6 @@
     },
     "attack": 0,
     "life": 4,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "光",
@@ -5556,7 +5364,6 @@
     },
     "attack": 5,
     "life": 10,
-    "cooldown": 0,
     "description": "入场：使1个其他友方伙伴回复3点生命。",
     "quote": "",
     "source": "光",
@@ -5577,7 +5384,6 @@
     },
     "attack": 5,
     "life": 12,
-    "cooldown": 0,
     "description": "入场：抽2张牌。",
     "quote": "",
     "source": "光",
@@ -5599,7 +5405,6 @@
     },
     "attack": 1,
     "life": 4,
-    "cooldown": 0,
     "description": "入场：可以检索1张光属性反制牌。",
     "quote": "",
     "source": "光",
@@ -6263,7 +6068,6 @@
     },
     "attack": 2,
     "life": 5,
-    "cooldown": 0,
     "description": "入场：可以检索1张水纹卡牌。",
     "quote": "合上眼睛，她回忆起曾经的海浪，礁石...以及她信任的那位王子",
     "source": "水",
@@ -6285,7 +6089,6 @@
     },
     "attack": 6,
     "life": 14,
-    "cooldown": 0,
     "description": "主动回合技：消灭1个法力范围内的敌方伙伴。",
     "quote": "\"只有一人能从巨口中存活，他便是那怪物命中注定的斩杀者\"",
     "source": "水",
@@ -6307,7 +6110,6 @@
     },
     "attack": 0,
     "life": 2,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6325,7 +6127,6 @@
     "mana_cost": 1,
     "attack": 1,
     "life": 3,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6346,7 +6147,6 @@
     },
     "attack": 1,
     "life": 4,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6370,7 +6170,6 @@
     },
     "attack": 1,
     "life": 2,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6392,7 +6191,6 @@
     },
     "attack": 1,
     "life": 2,
-    "cooldown": 0,
     "description": "诱发：当另1个友方单位将受到伤害时，你可以献祭此伙伴，使该次伤害变为0。",
     "quote": "",
     "source": "水",
@@ -6414,7 +6212,6 @@
     },
     "attack": 2,
     "life": 4,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6436,7 +6233,6 @@
     },
     "attack": 1,
     "life": 4,
-    "cooldown": 0,
     "description": "入场：使法力范围内1个敌方伙伴获得冻结1。",
     "quote": "",
     "source": "水",
@@ -6458,7 +6254,6 @@
     },
     "attack": 1,
     "life": 3,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6480,7 +6275,6 @@
     },
     "attack": 2,
     "life": 3,
-    "cooldown": 0,
     "description": "远程",
     "quote": "",
     "source": "水",
@@ -6505,7 +6299,6 @@
     },
     "attack": 1,
     "life": 4,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6529,7 +6322,6 @@
     },
     "attack": 2,
     "life": 6,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6554,7 +6346,6 @@
     },
     "attack": 2,
     "life": 5,
-    "cooldown": 0,
     "description": "入场：你获得2点护盾。",
     "quote": "",
     "source": "水",
@@ -6576,7 +6367,6 @@
     },
     "attack": 1,
     "life": 6,
-    "cooldown": 0,
     "description": "诱发回合技1：此伙伴受到其他单位的攻击伤害后，使该伤害来源获得冻结1。",
     "quote": "",
     "source": "水",
@@ -6601,7 +6391,6 @@
     },
     "attack": 2,
     "life": 5,
-    "cooldown": 0,
     "description": "主动回合技：使你的1个水纹法术本回合获得+1\\攻",
     "quote": "",
     "source": "水",
@@ -6623,7 +6412,6 @@
     },
     "attack": 2,
     "life": 5,
-    "cooldown": 0,
     "description": "主动回合技1：支付1点\\法，查看你的牌库顶3张牌，将其中1张加入手牌，其余放回牌库，然后洗切牌库。",
     "quote": "群屿大陆绝不会停止的两件事：战争和贸易",
     "source": "水",
@@ -6648,7 +6436,6 @@
     },
     "attack": 4,
     "life": 9,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6670,7 +6457,6 @@
     },
     "attack": 5,
     "life": 10,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6692,7 +6478,6 @@
     },
     "attack": 6,
     "life": 13,
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6767,7 +6552,6 @@
     "name": "海神之使 珊瑚 贝莉",
     "category": "水",
     "subtype": "",
-    "activation_mana": 1,
     "elements_gain": {
       "水": 2
     },
@@ -6796,7 +6580,6 @@
     "elements_gain": {
       "水": 1
     },
-    "cooldown": 0,
     "description": "主动绝技：支付2点法力并将此装备移出游戏，从你的弃牌堆选择1张满足负载条件的伙伴牌，将其召唤到你的场上，无需支付其入场花费。",
     "quote": "巴特尔从沙滩上惊醒，身旁的泡沫顷刻间被浪花融化",
     "source": "水",
@@ -6819,7 +6602,6 @@
     "elements_gain": {
       "水": 1
     },
-    "cooldown": 0,
     "description": "入场：使1个敌方单位冻结1",
     "quote": "",
     "source": "水",
@@ -6839,7 +6621,6 @@
     "elements_gain": {
       "水": 1
     },
-    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6861,7 +6642,6 @@
     "elements_gain": {
       "水": 2
     },
-    "cooldown": 0,
     "description": "主动回合技：为1个友方单位回复1点\\血",
     "quote": "",
     "source": "水",
@@ -6884,7 +6664,6 @@
     "elements_gain": {
       "水": 1
     },
-    "cooldown": 0,
     "description": "入场：获得护盾1",
     "quote": "",
     "source": "水",
@@ -6907,7 +6686,6 @@
     "elements_gain": {
       "水": 1
     },
-    "cooldown": 0,
     "description": "入场：检索1张水纹属性法术牌。光环：你的技能槽+1",
     "quote": "",
     "source": "水",
@@ -6930,7 +6708,6 @@
     "elements_gain": {
       "水": 1
     },
-    "cooldown": 0,
     "description": "主动回合技1：选择1个你已学习的水纹法术，使其本回合攻击力+1。",
     "quote": "",
     "source": "水",
@@ -6951,7 +6728,6 @@
       "水": 2
     },
     "attack": 1,
-    "cooldown": 0,
     "description": "使目标虚弱2。",
     "quote": "",
     "source": "水",
@@ -6972,7 +6748,6 @@
       "水": 4
     },
     "attack": 3,
-    "cooldown": 0,
     "description": "范围：溅射。",
     "quote": "",
     "source": "水",
@@ -6992,7 +6767,6 @@
     "tech_requirement": {
       "水": 2
     },
-    "cooldown": 0,
     "description": "使所有友方单位各回复2点生命。",
     "quote": "",
     "source": "水",
@@ -7012,7 +6786,6 @@
     "tech_requirement": {
       "水": 1
     },
-    "cooldown": 0,
     "description": "你获得3点护盾。",
     "quote": "",
     "source": "水",
@@ -7032,7 +6805,6 @@
     "tech_requirement": {
       "水": 4
     },
-    "cooldown": 0,
     "description": "使法力范围所有敌方单位获得冻结1。",
     "quote": "",
     "source": "水",
@@ -7052,7 +6824,6 @@
     "tech_requirement": {
       "水": 5
     },
-    "cooldown": 0,
     "description": "重置你的1个水纹属性技能，如果其处于冷却状态，改为减少1层冷却",
     "quote": "",
     "source": "水",
@@ -7072,7 +6843,6 @@
     "tech_requirement": {
       "水": 2
     },
-    "cooldown": 0,
     "description": "反制：敌方单位宣告普通攻击时，使该攻击者获得冻结2。",
     "quote": "",
     "source": "水",
@@ -7092,7 +6862,6 @@
     "tech_requirement": {
       "水": 4
     },
-    "cooldown": 0,
     "description": "反制：敌方使用法术时，使该法术本次攻击力变为0。",
     "quote": "",
     "source": "水",
