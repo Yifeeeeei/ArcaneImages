@@ -11,13 +11,13 @@
     "mana_cost": 4,
     "tech_requirement": {
       "地": 1,
-      "奥术": 4,
+      "奥术": 6,
       "气": 1,
       "水": 1,
       "火": 1
     },
-    "attack": 4,
-    "life": 12,
+    "attack": 3,
+    "life": 8,
     "description": "免疫法术攻击伤害。绑定技能:破灭魔光",
     "quote": "吾即是始源,吾即是终焉,不生不灭,万法归一",
     "source": "奥术",
@@ -35,7 +35,7 @@
     "rarity": "传奇",
     "mana_cost": 4,
     "tech_requirement": {
-      "奥术": 7
+      "奥术": 9
     },
     "attack": 1,
     "life": 5,
@@ -56,7 +56,7 @@
     "rarity": "普通",
     "mana_cost": 1,
     "attack": 1,
-    "life": 2,
+    "life": 3,
     "description": "",
     "quote": "",
     "source": "奥术",
@@ -76,7 +76,7 @@
       "奥术": 1
     },
     "attack": 0,
-    "life": 1,
+    "life": 2,
     "description": "",
     "quote": "",
     "source": "奥术",
@@ -115,7 +115,7 @@
       "奥术": 3
     },
     "attack": 3,
-    "life": 5,
+    "life": 4,
     "description": "",
     "quote": "",
     "source": "奥术",
@@ -136,7 +136,7 @@
       "奥术": 3
     },
     "attack": 1,
-    "life": 2,
+    "life": 4,
     "description": "入场：弃1张手牌，检索1张卷轴或符文道具。",
     "quote": "",
     "source": "奥术",
@@ -154,7 +154,7 @@
     "rarity": "普通",
     "mana_cost": 2,
     "tech_requirement": {
-      "奥术": 4
+      "奥术": 2
     },
     "elements_gain": {
       "奥术": 1
@@ -178,10 +178,10 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "奥术": 5
+      "奥术": 7
     },
     "attack": 4,
-    "life": 8,
+    "life": 7,
     "description": "",
     "quote": "",
     "source": "奥术",
@@ -279,7 +279,7 @@
     "rarity": "传奇",
     "mana_cost": 4,
     "tech_requirement": {
-      "奥术": 5
+      "奥术": 6
     },
     "elements_gain": {
       "奥术": 1
@@ -301,7 +301,7 @@
     "rarity": "传奇",
     "mana_cost": 3,
     "tech_requirement": {
-      "奥术": 4
+      "奥术": 6
     },
     "elements_gain": {
       "奥术": 1
@@ -364,7 +364,7 @@
     "rarity": "普通",
     "mana_cost": 2,
     "tech_requirement": {
-      "奥术": 5
+      "奥术": 6
     },
     "description": "光环：你的技能槽数量+1。",
     "quote": "",
@@ -421,7 +421,7 @@
     "rarity": "普通",
     "mana_cost": 2,
     "tech_requirement": {
-      "奥术": 5
+      "奥术": 6
     },
     "description": "弃置1张敌方装备。",
     "quote": "除你武器！",
@@ -608,10 +608,10 @@
     "rarity": "传奇",
     "mana_cost": 4,
     "tech_requirement": {
-      "暗": 6
+      "暗": 8
     },
     "attack": 4,
-    "life": 8,
+    "life": 6,
     "description": "诱发绝技：在你献祭或吞噬1个友方伙伴后，消灭法力范围内1个敌方伙伴",
     "quote": "\"你厌恶的事实,不过是万物轮回的流程\"",
     "source": "暗",
@@ -694,7 +694,7 @@
     "rarity": "普通",
     "mana_cost": 1,
     "attack": 1,
-    "life": 2,
+    "life": 3,
     "description": "",
     "quote": "",
     "source": "暗",
@@ -715,7 +715,7 @@
       "暗": 2
     },
     "attack": 1,
-    "life": 3,
+    "life": 4,
     "description": "",
     "quote": "不是不报,时候未到",
     "source": "暗",
@@ -828,7 +828,7 @@
     "tech_requirement": {
       "暗": 4
     },
-    "attack": 5,
+    "attack": 4,
     "life": 3,
     "description": "诱发：每当1个友方伙伴死亡后，此伙伴获得+1\\血。",
     "quote": "",
@@ -937,7 +937,7 @@
       "暗": 2
     },
     "attack": 0,
-    "life": 2,
+    "life": 3,
     "description": "召唤此伙伴的额外费用：支付2点人物生命。",
     "quote": "",
     "source": "暗",
@@ -954,13 +954,13 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "暗": 6
+      "暗": 8
     },
     "elements_gain": {
       "暗": 3
     },
     "attack": 5,
-    "life": 8,
+    "life": 7,
     "description": "免疫法术攻击伤害。吞噬：包含3\\暗负载的卡牌",
     "quote": "",
     "source": "暗",
@@ -978,10 +978,10 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "暗": 8
+      "暗": 10
     },
-    "attack": 5,
-    "life": 9,
+    "attack": 4,
+    "life": 7,
     "description": "无论此卡在何处，你的弃牌堆每有3张伙伴牌，此卡的负载需求-1\\暗",
     "quote": "",
     "source": "暗",
@@ -1097,7 +1097,7 @@
     "category": "暗",
     "subtype": "装备-神器",
     "rarity": "传奇",
-    "mana_cost": 1,
+    "mana_cost": 2,
     "tech_requirement": {
       "暗": 2
     },
@@ -1457,13 +1457,13 @@
     "category": "暗",
     "subtype": "法术-驱动",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "activation_mana": 1,
     "tech_requirement": {
-      "暗": 5
+      "暗": 6
     },
     "attack": 3,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "范围：前排。",
     "quote": "",
     "source": "暗",
@@ -1504,9 +1504,9 @@
     "mana_cost": 2,
     "activation_mana": 0,
     "tech_requirement": {
-      "暗": 6
+      "暗": 8
     },
-    "attack": 4,
+    "attack": 5,
     "cooldown": 0,
     "description": "",
     "quote": "",
@@ -1607,10 +1607,10 @@
     "category": "暗",
     "subtype": "法术-聚能",
     "rarity": "普通",
-    "mana_cost": 3,
-    "activation_mana": 1,
+    "mana_cost": 2,
+    "activation_mana": 0,
     "tech_requirement": {
-      "暗": 5
+      "暗": 6
     },
     "attack": 3,
     "cooldown": 0,
@@ -1629,13 +1629,13 @@
     "category": "暗",
     "subtype": "法术-神秘",
     "rarity": "普通",
-    "mana_cost": 3,
-    "activation_mana": 2,
+    "mana_cost": 2,
+    "activation_mana": 1,
     "tech_requirement": {
-      "暗": 7
+      "暗": 9
     },
     "attack": 6,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "范围：敌方全场。额外费用：支付3点人物生命。",
     "quote": "投入深渊......走向一切的终结",
     "source": "暗",
@@ -1674,13 +1674,13 @@
     "rarity": "传奇",
     "mana_cost": 4,
     "tech_requirement": {
-      "地": 5
+      "地": 7
     },
     "elements_gain": {
       "地": 1
     },
     "attack": 0,
-    "life": 4,
+    "life": 3,
     "description": "入场：从你的手牌或卡组学习1个符合负载条件的地脉属性技能牌。光环：你的技能槽数量+2",
     "quote": "\"我亲爱的孩子,只要问我,我便会答复,有关生命,平衡,以及大地\"",
     "source": "地",
@@ -1698,10 +1698,10 @@
     "rarity": "传奇",
     "mana_cost": 4,
     "tech_requirement": {
-      "地": 8
+      "地": 10
     },
-    "attack": 4,
-    "life": 8,
+    "attack": 3,
+    "life": 6,
     "description": "入场：你可以从手牌召唤1个地脉属性伙伴，无需支付其入场法力，仍须满足其负载条件。",
     "quote": "\"该死的杂种...不好,怎么还有这么多\"",
     "source": "地",
@@ -1724,8 +1724,8 @@
     "elements_gain": {
       "地": 2
     },
-    "attack": 1,
-    "life": 3,
+    "attack": 0,
+    "life": 2,
     "description": "",
     "quote": "",
     "source": "地",
@@ -1768,7 +1768,7 @@
     },
     "attack": 1,
     "life": 2,
-    "description": "精通4：获得+2\\血。精通6：获得+2\\攻。精通8：获得+1\\地负载。",
+    "description": "精通5：获得+2\\血。精通8：获得+2\\攻。精通10：获得+1\\地负载。",
     "quote": "每一棵小树,都是未来树林的支柱",
     "source": "地",
     "art_ref": "1421003",
@@ -1789,7 +1789,7 @@
     },
     "attack": 1,
     "life": 4,
-    "description": "精通4,6：获得+1\\血+1\\攻",
+    "description": "精通5,8：获得+1\\血+1\\攻",
     "quote": "",
     "source": "地",
     "art_ref": "1421004",
@@ -1811,8 +1811,8 @@
     "elements_gain": {
       "地": 1
     },
-    "attack": 1,
-    "life": 2,
+    "attack": 0,
+    "life": 3,
     "description": "",
     "quote": "",
     "source": "地",
@@ -1849,7 +1849,7 @@
     "category": "地",
     "subtype": "精灵",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "tech_requirement": {
       "地": 2
     },
@@ -1858,7 +1858,7 @@
     },
     "attack": 0,
     "life": 1,
-    "description": "主动绝技：支付1\\法并横置此伙伴，使1个其他友方地属性伙伴获得1\\地负载。",
+    "description": "主动绝技：支付2\\法并横置此伙伴，使1个其他友方地属性伙伴获得1\\地负载。",
     "quote": "",
     "source": "地",
     "art_ref": "1421009",
@@ -1875,7 +1875,7 @@
     "rarity": "普通",
     "mana_cost": 3,
     "tech_requirement": {
-      "地": 4
+      "地": 5
     },
     "attack": 2,
     "life": 4,
@@ -1903,7 +1903,7 @@
     },
     "attack": 1,
     "life": 2,
-    "description": "精通5：抽1张牌",
+    "description": "精通6：抽1张牌",
     "quote": "",
     "source": "地",
     "art_ref": "1421010",
@@ -1923,7 +1923,7 @@
       "地": 3
     },
     "attack": 1,
-    "life": 4,
+    "life": 3,
     "description": "此卡受到攻击时，此卡造成的伤害+2",
     "quote": "",
     "source": "地",
@@ -1968,7 +1968,7 @@
       "地": 1
     },
     "attack": 1,
-    "life": 4,
+    "life": 3,
     "description": "",
     "quote": "",
     "source": "地",
@@ -1986,10 +1986,10 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "地": 9
+      "地": 10
     },
-    "attack": 5,
-    "life": 9,
+    "attack": 3,
+    "life": 6,
     "description": "光环：受到的所有伤害减少1点。此卡攻击会对相邻单位也造成伤害",
     "quote": "",
     "source": "地",
@@ -2010,7 +2010,7 @@
       "地": 4
     },
     "attack": 3,
-    "life": 5,
+    "life": 3,
     "description": "入场：你获得2点护盾。",
     "quote": "",
     "source": "地",
@@ -2028,10 +2028,10 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "地": 5
+      "地": 7
     },
     "attack": 4,
-    "life": 8,
+    "life": 7,
     "description": "",
     "quote": "",
     "source": "地",
@@ -2049,10 +2049,10 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "地": 6
+      "地": 8
     },
     "attack": 4,
-    "life": 9,
+    "life": 8,
     "description": "",
     "quote": "",
     "source": "地",
@@ -2070,10 +2070,10 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "地": 7
+      "地": 9
     },
     "attack": 5,
-    "life": 10,
+    "life": 8,
     "description": "",
     "quote": "",
     "source": "地",
@@ -2094,7 +2094,7 @@
       "地": 3
     },
     "attack": 3,
-    "life": 5,
+    "life": 4,
     "description": "",
     "quote": "",
     "source": "地",
@@ -2135,7 +2135,7 @@
     "attack": 0,
     "life": 16,
     "skill_slots": 3,
-    "description": "诱发绝技：本局游戏中，你打出的第一张1张负载条件大于等于5的卡牌入场花费减少2点，但不小于0。",
+    "description": "诱发绝技：本局游戏中，你打出的第一张1张负载条件大于等于6的卡牌入场花费减少2点，但不小于0。",
     "quote": "《地理学入门》成功将没人听得懂的东西,弄成了没人愿意听的东西",
     "source": "人物",
     "art_ref": "4411003",
@@ -2197,7 +2197,7 @@
     "elements_gain": {
       "地": 1
     },
-    "description": "光环：如果你有至少5点\\地负载，将你的法力上限提升1",
+    "description": "光环：如果你有至少6点\\地负载，将你的法力上限提升1",
     "quote": "在这参天的身躯之下潜藏的意志究竟是什么或许只是知识本身",
     "source": "地",
     "art_ref": "2411001",
@@ -2304,7 +2304,7 @@
     "elements_gain": {
       "地": 1
     },
-    "description": "光环：你的负载条件大于5的地脉卡牌入场法力值消耗-1",
+    "description": "光环：你的负载条件大于6的地脉卡牌入场法力值消耗-1",
     "quote": "",
     "source": "地",
     "art_ref": "2421013",
@@ -2459,7 +2459,7 @@
     "rarity": "普通",
     "mana_cost": 2,
     "tech_requirement": {
-      "地": 5
+      "地": 6
     },
     "attack": 4,
     "description": "",
@@ -2494,11 +2494,11 @@
     "category": "地",
     "subtype": "消耗品-咒术卷轴-幻变",
     "rarity": "普通",
-    "mana_cost": 2,
+    "mana_cost": 3,
     "tech_requirement": {
-      "地": 5
+      "地": 6
     },
-    "description": "敌方下个回合不能使用负载条件5及以下的法术",
+    "description": "敌方下个回合不能使用负载条件6及以下的法术",
     "quote": "",
     "source": "地",
     "art_ref": "2421010",
@@ -2513,13 +2513,13 @@
     "category": "地",
     "subtype": "法术-驱动",
     "rarity": "普通",
-    "mana_cost": 3,
-    "activation_mana": 2,
+    "mana_cost": 2,
+    "activation_mana": 1,
     "tech_requirement": {
-      "地": 7
+      "地": 9
     },
-    "attack": 5,
-    "cooldown": 2,
+    "attack": 6,
+    "cooldown": 1,
     "description": "范围：前排。",
     "quote": "",
     "source": "地",
@@ -2598,12 +2598,12 @@
     "category": "地",
     "subtype": "咒术-幻变",
     "rarity": "普通",
-    "mana_cost": 2,
+    "mana_cost": 1,
     "activation_mana": 2,
     "tech_requirement": {
       "地": 2
     },
-    "cooldown": 1,
+    "cooldown": 0,
     "description": "选择1个地脉属性的友方伙伴，使其获得1点\\地负载。",
     "quote": "",
     "source": "地",
@@ -2667,8 +2667,8 @@
     "tech_requirement": {
       "地": 6
     },
-    "attack": 3,
-    "cooldown": 2,
+    "attack": 2,
+    "cooldown": 1,
     "description": "范围：方阵。使目标获得眩晕1。",
     "quote": "",
     "source": "地",
@@ -2687,10 +2687,10 @@
     "mana_cost": 2,
     "activation_mana": 0,
     "tech_requirement": {
-      "地": 5
+      "地": 6
     },
     "attack": 4,
-    "cooldown": 1,
+    "cooldown": 0,
     "description": "",
     "quote": "",
     "source": "地",
@@ -2729,7 +2729,7 @@
     "mana_cost": 1,
     "activation_mana": 0,
     "tech_requirement": {
-      "地": 5
+      "地": 6
     },
     "cooldown": 1,
     "description": "你本回合下一次施放的地属性法术攻击力+2。",
@@ -2749,13 +2749,13 @@
     "rarity": "传奇",
     "mana_cost": 4,
     "tech_requirement": {
-      "火": 7
+      "火": 9
     },
     "elements_gain": {
       "火": 2
     },
     "attack": 5,
-    "life": 9,
+    "life": 8,
     "description": "吞噬：包含3点\\火负载的卡牌。绑定技能：火焰吐息。",
     "quote": "不可一世的巨龙，为了残存的火焰元素，向巫师们尽忠",
     "source": "火",
@@ -2773,9 +2773,9 @@
     "rarity": "传奇",
     "mana_cost": 2,
     "tech_requirement": {
-      "火": 4
+      "火": 6
     },
-    "attack": 3,
+    "attack": 2,
     "life": 4,
     "description": "光环：敌方单位受到的点燃伤害+1",
     "quote": "始于灰烬,终于灰烬",
@@ -2818,7 +2818,7 @@
       "火": 2
     },
     "attack": 2,
-    "life": 2,
+    "life": 3,
     "description": "",
     "quote": "",
     "source": "火",
@@ -2862,7 +2862,7 @@
       "火": 2
     },
     "attack": 1,
-    "life": 2,
+    "life": 3,
     "description": "速攻。",
     "quote": "",
     "source": "火",
@@ -3015,7 +3015,7 @@
       "火": 4
     },
     "attack": 4,
-    "life": 5,
+    "life": 4,
     "description": "",
     "quote": "",
     "source": "火",
@@ -3036,7 +3036,7 @@
       "火": 3
     },
     "attack": 2,
-    "life": 2,
+    "life": 3,
     "description": "远程。",
     "quote": "谁能拒绝将一切燃烧殆尽的快乐呢",
     "source": "火",
@@ -3060,7 +3060,7 @@
       "火": 2
     },
     "attack": 0,
-    "life": 4,
+    "life": 2,
     "description": "",
     "quote": "",
     "source": "火",
@@ -3081,7 +3081,7 @@
       "火": 4
     },
     "attack": 2,
-    "life": 5,
+    "life": 4,
     "description": "诱发：此卡攻击造成伤害后，使目标单位获得点燃2。",
     "quote": "",
     "source": "火",
@@ -3125,7 +3125,7 @@
     "tech_requirement": {
       "火": 4
     },
-    "attack": 4,
+    "attack": 3,
     "life": 4,
     "description": "速攻。",
     "quote": "",
@@ -3144,10 +3144,10 @@
     "rarity": "普通",
     "mana_cost": 3,
     "tech_requirement": {
-      "火": 5
+      "火": 6
     },
     "attack": 4,
-    "life": 6,
+    "life": 5,
     "description": "",
     "quote": "",
     "source": "火",
@@ -3165,10 +3165,10 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "火": 6
+      "火": 8
     },
     "attack": 5,
-    "life": 8,
+    "life": 7,
     "description": "",
     "quote": "",
     "source": "火",
@@ -3395,10 +3395,10 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "火": 4
+      "火": 5
     },
     "elements_gain": {
-      "火": 2
+      "火": 1
     },
     "description": "入场：你每有1点\\火负载，获得1点护盾",
     "quote": "",
@@ -3593,10 +3593,10 @@
     "category": "火",
     "subtype": "衍生-法术-聚能",
     "rarity": "衍生",
-    "mana_cost": 3,
-    "activation_mana": 2,
+    "mana_cost": 2,
+    "activation_mana": 1,
     "tech_requirement": {
-      "火": 5
+      "火": 6
     },
     "attack": 0,
     "cooldown": 1,
@@ -3617,7 +3617,7 @@
     "rarity": "衍生",
     "activation_mana": 0,
     "attack": 3,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "速攻。范围：前排",
     "quote": "",
     "source": "衍生",
@@ -3633,13 +3633,13 @@
     "category": "火",
     "subtype": "法术-神秘",
     "rarity": "普通",
-    "mana_cost": 4,
-    "activation_mana": 2,
+    "mana_cost": 3,
+    "activation_mana": 1,
     "tech_requirement": {
-      "火": 7
+      "火": 10
     },
     "attack": 5,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "范围：敌方全场。使目标获得点燃2",
     "quote": "“努尔已经被战争和毁灭蒙蔽双眼，而洛普修斯将引领我们向往更辉煌的终点！”",
     "source": "火",
@@ -3767,10 +3767,10 @@
     "mana_cost": 2,
     "activation_mana": 1,
     "tech_requirement": {
-      "火": 4
+      "火": 5
     },
-    "attack": 2,
-    "cooldown": 2,
+    "attack": 3,
+    "cooldown": 1,
     "description": "范围：敌方实际前排。",
     "quote": "",
     "source": "火",
@@ -3786,13 +3786,13 @@
     "category": "火",
     "subtype": "法术-创造",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "activation_mana": 1,
     "tech_requirement": {
-      "火": 5
+      "火": 6
     },
     "attack": 3,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "范围：方阵。",
     "quote": "",
     "source": "火",
@@ -3808,13 +3808,13 @@
     "category": "火",
     "subtype": "法术-创造",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "activation_mana": 1,
     "tech_requirement": {
-      "火": 5
+      "火": 6
     },
     "attack": 3,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "范围：纵列。",
     "quote": "",
     "source": "火",
@@ -3830,13 +3830,13 @@
     "category": "火",
     "subtype": "法术-驱动",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "activation_mana": 1,
     "tech_requirement": {
-      "火": 6
+      "火": 8
     },
-    "attack": 4,
-    "cooldown": 1,
+    "attack": 5,
+    "cooldown": 0,
     "description": "穿透。",
     "quote": "",
     "source": "火",
@@ -3875,10 +3875,10 @@
     "rarity": "传奇",
     "mana_cost": 4,
     "tech_requirement": {
-      "气": 7
+      "气": 9
     },
-    "attack": 4,
-    "life": 7,
+    "attack": 3,
+    "life": 6,
     "description": "入场：将1个前排敌方伙伴返回其拥有者手牌，然后抽2张牌。",
     "quote": "跨四境,御九霄",
     "source": "气",
@@ -3941,7 +3941,7 @@
       "气": 2
     },
     "attack": 2,
-    "life": 2,
+    "life": 3,
     "description": "",
     "quote": "工蜂可能是一次性的,但是骑士不是",
     "source": "气",
@@ -3986,7 +3986,7 @@
       "气": 1
     },
     "attack": 1,
-    "life": 1,
+    "life": 2,
     "description": "遗言：抽1张牌。",
     "quote": "记得避开艾拉雅",
     "source": "气",
@@ -4120,7 +4120,7 @@
     "elements_gain": {
       "气": 1
     },
-    "attack": 1,
+    "attack": 0,
     "life": 2,
     "description": "主动回合技1：支付1法力并横置此伙伴，将1个其他友方伙伴移动至己方单位区1个空位。",
     "quote": "",
@@ -4202,10 +4202,10 @@
     "rarity": "普通",
     "mana_cost": 3,
     "tech_requirement": {
-      "气": 5
+      "气": 6
     },
     "attack": 4,
-    "life": 6,
+    "life": 5,
     "description": "",
     "quote": "",
     "source": "气",
@@ -4226,7 +4226,7 @@
       "气": 4
     },
     "attack": 2,
-    "life": 5,
+    "life": 4,
     "description": "诱发回合技1：己方回合，你首次施放气属性技能结算后，抽1张牌。",
     "quote": "",
     "source": "气",
@@ -4244,10 +4244,10 @@
     "rarity": "普通",
     "mana_cost": 3,
     "tech_requirement": {
-      "气": 5
+      "气": 6
     },
     "attack": 3,
-    "life": 7,
+    "life": 6,
     "description": "",
     "quote": "",
     "source": "气",
@@ -4265,7 +4265,7 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "气": 6
+      "气": 8
     },
     "attack": 3,
     "life": 8,
@@ -4286,10 +4286,10 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "气": 6
+      "气": 8
     },
     "attack": 4,
-    "life": 8,
+    "life": 6,
     "description": "入场：抽1张牌。",
     "quote": "",
     "source": "气",
@@ -4387,7 +4387,7 @@
     "rarity": "传奇",
     "mana_cost": 4,
     "tech_requirement": {
-      "气": 6
+      "气": 8
     },
     "elements_gain": {
       "气": 1
@@ -4598,7 +4598,7 @@
     "rarity": "普通",
     "mana_cost": 2,
     "tech_requirement": {
-      "气": 5
+      "气": 6
     },
     "attack": 2,
     "description": "范围：方阵。命中后：目标获得眩晕1。",
@@ -4712,13 +4712,13 @@
     "category": "气",
     "subtype": "法术-驱动",
     "rarity": "普通",
-    "mana_cost": 3,
-    "activation_mana": 2,
+    "mana_cost": 2,
+    "activation_mana": 1,
     "tech_requirement": {
-      "气": 7
+      "气": 9
     },
     "attack": 6,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "范围：纵列。穿透。结算后：抽2张牌。",
     "quote": "",
     "source": "气",
@@ -4784,7 +4784,7 @@
       "气": 2
     },
     "attack": 1,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "命中后：目标获得眩晕1。",
     "quote": "",
     "source": "气",
@@ -4822,13 +4822,13 @@
     "category": "气",
     "subtype": "法术-创造",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "activation_mana": 1,
     "tech_requirement": {
-      "气": 5
+      "气": 6
     },
     "attack": 3,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "你可以额外选择1个法力范围内的其他敌方单位。",
     "quote": "",
     "source": "气",
@@ -4849,7 +4849,7 @@
     "tech_requirement": {
       "气": 2
     },
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "抽2张牌。",
     "quote": "",
     "source": "气",
@@ -4886,13 +4886,13 @@
     "category": "气",
     "subtype": "法术-聚能",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "activation_mana": 1,
     "tech_requirement": {
-      "气": 6
+      "气": 8
     },
     "attack": 4,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "范围：纵列。",
     "quote": "",
     "source": "气",
@@ -4908,13 +4908,13 @@
     "category": "气",
     "subtype": "法术-驱动",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "activation_mana": 1,
     "tech_requirement": {
-      "气": 6
+      "气": 8
     },
-    "attack": 4,
-    "cooldown": 1,
+    "attack": 5,
+    "cooldown": 0,
     "description": "穿透。",
     "quote": "",
     "source": "气",
@@ -4953,7 +4953,7 @@
     "rarity": "传奇",
     "mana_cost": 3,
     "tech_requirement": {
-      "光": 5
+      "光": 6
     },
     "attack": 2,
     "life": 5,
@@ -4974,10 +4974,10 @@
     "rarity": "传奇",
     "mana_cost": 4,
     "tech_requirement": {
-      "光": 8
+      "光": 10
     },
-    "attack": 4,
-    "life": 9,
+    "attack": 3,
+    "life": 6,
     "description": "入场：所有友方单位各回复4点生命。光环：其他友方伙伴受到敌方法术攻击力造成的伤害减少2，最低为0。",
     "quote": "希望之名,慈悲之怀",
     "source": "光",
@@ -5019,7 +5019,7 @@
       "光": 2
     },
     "attack": 1,
-    "life": 3,
+    "life": 4,
     "description": "",
     "quote": "被巫师学徒们戏称为\"澡堂门卫\"",
     "source": "光",
@@ -5127,10 +5127,10 @@
     "rarity": "普通",
     "mana_cost": 3,
     "tech_requirement": {
-      "光": 5
+      "光": 6
     },
     "attack": 3,
-    "life": 7,
+    "life": 6,
     "description": "",
     "quote": "",
     "source": "光",
@@ -5172,7 +5172,7 @@
       "光": 4
     },
     "attack": 3,
-    "life": 5,
+    "life": 4,
     "description": "入场：使1个友方单位回复2点生命。",
     "quote": "",
     "source": "光",
@@ -5211,10 +5211,10 @@
     "rarity": "普通",
     "mana_cost": 3,
     "tech_requirement": {
-      "光": 5
+      "光": 6
     },
     "attack": 3,
-    "life": 6,
+    "life": 5,
     "description": "诱发回合技1：己方回合，你的光属性法术造成伤害后，使1个友方单位回复2点生命。",
     "quote": "",
     "source": "光",
@@ -5253,7 +5253,7 @@
     "rarity": "普通",
     "mana_cost": 1,
     "attack": 1,
-    "life": 2,
+    "life": 3,
     "description": "",
     "quote": "",
     "source": "光",
@@ -5299,7 +5299,7 @@
       "光": 2
     },
     "attack": 0,
-    "life": 4,
+    "life": 2,
     "description": "",
     "quote": "",
     "source": "光",
@@ -5316,10 +5316,10 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "光": 6
+      "光": 8
     },
     "attack": 4,
-    "life": 8,
+    "life": 6,
     "description": "入场：使1个其他友方伙伴回复3点生命。",
     "quote": "",
     "source": "光",
@@ -5336,10 +5336,10 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "光": 7
+      "光": 9
     },
     "attack": 4,
-    "life": 9,
+    "life": 6,
     "description": "入场：抽2张牌。",
     "quote": "",
     "source": "光",
@@ -5360,7 +5360,7 @@
       "光": 2
     },
     "attack": 1,
-    "life": 4,
+    "life": 3,
     "description": "入场：如果你没有护盾，获得护盾2",
     "quote": "",
     "source": "光",
@@ -5457,7 +5457,7 @@
     "rarity": "传奇",
     "mana_cost": 3,
     "tech_requirement": {
-      "光": 4
+      "光": 5
     },
     "elements_gain": {
       "光": 1
@@ -5742,9 +5742,9 @@
     "rarity": "普通",
     "mana_cost": 1,
     "tech_requirement": {
-      "光": 3
+      "光": 4
     },
-    "description": "反制：敌方宣告使用负载要求不超过6的法术技能或法术卷轴时，使该次法术无效。",
+    "description": "反制：敌方宣告使用负载要求不超过8的法术技能或法术卷轴时，使该次法术无效。",
     "quote": "",
     "source": "光",
     "art_ref": "2521002",
@@ -5848,7 +5848,7 @@
       "光": 3
     },
     "attack": 2,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "命中：目标获得眩晕1。",
     "quote": "",
     "source": "光",
@@ -5907,13 +5907,13 @@
     "category": "光",
     "subtype": "法术-聚能",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "activation_mana": 1,
     "tech_requirement": {
-      "光": 5
+      "光": 6
     },
     "attack": 3,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "范围：敌方实际前排。命中：目标获得眩晕1。",
     "quote": "",
     "source": "光",
@@ -5929,13 +5929,13 @@
     "category": "光",
     "subtype": "法术-驱动",
     "rarity": "普通",
-    "mana_cost": 3,
+    "mana_cost": 2,
     "activation_mana": 1,
     "tech_requirement": {
-      "光": 6
+      "光": 8
     },
     "attack": 4,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "范围：纵列。",
     "quote": "",
     "source": "光",
@@ -5972,12 +5972,12 @@
     "category": "光",
     "subtype": "法术-聚能",
     "rarity": "普通",
-    "mana_cost": 3,
-    "activation_mana": 1,
+    "mana_cost": 2,
+    "activation_mana": 0,
     "tech_requirement": {
-      "光": 6
+      "光": 8
     },
-    "attack": 5,
+    "attack": 6,
     "cooldown": 0,
     "description": "仅能以伙伴为目标。",
     "quote": "",
@@ -5994,13 +5994,13 @@
     "category": "光",
     "subtype": "法术-神秘",
     "rarity": "普通",
-    "mana_cost": 3,
-    "activation_mana": 2,
+    "mana_cost": 2,
+    "activation_mana": 1,
     "tech_requirement": {
-      "光": 7
+      "光": 9
     },
     "attack": 4,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "范围：敌方全场。结算后，使所有友方单位各回复3点生命。",
     "quote": "",
     "source": "光",
@@ -6020,7 +6020,7 @@
       "水": 4
     },
     "attack": 2,
-    "life": 5,
+    "life": 4,
     "description": "入场：可以检索1张水纹卡牌。",
     "quote": "合上眼睛，她回忆起曾经的海浪，礁石...以及她信任的那位王子",
     "source": "水",
@@ -6038,10 +6038,10 @@
     "rarity": "传奇",
     "mana_cost": 4,
     "tech_requirement": {
-      "水": 8
+      "水": 10
     },
-    "attack": 4,
-    "life": 9,
+    "attack": 3,
+    "life": 7,
     "description": "主动回合技：消灭1个法力范围内的敌方伙伴。",
     "quote": "\"只有一人能从巨口中存活，他便是那怪物命中注定的斩杀者\"",
     "source": "水",
@@ -6079,7 +6079,7 @@
     "rarity": "普通",
     "mana_cost": 1,
     "attack": 1,
-    "life": 2,
+    "life": 3,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6099,7 +6099,7 @@
       "水": 2
     },
     "attack": 1,
-    "life": 3,
+    "life": 4,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6274,7 +6274,7 @@
       "水": 1
     },
     "attack": 1,
-    "life": 4,
+    "life": 3,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6297,8 +6297,8 @@
     "elements_gain": {
       "水": 1
     },
-    "attack": 1,
-    "life": 3,
+    "attack": 0,
+    "life": 2,
     "description": "入场：你获得2点护盾。",
     "quote": "",
     "source": "水",
@@ -6319,7 +6319,7 @@
       "水": 3
     },
     "attack": 1,
-    "life": 6,
+    "life": 5,
     "description": "诱发回合技1：此伙伴受到其他单位的攻击伤害后，使该伤害来源获得冻结1。",
     "quote": "",
     "source": "水",
@@ -6342,7 +6342,7 @@
     "elements_gain": {
       "水": 1
     },
-    "attack": 1,
+    "attack": 0,
     "life": 3,
     "description": "主动回合技：使你的1个水纹法术本回合获得+1\\攻",
     "quote": "",
@@ -6382,10 +6382,10 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "水": 5
+      "水": 7
     },
     "attack": 3,
-    "life": 9,
+    "life": 8,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6403,10 +6403,10 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "水": 6
+      "水": 8
     },
     "attack": 4,
-    "life": 9,
+    "life": 8,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6424,10 +6424,10 @@
     "rarity": "普通",
     "mana_cost": 4,
     "tech_requirement": {
-      "水": 7
+      "水": 9
     },
     "attack": 5,
-    "life": 10,
+    "life": 8,
     "description": "",
     "quote": "",
     "source": "水",
@@ -6772,7 +6772,7 @@
     "rarity": "普通",
     "mana_cost": 1,
     "tech_requirement": {
-      "水": 5
+      "水": 6
     },
     "description": "重置你的1个水纹属性技能，如果其处于冷却状态，改为减少1层冷却",
     "quote": "",
@@ -6848,13 +6848,13 @@
     "category": "水",
     "subtype": "法术-驱动",
     "rarity": "普通",
-    "mana_cost": 3,
-    "activation_mana": 2,
+    "mana_cost": 2,
+    "activation_mana": 1,
     "tech_requirement": {
-      "水": 7
+      "水": 9
     },
     "attack": 5,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "范围：敌方全场。",
     "quote": "参天的浪潮裹挟着天空，随后便是利齿，以及无尽的黑暗",
     "source": "水",
@@ -6898,7 +6898,7 @@
       "水": 2
     },
     "attack": 1,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "命中使目标获得冻结1。",
     "quote": "",
     "source": "水",
@@ -7006,7 +7006,7 @@
       "水": 3
     },
     "attack": 2,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "范围：前排。",
     "quote": "",
     "source": "水",
@@ -7025,10 +7025,10 @@
     "mana_cost": 2,
     "activation_mana": 1,
     "tech_requirement": {
-      "水": 5
+      "水": 6
     },
     "attack": 3,
-    "cooldown": 2,
+    "cooldown": 1,
     "description": "范围：方阵。",
     "quote": "",
     "source": "水",
@@ -7047,9 +7047,9 @@
     "mana_cost": 2,
     "activation_mana": 0,
     "tech_requirement": {
-      "水": 6
+      "水": 8
     },
-    "attack": 4,
+    "attack": 5,
     "cooldown": 0,
     "description": "",
     "quote": "归来的勇士跃向无底的巨口，鳞甲深处是它跳动的心脏",
@@ -7069,10 +7069,10 @@
     "mana_cost": 2,
     "activation_mana": 1,
     "tech_requirement": {
-      "水": 5
+      "水": 6
     },
     "attack": 3,
-    "cooldown": 1,
+    "cooldown": 0,
     "description": "穿透。",
     "quote": "",
     "source": "水",
