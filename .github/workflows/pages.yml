@@ -1,0 +1,63 @@
+name: Deploy card images to Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install image optimizer
+        run: |
+          sudo apt-get update
+          sudo apt-get install --yes imagemagick
+
+      - name: Prepare compact Pages site
+        shell: bash
+        run: |
+          mkdir _site
+          rsync -a \
+            --exclude '.git' \
+            --exclude '.github' \
+            --exclude '.vscode' \
+            --exclude 'upload.py' \
+            ./ _site/
+          touch _site/.nojekyll
+          find _site/output _site/new_output \
+            -type f \( -iname '*.jpg' -o -iname '*.jpeg' \) -print0 \
+            | xargs -0 -r -n 32 -P "$(nproc)" \
+                mogrify -resize '590x860>' -strip -quality 88
+          du -sh _site
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    timeout-minutes: 20
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
